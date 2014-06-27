@@ -3,10 +3,11 @@ title: The Sun and the Good
 tagline: An examination of the claim that the Good is "beyond being" in *Republic* VI. Presented to the Society for Ancient Greek Philosophy, Fordham University, October 2013.
 author: Dan Sheffler
 date: 2013-10-08
-layout: default
+layout: paper
 ---
 
 # The Sun and the Good #
+
 
 What place does the Good have in Plato's ontology? One answer to this question is that the Good is a form just like the other forms and that Plato's metaphysical account of it does not vary dramatically from the account he gives of the forms in general. Traditionally, however, Platonists have given quite another answer. According to this tradition, the Good occupies a place distinct from the other forms because it is their ontological ground or source and therefore lies beyond both being and intelligibility. In arbitrating between these two views, the analogy of the sun in *Republic* VI is of central importance. I propose, therefore, to examine this passage closely and determine just how much evidence it yields in favor of each view. I begin by giving a brief overview of the traditional approach, taking Plotinus and Pseudo-Dionysius as representative exponents. I then devote the main body of the essay to a close reading of the passage in question together with some analysis of the philosophical difficulties it posses. Ultimately I conclude that the passage does support the traditional reading, but that this support is not nearly as evident as we may at first suppose and relies on the importation of a logic never made explicit in the text.
 

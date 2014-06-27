@@ -5,13 +5,90 @@ color:#333;
 font-family: 'Minion Pro', Palatino, Georgia, Times, 'Times New Roman', serif;
 font-size:1.75em;
 line-height:1.5em;
-padding:1em;
-margin:auto;
-max-width:33em;
 background:#fdfdfd;
 text-rendering: optimizeLegibility;
 -webkit-font-smoothing: antialiased;
 }
+
+#content-wrapper {
+margin:1em auto;
+max-width:33em;
+}
+
+.shift-left {
+    padding-right: 12em;
+}
+
+
+
+#toc-show-hide {
+    height: 2em;
+    width: 2em;
+    background: #fdfdfd;
+    background-image: url('/toc-button.png');
+    background-size: 2em 2em;
+    background-repeat: no-repeat;
+    position: fixed;
+    right: 0.5em;
+    top: 1em;
+}
+
+.tocify {
+width: 12em;
+max-height: 100%;
+overflow: auto;
+margin-left: 1em;
+position: fixed;
+right:-12em;
+border: none;
+z-index: 1;
+top: 1em;
+}
+
+.tocify ul, .tocify li {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    border: none;
+}
+
+.tocify li {
+    min-height: 1.8em;
+    padding-left: 0.3em;
+    line-height: 1.8em;
+}
+
+.tocify ul.tocify-header { padding-top: 5px; }
+
+.tocify a, .tocify a:visited { color:#333 } 
+
+/* Top level header elements */
+.tocify-header {
+}
+
+/* Top level subheader elements.  These are the first nested items underneath a header element. */
+.tocify-subheader {
+    text-indent: 0.4em;
+}
+
+.tocify-item {
+    font-size:0.9em;
+    padding: 0.2em;
+}
+.tocify-item.active {
+    background: #eee;
+}
+
+
+/* Makes the font smaller for all subheader elements. */
+.tocify-subheader li {
+}
+
+/* Further indents second level subheader elements. */
+.tocify-subheader .tocify-subheader {
+    text-indent:0.8em;
+}
+
 
 .wrap:before,
 .wrap:after { content:""; display:table; }
@@ -250,14 +327,19 @@ hr:after {
 }
 
 
-@media (max-width: 1100px) {
+@media (max-width: 1400px) {
 body{font-size:1.5em;}
 }
-@media (max-width: 900px) {
+@media (max-width: 1200px) {
 body{font-size:1.3em;}
 }
-@media (max-width: 750px) {
+@media (max-width: 1020px) {
 body{font-size:1.1em;}
+}
+@media (max-width: 850px) {
+body{font-size:0.9em;}
+#toc{display:none;}
+#toc-show-hide{display:none;}
 }
 
 /* iPad Landscape */

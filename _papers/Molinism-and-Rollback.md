@@ -3,10 +3,10 @@ title: Why Molinism Does Not Help with the Rollback Argument
 tagline: A response to Robert Hartman's proposal that Molinism provides a solution to Peter van Inwagen's Rollback Argument. Presented to the Society of Christian Philosophers, Trinity College, March 2014.
 author: Dan Sheffler
 date: 2013-04-15
-layout: default
+layout: paper
 ---
 
-## Why Molinism Does Not Help with the Rollback Argument ##
+# Why Molinism Does Not Help with the Rollback Argument #
 
 Peter Van Inwagen's Rollback Argument presents the libertarian with a puzzle: the libertarian insists that freedom is incompatible with determinism, but the Rollback Argument purports to show that freedom is also incompatible with *in*determinism.[@inwagen00] Van Inwagen asks us to consider what would happen if God were to roll the universe back over and over again to a point just before an agent makes an indeterministic choice. In some repetitions the agent acts one way, in some another, evoking the sense that what she does is a matter of mere chance. Last year, at the SCP meeting in Georgetown, Robert Hartman gave an excellent paper in which he seeks to show that Molinism provides a solution to Van Inwagen's puzzle.  He claims that the fixed truth values of Molinism's "Counterfactuals of Creaturely Freedom" (CCFs) sidestep the central mechanism of the thought experiment.[^2] I agree with Hartman's solution to van Inwagen's problem as it stands but I will argue that he unfortunately pushes the threat of chanciness to elsewhere in his ontology. To show this, we will need to rework van Inwagen's original thought experiment into a modal version. Rather than God rolling the universe back, I describe God picking at random from a set of possible worlds with identical histories up to the point when the agent makes her choice. While Hartman can respond to the original version, he cannot respond in the same way to the new.
 

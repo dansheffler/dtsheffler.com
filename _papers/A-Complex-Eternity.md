@@ -3,10 +3,10 @@ title: A Complex Eternity
 tagline: A modest proposal for rethinking the dichotomy between temporalism and atemporalism with respect to God's eternity. Presented to the Society of Christian Philosophers, Georgetown University, April 2013.
 author: Dan Sheffler
 date: 2014-06-26
-layout: default
+layout: paper
 ---
 
-# A Complex Eternity  #
+# A Complex Eternity #
 
 One of the central issues in the philosophy of religion is the relationship between God and time. In the contemporary discussion, the issue is framed between the two opposing positions of eternalism and temporalism. The eternalist claims that God is altogether timeless while the temporalist claims that God is somehow "in" time. We may wonder, however, whether these two positions exhaust the available options. In this essay I hope to show that God may be similar to temporal entities in some respects but not in others. The dichotomy between "inside" and "outside" of time is therefore too simplistic a treatment. I will motivate this view in three ways. First, I will distinguish between a strong and a weak sense of "timeless" and show that it is the strong sense that the eternalist typically needs. On the weak sense, an entity is timeless iff it is not temporal. On the strong sense, however, an entity is timeless iff it possesses none of those characteristics that characterize temporal beings as temporal. Second, I will show that the motivations which lead away from eternalism are not identical to the motivations which lead toward temporalism. One major reason for rejecting strong timelessness is the rejection of a whole philosophical and theological outlook driven by a thoroughgoing conception of divine simplicity. Once one has rejected this picture, however, one is not thereby forced to adopt a full-blown temporalism. Third, I offer an argument from the predication of complex actions to God for the view that God's eternity must be characterized by complexity and something analogous to our temporal *before* and *after* relations without thereby being altogether temporal. I offer this conclusion as a special case of the more general thesis that God is importantly similar to temporal entities in some respects but not in others.
 

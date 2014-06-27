@@ -1,0 +1,26 @@
+
+<footer class="site-footer">
+    <div id="toc"></div>
+    <div id="toc-show-hide"></div>
+
+    <script src="/js/jquery-1.8.3.min.js"></script>
+    <script src="/js/jquery-ui-1.9.1.custom.min.js"></script>
+    <script src="/js/jquery.tocify.js"></script>
+    <script>
+        $(function() {
+
+            var toc = $("#toc").tocify({
+                selectors: "h1,h2,h3,h4",
+                showAndHideOnScroll: false
+            }).data("toc-tocify");
+
+
+            $("#toc-show-hide").click(function(){
+                $("#content-wrapper").toggleClass("shift-left", 350);
+                $("#toc").toggleClass("shift-left", 350);
+                $("#toc-show-hide").toggleClass("shift-left", 350);
+            });
+
+        });
+    </script>
+</footer>
