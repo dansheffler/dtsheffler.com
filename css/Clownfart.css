@@ -45,9 +45,10 @@ text-rendering: optimizeLegibility;
 .site-nav .trigger a:hover{ color: #06e; }
 .site-title:hover{ color: #06e; }
 .post-date {margin-top: -2em; font-size: 0.9em; color: #999;}
+div.post{ margin-bottom: 5em }
 
 
-div.source { font-size: 0.7em; color: #999; margin-top:-1.2em }
+div.source { font-size: 0.7em; color: #999; margin-top:-1.2em; margin-bottom: 4em}
 
 
 a{ color: #0645ad; text-decoration:none;}
@@ -82,7 +83,6 @@ h3 a:hover { color: #06e; }
 h4 a, h4 a:visited {color:#333 }
 h4 a:hover { color: #06e; }
 
-div.post{ margin-bottom: 5em }
 
 h1,h2,h3,h4,h5,h6{
 font-weight:normal;
@@ -100,7 +100,7 @@ h6{ font-size:0.9em; }
 h4.paper { margin-bottom: 0; }
 
 div.tagline { font-size: 0.9em }
-div.tagline p { margin-top: 0 }
+div.tagline p { margin-top: 0.2em }
 
 blockquote{
 color:#666666;
