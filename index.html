@@ -1,0 +1,16 @@
+---
+layout: default
+---
+
+<div class="home">
+
+{% for post in site.posts %}
+<h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
+<div class="post-date">{{ post.date | date_to_long_string }}</div>
+<div class="post">{{ post.content }}</div>
+{% endfor %}
+
+
+
+
+</div>

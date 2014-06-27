@@ -1,0 +1,10 @@
+---
+title: Papers
+permalink: /papers/
+---
+
+{% for paper in site.papers %}
+<h4 class="paper"><a class="post-link" href="{{ paper.url | prepend: site.baseurl }}">{{ paper.title }}</a></h4>
+<div class="tagline">{{ paper.tagline | markdownify }}</div>
+{% endfor %}
+

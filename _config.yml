@@ -1,0 +1,34 @@
+# Site settings
+title:          dansheffler.com
+email:          ""
+description: ""
+baseurl: ""
+url:            "http:www.dansheffler.com"
+
+# Build settings
+markdown:       pandoc
+pandoc:
+    extensions:
+        - smart
+        - mathjax
+        - bibliography: '/Users/dansheffler/Library/texmf/bibtex/bib/mybib.bib'
+markdown_ext:   markdown,mkdown,mkdn,mkd,md
+permalink:      /blog/:year-:month-:day-:title
+encoding:       utf-8
+
+collections:
+  papers:
+    output: true
+
+defaults:
+  -
+    scope:
+      path: "" # empty string for all files
+    values:
+      layout: "default"
+  -
+    scope:
+      path: ""
+      type: "post"
+    values:
+      layout: "post" # overrides previous default layout
