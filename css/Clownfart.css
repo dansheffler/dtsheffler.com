@@ -47,6 +47,9 @@ text-rendering: optimizeLegibility;
 .post-date {margin-top: -2em; font-size: 0.9em; color: #999;}
 
 
+div.source { font-size: 0.7em; color: #999; margin-top:-1.2em }
+
+
 a{ color: #0645ad; text-decoration:none;}
 a:visited{ color: #0645ad; }
 a:hover{ color: #06e; }
@@ -70,8 +73,15 @@ img{
 max-width:100%;
 }
 
+h1 a, h1 a:visited {color:#333 }
+h1 a:hover { color: #06e; }
 h2 a, h2 a:visited {color:#333 }
 h2 a:hover { color: #06e; }
+h3 a, h3 a:visited {color:#333 }
+h3 a:hover { color: #06e; }
+h4 a, h4 a:visited {color:#333 }
+h4 a:hover { color: #06e; }
+
 div.post{ margin-bottom: 5em }
 
 h1,h2,h3,h4,h5,h6{

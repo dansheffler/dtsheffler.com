@@ -6,5 +6,18 @@ permalink: /papers/
 {% for paper in site.papers %}
 <h4 class="paper"><a class="post-link" href="{{ paper.url | prepend: site.baseurl }}">{{ paper.title }}</a></h4>
 <div class="tagline">{{ paper.tagline | markdownify }}</div>
+<div class="source">Source: 
+    <a class="source-link" href="{{ paper.path | remove: '/Users/dansheffler/Dropbox/dansheffler.com/' | prepend: 'https://github.com/dansheffler/dansheffler.com/blame/master/' }}">
+        md
+    </a>
+    | Paper version: 
+    <a class="pdf-link" href="{{ paper.path | remove: '/Users/dansheffler/Dropbox/dansheffler.com/_papers/' | prepend: '/assets/' | remove: '.md' | append: '.pdf' }}">
+        pdf
+    </a>
+    | Permalink: 
+    <a class="permalink" href="{{ paper.url | prepend: site.baseurl }}">
+        html
+    </a>
+</div>
 {% endfor %}
 
