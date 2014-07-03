@@ -196,9 +196,9 @@ pre { white-space: pre; white-space: pre-wrap; word-wrap: break-word; }
 
 body pre{
 font-family:Consolas,Menlo,"Courier New",monospace;
-font-size:16px;
+font-size:0.8em;
 line-height:25px;
-max-height: 10em;
+max-height: 20em;
 overflow-x:auto;
 overflow-y:auto;
 border:1px solid #d5d5d5;
@@ -209,6 +209,24 @@ padding-left: 10px;
 /*margin-left:-25px;*/
 }
 
+.gist {font-size:0.7em}
+
+.gist pre {
+max-height: none;
+}
+
+.gist-data.gist-syntax {
+max-height: 20em;
+}
+
+.gist table {
+margin: 0;
+border: 0;
+}
+
+.gist .gist-file .gist-data .line-data {
+width: 100%;
+}
 body p code {
   font-family:Consolas,Menlo,"Courier New",monospace;
   font-size:16px;
