@@ -195,7 +195,7 @@ pre { white-space: pre; white-space: pre-wrap; word-wrap: break-word; }
 /*Code Box */
 
 body pre{
-font-family:Consolas,Menlo,"Courier New",monospace;
+font-family:Consolas,Menlo,Courier,monospace;
 font-size:0.8em;
 line-height:25px;
 max-height: 20em;
@@ -225,15 +225,14 @@ border: 0;
 }
 
 .gist .gist-file .gist-data .line-data {
-width: 100%;
+    width: 100%;
 }
 body p code {
-  font-family:Consolas,Menlo,"Courier New",monospace;
-  font-size:16px;
-  line-height:25px;
-  max-height: 10em;
-  background-color:#fafafa;
-  border:1px solid #d5d5d5;
+    font-family:Consolas,Menlo,Courier,monospace;
+    font-size: 0.7em;
+    border: 1px solid #d5d5d5;
+    background: #f0f0f7;
+    padding: 0.3em 0.2em 0.1em 0.2em;
 }
 
 /*body pre::-webkit-scrollbar{
