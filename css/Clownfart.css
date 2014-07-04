@@ -151,6 +151,9 @@ img{
 max-width:100%;
 }
 
+figure {margin:0;}
+figcaption {display:none;}
+
 h1 a, h1 a:visited {color:#333 }
 h1 a:hover { color: #06e; }
 h2 a, h2 a:visited {color:#333 }
