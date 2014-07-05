@@ -15,4 +15,5 @@ So when I put a citation reference like `[@mccabe94 [page 41](sk://mccabe94#57)]
 
 Notice that there is a difference between a PDF page's "label" and its "index" the index is an integer with the first page of the PDF counting as 1. The page's label is a string and is often used to label the cover of a book or pages that use roman numerals.  Hence in McCabe's book, the page with the label "xii" has the index 14, while the page with the label "4" has the index 20.  URLs to specific pages always use the index because these are unambiguous, but when people refer to the "page number" in a book, they usually mean the page *label*.
 
+I originally got the idea for this from  [drosophiliac](http://webcache.googleusercontent.com/search?q=cache:GajblYFF3VQJ:drosophiliac.com/2012/09/creating-a-custom-url-scheme-via-applescript-and-python.html), which now appears to only be available through Google cache.
 

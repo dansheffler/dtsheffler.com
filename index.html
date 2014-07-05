@@ -7,7 +7,7 @@ layout: default
 {% for post in site.posts %}
 <div class="post">
     <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-    <div class="post-date">{{ post.date | date_to_long_string }}</div>
+    <div class="post-date">{{ post.date | date: "%-d %B %Y" }}</div>
     <div class="post-content">{{ post.content }}</div>
     <div class="source">Source: 
         <a class="source-link" href="{{ post.path | remove: '/Users/dansheffler/Dropbox/dansheffler.com/' | prepend: 'https://github.com/dansheffler/dansheffler.com/blame/master/' }}">
