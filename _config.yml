@@ -12,6 +12,7 @@ pandoc:
         - smart
         - mathjax
         - bibliography: '/Users/dansheffler/Library/texmf/bibtex/bib/mybib.bib'
+        - csl: '/Users/dansheffler/.pandoc/my-chicago.csl'
 markdown_ext:   markdown,mkdown,mkdn,mkd,md
 permalink:      /blog/:year-:month-:day-:title
 encoding:       utf-8

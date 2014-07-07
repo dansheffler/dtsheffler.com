@@ -7,6 +7,8 @@ I use [Moom] to set Skim's default window to precisely two-thirds of my MacBook 
 
 I like to keep short notes as *text* notes so that I can read them quickly while reviewing the text.  I like to use *anchored* notes for longer comments, pulling important quotes, and outlining a chapter.  I will talk about the way that I retrieve all these notes in a latter post.  For now, I just want to point out the incredible ease with which Skim handles a wide variety of note types.  I personally use highlights, text notes, and anchored notes, but you can find all sorts of other options if those fit your needs.  When working with Preview or Acrobat, working with annotations is a pain and reading through them is even more of a pain, but Skim makes this entire process easy. 
 
+Add to these features that Skim is *fast*.  Not only does it open extremely quickly (unlike every Adobe product), it also scrolls rapidly through 500+ page scanned PDFs without choking.  As you can see in the previous posts, Skim is also highly customizable via AppleScript.  All in all, this makes Skim the best-in-class PDF reader for the power-user digital humanist.
+
 [Shadow Killer]: http://www.macupdate.com/app/mac/6428/shadowkiller-x
 [Skim]: http://skim-app.sourceforge.net
 [Moom]: http://manytricks.com/moom/
