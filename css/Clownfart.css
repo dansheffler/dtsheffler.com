@@ -19,6 +19,33 @@ max-width:33em;
     padding-right: 12em;
 }
 
+dl {
+	padding: 0;
+    margin: 1.5em 0;
+}
+
+dt {
+    float: left;
+    clear: left;
+	width: 20%;
+	font-weight: bold;
+}
+
+dd {
+    float: left;
+    clear: right;
+	margin: 0 0 1.5em 0;
+    width: 80%;
+	padding: 0;
+}
+
+dd p {
+    margin: 0;
+    padding: 0;
+    width: 100%;
+    clear: right;
+}
+
 
 
 #toc-show-hide {
@@ -321,7 +348,6 @@ sub { bottom: -0.25em; }
 
 ul, ol { margin: 1em 0; padding: 0 0 0 2em; }
 li p:last-child { margin:0 }
-dd { margin: 0 0 0 2em; }
 
 img { border: 0; -ms-interpolation-mode: bicubic; vertical-align: middle; }
 
