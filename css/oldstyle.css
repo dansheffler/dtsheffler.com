@@ -1,0 +1,143 @@
+html { font-size: 100%; overflow-y: scroll; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
+body { 
+    font-family: 'Old Standard TT', serif;
+    font-size: 1.2em;
+    line-height: 1.3em;
+    background-color: #2A2C39;
+    background-color: #fcfaf2;
+    color: #E9E9EB;
+    color: #161616;
+    text-rendering: optimizeLegibility;
+    width: 33em;
+    margin: 0 auto; }
+
+
+
+/* Headers */
+h1, h2 {
+    font-family: 'Old Standard TT', serif;
+    margin-bottom: 0.2em;
+    margin-top: 1em;
+    text-transform: uppercase;
+    font-weight: normal;
+    line-height: 1.3em;
+}
+    h1 a, h2 a { color: #000; }
+
+h1 { font-size: 2em; }
+h2 { font-size: 1.75em; }
+
+/* Links */
+a { text-decoration:none;
+    color: #c90707; }
+
+/* Images */
+img{ max-width:100%; }
+figure {margin:0;}
+figcaption {display:none;}
+
+
+/* Paragraph */
+b, strong { font-weight: bold; }
+dfn { font-style: italic; }
+ins { background: #ff9; color: #000; text-decoration: none; }
+mark { background: #ff0; color: #000; font-style: italic; font-weight: bold; }
+sub, sup { font-size: 75%; line-height: 0; position: relative; vertical-align: baseline; }
+sup { top: -0.5em; }
+sub { bottom: -0.25em; }
+
+/* Cool horizontal rules taken from prose.css */
+hr {
+  padding: 0;
+  margin: 0;
+  padding-bottom: 1.8em;
+  border: none;
+  text-align: center;
+  color: black;
+}
+
+
+hr:after {
+  content: "\2722  \a0\2722  \a0\2722";
+}
+
+
+/* Definition Lists */
+
+dl { padding: 0; margin: 1.5em 0; }
+dt { float: left; clear: left; width: 20%; font-weight: bold; }
+dd { float: left; clear: right; margin: 0 0 1.5em 0; width: 80%; padding: 0; }
+
+
+/* Tables */
+table{ border-collapse:collapse;border-spacing:0 }
+caption,th,td{ text-align:left; } 
+table{ width:100%;margin-bottom:2em;padding:0;font-size:0.8em;border-collapse:collapse }
+table th,table td{ padding:0.5em;line-height:1.8em;text-align:left }
+table th{ font-weight:bold;vertical-align:middle }
+table td{ vertical-align:top;border-top:1px solid #ddd }
+table tbody th{ border-top:1px solid #ddd;vertical-align:top }
+table{ border:1px solid #ddd;border-collapse:separate;*border-collapse:collapse;-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:4px }
+table th+th,table td+td,table th+td{ border-left:1px solid #ddd }
+table thead tr:first-child th:first-child,table tbody tr:first-child td:first-child{
+    -webkit-border-radius:4px 0 0 0;-moz-border-radius:4px 0 0 0;border-radius:4px 0 0 0 }
+table thead tr:first-child th:last-child,table tbody tr:first-child td:last-child{
+    -webkit-border-radius:0 4px 0 0;-moz-border-radius:0 4px 0 0;border-radius:0 4px 0 0 }
+table tbody tr:last-child td:first-child{
+    -webkit-border-radius:0 0 0 4px;-moz-border-radius:0 0 0 4px;border-radius:0 0 0 4px }
+table tbody tr:last-child td:last-child{
+    -webkit-border-radius:0 0 4px 0;-moz-border-radius:0 0 4px 0;border-radius:0 0 4px 0 }
+tbody tr:nth-child(odd){
+    background-color:rgba(0,0,0,0.03) }
+
+
+/* Code */
+body pre{
+    font-family:Consolas,Menlo,Courier,monospace;
+    font-size:0.8em;
+    line-height:25px;
+    max-height: 20em;
+    overflow-x:auto;
+    overflow-y:auto;
+    border:1px solid #d5d5d5;
+    border-left:10px solid #d5d5d5;
+    background-color:#fafafa;
+    padding-left: 10px;
+}
+
+body p code {
+    font-family:Consolas,Menlo,Courier,monospace;
+    font-size: 0.7em;
+    border: 1px solid #d5d5d5;
+    background: #f0f0f7;
+    padding: 0.3em 0.2em 0.1em 0.2em;
+}
+
+.gist {font-size:0.7em} 
+.gist pre { max-height: none; }
+.gist-data.gist-syntax { max-height: 20em; }
+.gist table { margin: 0; border: 0; }
+.gist .gist-file .gist-data .line-data { width: 100%; }
+
+
+
+/* Site Specific */
+.site-title { display: inline; color: #161616; }
+.site-nav { display: inline; }
+.site-nav .trigger {
+    display: inline;
+    float: right;
+    padding: 0 0.5em;
+    color: #161616;
+}
+.site-nav .trigger a{ color: #161616; }
+.site-nav .trigger a:hover{ color: #c90707; }
+.site-title:hover{ color: #c90707; }
+
+.post-date { margin-top: -1em; font-size: 0.9em; color: #999;}
+div.post{ margin-bottom: 5em }
+div.source { font-size: 0.9em; color: #999; margin-top:-1.2em; margin-bottom: 4em}
+
+
+
+
