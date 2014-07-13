@@ -1,3 +1,7 @@
+---
+title: Intro to BibDesk
+---
+
 In several of the scripts I use to interact with [Skim], I have mentioned that they receive bibliographic information from [BibDesk].  BibDesk is an excellent bibliography management tool similar to [Mendeley] or [Zotero].  I like BibDesk for three main reasons: (i) like Skim, it is a free and open source project created by academics for other academics, (ii) it stores all its data in a flat BibTex file, and (iii) it can interact easily with Skim via AppleScript.  In another post I will talk more about the implications of (ii), but for now just know that this means BibDesk talks easily with [Pandoc] and [LaTeX] without the need to export anything.  Both Mendeley and Zotero can achieve the same result, but one needs to export every time a change is made to the bibliography.
 
 Several of my colleagues have asked me to recommend a good bibliography manager, but they have not wanted to dive headlong into LaTeX citations (the learning curve is admittedly quite steep).  In this post, I would like to simply introduce BibDesk as a stand-alone bibliography manager.  When working with BibDesk, every bibliographic reference gets an entry---think of this like the old catalog cards at the library.  When filling out the entry it looks like this:

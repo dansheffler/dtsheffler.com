@@ -1,3 +1,7 @@
+---
+title: Search BibDesk
+---
+
 Often I want to just do a quick check of whether I have a book in [BibDesk] already, or I want to find a PDF quickly.  BibDesk has a nice search field, but you need to select the `Library` first to get a global search.  Otherwise, you will only search within selected groups.  Most of the time, I also want to perform these searches from another application when BibDesk isn't even running.  So I wrote a quick little script that (i) opens BibDesk, (ii) clears all search limitations, and (iii) puts the cursor in the search field:
 
 

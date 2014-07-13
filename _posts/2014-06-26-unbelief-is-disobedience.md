@@ -1,3 +1,7 @@
+---
+title: Unbelief is Disobedience
+---
+
 > The worldviews differ in respect to the roles of seeing and
 > hearing. In the classical view, the true knowledge is vision,
 > *theoria*. It is the vision of eternal truth. One therefore

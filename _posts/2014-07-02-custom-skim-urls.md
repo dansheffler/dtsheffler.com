@@ -1,3 +1,7 @@
+---
+title: Custom Skim URLs
+---
+
 I wanted to be able to link to any page of a PDF in my Markdown notes, and I knew that I could do it by appending `#35`, for example, to the end of a `file://` URL in my browser.  But I use [Skim][], and reading PDFs in a browser is no good.  Further, the URLs end up being super long with ugly things like `%20` for spaces and this seemed unnecessary because all my PDFs are carefully organized with [BibDesk][].  So I set up a little AppleScript that would parse a custom URL starting with `sk://` for a BibDesk citekey and a page index, then figure out which PDF I want from BibDesk and open that PDF in Skim to the right page index. 
 
   [Skim]: http://skim-app.sourceforge.net

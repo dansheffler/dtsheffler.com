@@ -48,6 +48,7 @@ dd p {
 
 
 
+
 #toc-show-hide {
     height: 2em;
     width: 2em;
@@ -257,7 +258,7 @@ border: 0;
 .gist .gist-file .gist-data .line-data {
     width: 100%;
 }
-body p code {
+body p code, dd p code, dd code {
     font-family:Consolas,Menlo,Courier,monospace;
     font-size: 0.7em;
     border: 1px solid #d5d5d5;

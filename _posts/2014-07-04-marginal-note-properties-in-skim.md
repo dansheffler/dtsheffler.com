@@ -1,3 +1,7 @@
+---
+title: Marginal Note Properties in Skim
+---
+
 When I am reading a book with the greatest amount of engagement, I like to write short notes in the margins of the PDF.  Unfortunately, when I create a new text note in [Skim] the note uses a default height, width, and font-size, and produces something looking like this:
 
 [Skim]: http://skim-app.sourceforge.net

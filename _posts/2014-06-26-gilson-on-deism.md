@@ -1,3 +1,7 @@
+---
+title: Gilson on Deism
+---
+
 > For almost two centuries...the ghost of the Christian God has
 > been attended by the ghost of Christian religion: a vague
 > feeling of religiosity, a sort of trusting familiarity with

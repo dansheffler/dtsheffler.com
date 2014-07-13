@@ -1,3 +1,7 @@
+---
+title: Levels of Reading
+---
+
 In a previous post I mentioned that I like to take marginal notes when I want to engage deeply with a text.  This is quite time consuming because I stop to evaluate each paragraph and think about how to summarize it.  This kind of reading is only appropriate for a relatively small portion of the books that I read.  I learned from A.G. Sertillanges's book, *The Intellectual Life*, that it is a mistake to read books with a higher level of attention than they deserve.  His prescription is quite systematic, distinguishing four distinct categories of reading.[@sertillanges87 152] I would simply suggest that we should adjust the tools and degree of annotation to the text at hand and our research purposes for it.  Seneca makes much the same point:
 
 > Some books are to be tasted, others to be swallowed and
