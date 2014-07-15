@@ -387,6 +387,13 @@ body{font-size:0.9em;}
 #toc-show-hide{display:none;}
 }
 
+.search-entry p {
+    margin-top: 0;
+    height: 2.3em;
+    overflow: hidden;
+    font-size: 0.7em;
+    line-height: 1.2em;
+}
 /* iPad Landscape */
 @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
 /* CSS */

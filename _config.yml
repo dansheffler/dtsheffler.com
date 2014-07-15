@@ -1,9 +1,12 @@
 # Site settings
-title:          dansheffler.com
+title:          "dansheffler.com"
 email:          ""
-description: ""
-baseurl: ""
-url:            "http:www.dansheffler.com"
+description:    "The personal website of Dan Sheffler"
+baseurl:        ""
+url:            "http://www.dansheffler.com"
+
+lunr_search:
+  excludes: [sitemap.xml,index.html,search,archive,papers]
 
 # Build settings
 markdown:       pandoc
