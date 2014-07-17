@@ -6,7 +6,7 @@ baseurl:        ""
 url:            "http://www.dansheffler.com"
 
 lunr_search:
-  excludes: [sitemap.xml,index.html,search,archive,papers]
+  excludes: [sitemap.xml,index.html,search,archive,papers,share]
 
 # Build settings
 markdown:       pandoc
@@ -22,6 +22,8 @@ encoding:       utf-8
 
 collections:
   papers:
+    output: true
+  share:
     output: true
 
 defaults:
