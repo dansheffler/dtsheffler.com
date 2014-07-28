@@ -1,9 +1,7 @@
 ---
-title: Mere Christianity Schedule
-author: Dan Sheffler
-date: 2014-06-26
-permalink: /lewis/
-layout: default
+title:      Mere Christianity Schedule
+permalink:  /lewis/
+layout:     page
 ---
 
 

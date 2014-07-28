@@ -1,9 +1,9 @@
 ---
-title: Willard Reading Schedule
-author: Dan Sheffler
-date: 2014-06-26
-layout: default
-permalink: /willard/
+title:      Willard Reading Schedule
+author:     Dan Sheffler
+date:       2014-06-26
+layout:     page
+permalink:  /willard/
 ---
 
 

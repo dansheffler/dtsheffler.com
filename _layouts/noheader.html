@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+
+  {% include head.html %}
+    <body>
+    <div id="content-wrapper">
+        <div class="page-content">
+            <div class="wrap">
+            {{ content }}
+            </div>
+        </div>
+        <div class="source">
+            Source: 
+            <a class="source-link" href="{{ page.path | remove: '/Users/dansheffler/Dropbox/dansheffler.com/' | prepend: 'https://raw.githubusercontent.com/dansheffler/dansheffler.com/master/' }}">
+                md
+            </a>
+        </div>
+    </div>
+
+</html>

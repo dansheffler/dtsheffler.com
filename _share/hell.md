@@ -1,6 +1,6 @@
 ---
-layout: paper
-permalink: /hell/
+layout:     paper
+permalink:  /hell/
 ---
 
 # Hell #

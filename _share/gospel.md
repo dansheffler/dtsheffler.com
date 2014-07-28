@@ -1,8 +1,10 @@
 ---
-title: The Gospel of the Kingdom
-permalink: /gospel/
-layout: post
+title:      The Gospel of the Kingdom
+permalink:  /gospel/
+layout:     paper
 ---
+
+# Gospel of the Kingdom #
 
 The word 'gospel' is a kingdom word.  People often say that it means "good news," and this is true, but it must be understood as good news of a particular sort.
 
