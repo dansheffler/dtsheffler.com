@@ -4,7 +4,7 @@ layout: default
 
 <div class="home">
 
-{% for post in site.posts %}
+{% for post in paginator.posts %}
 <div class="post">
     <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
     <div class="post-date">{{ post.date | date: "%-d %B %Y" }}</div>
@@ -22,6 +22,15 @@ layout: default
 
 {% endfor %}
 
+<!-- Pagination links -->
+<div class="pagination">
+  {% if paginator.previous_page %}
+    <a href="/page{{ paginator.previous_page }}" class="previous">Newer Posts</a>
+  {% endif %}
+  {% if paginator.next_page %}
+    <a href="/page{{ paginator.next_page }}" class="next">Older Posts</a>
+  {% endif %}
+</div>
 
 
 
