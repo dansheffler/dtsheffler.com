@@ -8,7 +8,7 @@ paginate:       10
 paginate_path:  "/page:num"
 
 lunr_search:
-  excludes: [sitemap.xml,index.html,search,archive,papers,share]
+  excludes: [sitemap.xml,index.html,search,archive,papers,share,readingnotes]
 
 # Build settings
 markdown:       pandoc
@@ -26,6 +26,8 @@ collections:
   papers:
     output: true
   share:
+    output: true
+  readingnotes:
     output: true
 
 defaults:
