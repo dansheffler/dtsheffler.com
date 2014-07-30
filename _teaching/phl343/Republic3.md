@@ -1,3 +1,9 @@
+---
+title: Plato - Republic III Reading Notes
+layout: noheader
+---
+
+
 ### Plato - *Republic* III ###
 
 What aspects of Socrates's program of censorship are we to take literally? Does Plato really not like the poets as much as this makes it seem?
