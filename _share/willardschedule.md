@@ -19,8 +19,9 @@ Read the following chapters *by* the date in the left-hand column. Remember that
   07-20   7
   07-27   8
   08-03   9
-  08-10   11
-  08-17   Epilogue
+  08-10   9
+  08-17   11
+  08-24   Epilogue
   ------- -----------
 
 
