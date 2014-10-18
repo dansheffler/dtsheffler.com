@@ -5,7 +5,7 @@ date:	2014-10-18
 layout:	noheader
 ---
 
-
+## Rousseau Part I ##
 
 Two different kinds of inequality: natural and political (77).
 
