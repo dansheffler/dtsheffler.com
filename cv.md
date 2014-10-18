@@ -2,7 +2,7 @@
 title: CV
 permalink: /cv/
 ---
-
+i
 ### Dan Sheffler - CV ###
 
     Philosophy Dept.
