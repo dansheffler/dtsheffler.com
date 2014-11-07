@@ -1,10 +1,3 @@
----
-title:	Merton on Theology
-author: Dan Sheffler
-date:	2014-11-07
-layout:	default
----
-
 > By faith the person...not only hears *about* God but enters into
 > a personal relationship of obedient love with God his Father.
 
