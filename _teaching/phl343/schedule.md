@@ -42,10 +42,10 @@ Week    Topic         Day         Reading
                       2014-10-30  *On Liberty* I               
 12                    2014-11-04  *On Liberty* II              
                       2014-11-06  *On Liberty* III             
-        Contemporary  2014-11-13  *On Liberty* IV              
-14                    2014-11-18  Rawls                        
-                      2014-11-20  Berlin                       
-15                    2014-11-25  MacIntyre                    
+        Contemporary  2014-11-11  *On Liberty* IV              
+14                    2014-11-13  Rawls                        
+                      2014-11-18  Berlin                       
+15                    2014-11-20  MacIntyre                    
                       2014-11-27  **Thanksgiving**
 16      Wrap Up       2014-12-02  Taylor            
                       2014-12-04  Synthesize                   
