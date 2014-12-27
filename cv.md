@@ -24,7 +24,7 @@ permalink: /cv/
 
 #### Education ####
 
-PhD, Philosophy, University of Kentucky, (in progress, expected graduation in 2015).
+PhD, Philosophy, University of Kentucky, (in progress, expected graduation in 2016).
 
 M.A., Philosophy, University of Kentucky, 2012.
 
@@ -35,7 +35,7 @@ B.A., Philosophy and Classics, University of Kentucky, 2010.
 
 #### Presentations ####
 
-"Why Molinism Does Not Help with the Rollback Argument," Society of Christian Philosophers, Trinity College, March 2014 (forthcoming).
+"Why Molinism Does Not Help with the Rollback Argument," Society of Christian Philosophers, Trinity College, March 2014.
 
 "The Sun and the Good: the Allegory of the Sun in *Republic* VI," Society for Ancient Greek Philosophy, Fordham University, October 2013.
 
@@ -57,13 +57,13 @@ Research grant from University of Kentucky Eureka fund ($2,000), 2006.
 
 Philosophy of C.S. Lewis, Asbury University, Spring 2014.
 
-Social and Political Philosophy, Asbury University, Fall 2012.
+Social and Political Philosophy, Asbury University, Fall 2012, Fall 2014.
 
-Introduction to Philosophy, Asbury University, Fall 2013--Spring 2014.
+Introduction to Philosophy, Asbury University, Fall 2013--Fall 2014.
 
 Business Ethics, University of Kentucky, Spring 2013--Fall 2013.
 
-Knowledge and Reality, University of Kentucky, Fall 2013--Spring 2014.
+Knowledge and Reality, University of Kentucky, Fall 2013--Fall 2014.
 
 Introduction to Ethics, University of Kentucky, Spring 2012--Fall 2012.
 

@@ -3,7 +3,7 @@ title:      PHL 211 Spring 2015 Syllabus
 layout:     noheader
 ---
 
-# PHL 211 -- Ancient and Medieval Philosophy #
+## PHL 211 -- Ancient and Medieval Philosophy ##
 
 Location
 :    TBD
@@ -22,23 +22,18 @@ Web
 
 ## Required Texts ##
 
-- Plato, Republic (Bloom's Translation, Basic Books) ISBN:
-  978-0465069347
-- Aristotle, Politics (Penguin Classics) ISBN: 978-0140444216
-- Locke, Second Treatise of Government (Hackett) ISBN:
-  978-0915144860
-- Rousseau, A Discourse on Inequality (Penguin Classics) ISBN:
-  978-0140444391
-- Mill, On Liberty and The Subjection of Women (Penguin Classics)
-  ISBN: 978-0141441474
-- Burke, Reflections on the Revolution in France (Hackett) ISBN:
-  978-0872200203
+- *Readings in Ancient Greek Philosophy*, ed. S. Marc Cohen,
+  Patricia Curd, and C.D.C. Reeve, (Hackett, 2005), ISBN: 0872207692.
+- Augustine, *Confessions*, trans. Henry Chadwick, (Oxford, 1991)
+  ISBN: 9780199537822.
+- Anselm, *The Major Works*, ed. Brian Davies and G.R. Evans,
+  (Oxford, 1998), ISBN: 0192825259.
 
 
 
 ## Course Description and Learning Outcomes ##
 
-This course will survey the history of philosophy from the presocratic Greeks to the late Middle Ages (roughly 600 BC--1500 AD).  In the beginning, we will cover the ancient atomists, Eleatics, and Pythagorians.  Before midterm, we read several major works by Plato and Aristotle in their entirity.  After midterm, we will read Augustine, Anselm, and Thomas, finally ending the semester with Ibn Sina, Al-Ghazali, and Maimonides.
+This course will survey the history of philosophy from the presocratic Greeks to the late Middle Ages (roughly 600 BC--1500 AD).  In the beginning, we will cover the ancient atomists, Eleatics, and Pythagoreans.  Before midterm, we read several major works by Plato and Aristotle.  After midterm, we will read Augustine, Anselm, and Thomas, finally ending the semester with Ibn Sina, Al-Ghazali, and Maimonides.
 
 We will go through the major themes of each period and thinker synoptically, but at every stage I have chosen to focus on the particular theme of *the cosmos* as a way to bring all these thinkers together and to understand the role and vision of philosophy in the ancient and medieval world.  This means that for every thinker we will be asking the question: how does he conceive the structure of the universe as a whole?  I hope this will open our eyes to the high degree of agreement amongst ancient and medieval thinkers on this score and the high degree of difference between them and us.
 
@@ -46,7 +41,7 @@ The expected learning outcomes for this course are:
 - to learn an appreciation for major philosophers'
   contributions to the Western philosophical tradition;
 - to understand the primary questions, terminology, and
-  theories in ancient and medieval philsophy;
+  theories in ancient and medieval philosophy;
 - to learn to carefully read philosophical texts with a
   critical eye;
 - to gain the capacity to communicate difficult
