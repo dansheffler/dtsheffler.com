@@ -1,12 +1,12 @@
 ---
-title:      PHL 343 Fall 2014 Syllabus
+title:      PHL 211 Spring 2015 Syllabus
 layout:     noheader
 ---
 
-# PHL 343 -- Political and Social Philosophy #
+# PHL 211 -- Ancient and Medieval Philosophy #
 
 Location
-:    HU 125
+:    TBD
 
 Instructor
 :    Dan Sheffler
@@ -15,9 +15,9 @@ E-mail
 :    Daniel.Sheffler@asbury.edu
 
 Web
-:   [Discovery][disc]: http://discovery.asbury.edu/course/view.php?id=3335
+:   [Discovery][disc]: http://discovery.asbury.edu/course/view.php?id=7275
 
-[disc]: http://discovery.asbury.edu/course/view.php?id=3335
+[disc]: http://discovery.asbury.edu/course/view.php?id=7275
 
 
 ## Required Texts ##
@@ -38,34 +38,30 @@ Web
 
 ## Course Description and Learning Outcomes ##
 
-What is justice? What is the purpose of the state? How far should the state's power extent? Are there such things as universal human rights? What is political freedom, and how is it best secured? In this course, we will be asking---and hopefully beginning to answer---questions like these. While all these questions have practical implications because they concern our political and social life together, they are primarily of a theoretical or conceptual nature. As such, we will employ the tools of philosophical dialectic and argumentation in an effort to articulate answers to these questions in a rigorous way.
+This course will survey the history of philosophy from the presocratic Greeks to the late Middle Ages (roughly 600 BC--1500 AD).  In the beginning, we will cover the ancient atomists, Eleatics, and Pythagorians.  Before midterm, we read several major works by Plato and Aristotle in their entirity.  After midterm, we will read Augustine, Anselm, and Thomas, finally ending the semester with Ibn Sina, Al-Ghazali, and Maimonides.
 
-This effort will take place in three stages. First, you will engage primary texts in the history of political thought from Plato to J. S. Mill. This will give you a working knowledge of the major figures and concepts in the Western political tradition. Second, you will spend class time in dialog. This discussion will aim at evaluating whether the claims made by our authors are true or false and whether their arguments are sound or unsound. Third, you will learn to articulate your own position by way of written argument. This will help you bring clarity and precision to your thought.
-
+We will go through the major themes of each period and thinker synoptically, but at every stage I have chosen to focus on the particular theme of *the cosmos* as a way to bring all these thinkers together and to understand the role and vision of philosophy in the ancient and medieval world.  This means that for every thinker we will be asking the question: how does he conceive the structure of the universe as a whole?  I hope this will open our eyes to the high degree of agreement amongst ancient and medieval thinkers on this score and the high degree of difference between them and us.
 
 The expected learning outcomes for this course are:
 - to learn an appreciation for major philosophers'
   contributions to the Western philosophical tradition;
 - to understand the primary questions, terminology, and
-  theories in social and political philosophy;
+  theories in ancient and medieval philsophy;
 - to learn to carefully read philosophical texts with a
   critical eye;
 - to gain the capacity to communicate difficult
   philosophical thoughts in clear, concise prose; and
-- to connect political thought with one's own faith.
+- to connect ancient and medieval thinking with one's own faith.
 
 
 ## Grading ##
 
 ----------------- ----
-Discussion        30% 
-Reading Quizzes   20% 
-Midterm Paper     25% 
-Final Paper       25% 
+Reading Quizzes   30% 
+Midterm Paper     40% 
+Final Paper       40% 
 ----------------- ----
 
-
-The largest portion of your grade will come from in-class discussion which I will evaluate on the basis of pluses, checks, and minuses recorded on your attendance card (see attendance section below). At the end of every class I run through all the students and award these marks, so you have a chance to improve your discussion grade each class period. I award a plus to students who make stand-out philosophical contributions to the class discussion during that period, and a check to students who participate at least once in a meaningful way. I rarely record minuses, but these are reserved for positively disruptive behavior. Four times evenly spaced through the semester I will enter a numerical discussion grade in Discovery. You are always welcome to see your card or talk to me so that you may know how well you are doing.
 
 The next portion of your grade will come from regular (short) reading quizzes. These will be completed on Discovery and will typically consist of a few multiple-choice questions on the reading for the day. These quizzes are due before class on the day when the corresponding reading assignment is due. There is a time limit on these quizzes and they can only be taken once, so it is advisable that you complete them just as soon as you complete your reading. You will not have enough time to search the reading for the answers if you have not read it, but you may keep the reading assignment open to aid in the completion of the quiz. You will quickly find that you really must do the reading and do it quite carefully to do well on these quizzes.
 
@@ -109,7 +105,7 @@ I keep track of absences by calling roll at the beginning of each class using a 
 
 You are expected to have an active e-mail account that you check regularly. Section related announcements will be made via e-mail (e.g. if I am sick, pointers for home work, change in due dates). Also, e-mail is the best way for contacting me outside of class.
 
-You are expected to have access to a stable internet connection as reading quizzes are carried out on Discovery.
+You are expected to have access to a stable internet connection as reading quizzes are carried out on Discovery.  I will not reset quizzes because of internet trouble (doing so is simply too easy to abuse and has been in the past).  Instead, I will be dropping the lowest two reading quiz scores for everyone.
 
 
 

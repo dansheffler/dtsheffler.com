@@ -15,9 +15,8 @@ markdown:       pandoc
 pandoc:
     extensions:
         - smart
-        - mathjax
-        - bibliography: '/Users/dansheffler/Library/texmf/bibtex/bib/mybib.bib'
-        - csl: '/Users/dansheffler/.pandoc/my-chicago.csl'
+        - bibliography: 'C:\\Users\\Dan\\texmf\\bibtex\\bib\\mybib.bib'
+        - csl: 'C:\\Users\\Dan\\AppData\\Roaming\\pandoc\\default.csl'
 markdown_ext:   markdown,mkdown,mkdn,mkd,md
 permalink:      /blog/:year-:month-:day-:title
 encoding:       utf-8

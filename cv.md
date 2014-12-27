@@ -2,13 +2,16 @@
 title: CV
 permalink: /cv/
 ---
-i
+
 ### Dan Sheffler - CV ###
 
     Philosophy Dept.
     1402 POT
     University of Kentucky
     Lexington, KY, 40508
+
+
+
 
 #### Specialization and Competence ####
 
