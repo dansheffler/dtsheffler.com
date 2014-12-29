@@ -6,7 +6,7 @@ layout:     noheader
 ## PHL 211 -- Ancient and Medieval Philosophy ##
 
 Location
-:    TBD
+:    HU 125
 
 Instructor
 :    Dan Sheffler

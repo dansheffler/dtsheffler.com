@@ -43,14 +43,16 @@ Day           Topic         Reading
 2015-04-02    Anselm        *Monologion* (5--31)     
 2015-04-07                  *Monologion* (32--56)
 2015-04-09                  *Monologion* (57--81)
-2015-04-14    Thomas        *Summa Theologica*                  
-2015-04-16                  *Summa Theologica*
-2015-04-21    Ibn Sina      
-2015-04-23    Al-Ghazali
-2015-04-28    Maimonides
+2015-04-14    Thomas        *Summa Theologica* (D)                 
+2015-04-16                  *Summa Theologica* (D)
+2015-04-21    Ibn Sina      (D)
+2015-04-23    Al-Ghazali    (D)
+2015-04-28    Maimonides    (D)
 2015-04-30
 
-**Midterm Due 2015-03-05**
+**Midterm Paper Due 2015-03-05**
+
+**Final Paper Due 2015-04-20**
 
 *Symposium* for extra credit before midterm
 
