@@ -11,7 +11,7 @@ Section
 :   005 and 006
 
 Location
-:   CB 333 and 209
+:   Main Building 005 (section 005) and CB 340 (section 006)
 
 Instructor
 :   Dan Sheffler
