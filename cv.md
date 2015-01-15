@@ -20,7 +20,7 @@ permalink: /cv/
 
 **Competence**:
     Philosophy of Religion, Contemporary Metaphysics (especially
-    metaphysics of free will and metaphysics of time). 
+    metaphysics of free will and metaphysics of time), and Medieval Philosophy. 
 
 #### Education ####
 
@@ -55,6 +55,8 @@ Research grant from University of Kentucky Eureka fund ($2,000), 2006.
 
 #### Teaching ####
 
+Ancient and Medieval Philosophy, Asbury University, Spring 2015.
+
 Philosophy of C.S. Lewis, Asbury University, Spring 2014.
 
 Social and Political Philosophy, Asbury University, Fall 2012, Fall 2014.
@@ -63,7 +65,7 @@ Introduction to Philosophy, Asbury University, Fall 2013--Fall 2014.
 
 Business Ethics, University of Kentucky, Spring 2013--Fall 2013.
 
-Knowledge and Reality, University of Kentucky, Fall 2013--Fall 2014.
+Knowledge and Reality, University of Kentucky, Fall 2013--Spring 2015.
 
 Introduction to Ethics, University of Kentucky, Spring 2012--Fall 2012.
 
@@ -75,7 +77,7 @@ Medical Terminology (on-line course), University of Kentucky, Summer 2010.
 
 Traditional Logic, Mars Hill Christian Academy, 2008--2014.
 
-Latin years 3 and 4, Mars Hill Christian Academy, 2009--2014.
+Latin years 3 and 4, Mars Hill Christian Academy, 2009--2015.
 
 
 
