@@ -42,7 +42,7 @@ Day           Topic         Reading
 2015-03-31    Anselm        *Monologion* (5--31)
 2015-04-02                  *Monologion* (32--56)
 2015-04-07                  *Monologion* (57--81)
-2015-04-09    Thomas        *Summa Theologica* QQ 3 and 4 (D)       
+2015-04-09    Thomas        *Summa Theologica* QQ 2--4 (D)       
 2015-04-14                  *Summa Theologica* Q 12 (D)      
 2015-04-16                  *Summa Theologica* QQ 44 and 45 (D) 
 2015-04-21    Ibn Sina      (D)
