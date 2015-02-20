@@ -34,17 +34,17 @@ Day           Topic         Reading
 2015-03-03                  *Metaphysics* (796--808)
 2015-03-05                  *De Anima* (813--825)
 2015-03-10    Augustine     *Confessions* I 
-2015-03-12                  *Confessions* II
+2015-03-12                  *Confessions* III
 2015-03-17                  **Spring Break**
 2015-03-19                  **Spring Break**
 2015-03-24                  *Confessions* VII
 2015-03-26                  *Confessions* VIII
-2015-03-31                  *Confessions* IX
-2015-04-02    Anselm        *Monologion* (5--31)     
-2015-04-07                  *Monologion* (32--56)
-2015-04-09                  *Monologion* (57--81)
-2015-04-14    Thomas        *Summa Theologica* (D)                 
-2015-04-16                  *Summa Theologica* (D)
+2015-03-31    Anselm        *Monologion* (5--31)
+2015-04-02                  *Monologion* (32--56)
+2015-04-07                  *Monologion* (57--81)
+2015-04-09    Thomas        *Summa Theologica* QQ 3 and 4 (D)       
+2015-04-14                  *Summa Theologica* Q 12 (D)      
+2015-04-16                  *Summa Theologica* QQ 44 and 45 (D) 
 2015-04-21    Ibn Sina      (D)
 2015-04-23    Al-Ghazali    (D)
 2015-04-28    Maimonides    (D)

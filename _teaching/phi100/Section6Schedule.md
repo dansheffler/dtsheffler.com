@@ -49,9 +49,9 @@ Date       Topic                Reading
 2015-02-19                      *Republic*,
                                 507a5--509c, 514a--521b (BB)
 
-2015-02-24 Later Platonism      Dionysius (BB)
+2015-02-24 Later Platonism      *Confessions* VII (111--121) (BB)
 
-2015-02-26                      *Confessions* VII (BB)
+2015-02-26                      *Confessions* VII (122--132) (BB)
 
 2015-03-03                      **Midterm**
 
