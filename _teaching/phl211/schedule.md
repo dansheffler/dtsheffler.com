@@ -45,10 +45,10 @@ Day           Topic         Reading
 2015-04-09    Thomas        *Summa Theologica* QQ 2--4 (D)       
 2015-04-14                  *Summa Theologica* Q 12 (D)      
 2015-04-16                  *Summa Theologica* QQ 44 and 45 (D) 
-2015-04-21    Ibn Sina      (D)
-2015-04-23    Al-Ghazali    (D)
-2015-04-28    Maimonides    (D)
-2015-04-30
+2015-04-21    Ibn Sina      (175--192) (D)
+2015-04-23                  (192--209) (D)
+2015-04-28    Maimonides    (223--232) (D)
+2015-04-30                  (232--243) (D)
 
 **Midterm Paper Due 2015-03-05**
 
