@@ -172,7 +172,7 @@ a::selection{background:rgba(255,255,0,0.3);color:#0645ad}
 p{
 margin:1em 0;
 -webkit-hyphens: auto;
-text-align: justify;
+text-align: left;
 }
 
 img{
@@ -198,8 +198,8 @@ color:#111;
 line-height:1em;
 }
 h4,h5,h6{ font-weight: bold; }
-h1{ font-size:2.5em; }
-h2{ font-size:2em; }
+h1{ font-size:2.1em; }
+h2{ font-size:1.9em; }
 h3{ font-size:1.5em; }
 h4{ font-size:1.2em; }
 h5{ font-size:1em; }
@@ -213,7 +213,7 @@ div.tagline p { margin-top: 0.2em }
 blockquote{
 color:#666666;
 margin:0;
-padding-left: 3em;
+padding-left: 1.5em;
 border-left: 0.5em #EEE solid;
 }
 hr { display: block; height: 2px; border: 0; border-top: 1px solid #aaa;border-bottom: 1px solid #eee; margin: 1em 0; padding: 0; }
@@ -382,9 +382,10 @@ body{font-size:1.3em;}
 body{font-size:1.1em;}
 }
 @media (max-width: 850px) {
-body{font-size:0.9em;}
-#toc{display:none;}
-#toc-show-hide{display:none;}
+  body{font-size:0.9em;}
+  #toc{display:none;}
+  #toc-show-hide{display:none;}
+  .site-header {font-size: 0.9em;}
 }
 
 .search-entry p {
@@ -401,7 +402,7 @@ body{font-size:0.9em;}
 
 /* iPad Portrait */
 @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) and (orientation: portrait) {
-/* CSS */
+    font-size: 0.7em;
 }
 
 /*
