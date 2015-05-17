@@ -7,8 +7,8 @@ url:            "http://www.dansheffler.com"
 paginate:       10
 paginate_path:  "/page:num"
 
-lunr_search:
-  excludes: [sitemap.xml,index.html,search,archive,papers,share,teaching]
+# lunr_search:
+#   excludes: [sitemap.xml,index.html,search,archive,papers,share,teaching]
 
 # Build settings
 markdown:       pandoc
@@ -17,6 +17,7 @@ pandoc:
         - smart
         - bibliography: 'C:\\Users\\Dan\\texmf\\bibtex\\bib\\mybib.bib'
         - csl: 'C:\\Users\\Dan\\AppData\\Roaming\\pandoc\\default.csl'
+        - mathjax
 markdown_ext:   markdown,mkdown,mkdn,mkd,md
 permalink:      /blog/:year-:month-:day-:title
 encoding:       utf-8

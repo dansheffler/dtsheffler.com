@@ -22,7 +22,7 @@ Each week will follow the same daily format Monday through Friday: programing be
 10:00 PM        Lights Out
 --------------- -------------------------------------------------------
 
-This means that each week there will be ten teachings on a single theme, usually by a single teacher:
+This means that each week there will be ten sessions on a single theme, usually by a single teacher:
 
 --------------- ------------------- ----------------------------
 June 1          Knowing God         Billy Henderson
