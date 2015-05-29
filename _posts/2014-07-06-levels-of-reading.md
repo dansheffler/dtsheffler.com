@@ -7,7 +7,7 @@ In a previous post I mentioned that I like to take marginal notes when I want to
 > Some books are to be tasted, others to be swallowed and
 > some few to be chewed and digested; that is, some books
 > are to be read only in parts; others to be read, but
-> curiously; and some few to be read wholly, and with
+> not curiously; and some few to be read wholly, and with
 > diligence and attention.[@empty Quote taken from the excellent [Taking Note](http://takingnotenow.blogspot.com/2007/12/seneca-on-gathering-ideas.html) blog.]
 
  [^1]: Quote taken from the excellent [Taking Note](http://takingnotenow.blogspot.com/2007/12/seneca-on-gathering-ideas.html) blog.
