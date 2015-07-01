@@ -19,7 +19,7 @@ Again using citekeys can be quite powerful.  Suppose that I submit a book to a p
 
 [citationstyles.org]: http://citationstyles.org/styles/
 [my CSL file]: /files/my-chicago.csl
-[Yesterday]: /blog/2014-07-08-intro-to-bibdesk.md
+[Yesterday]: http://www.dansheffler.com/blog/2014-07-08-intro-to-bibdesk.md
 [LaTeX]:    http://www.latex-project.org
 [Pandoc]:   http://johnmacfarlane.net/pandoc/
 [BibDesk]:  http://bibdesk.sourceforge.net

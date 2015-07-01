@@ -6,6 +6,6 @@ I capitalize on this chronological structure when I want to put a reference to a
 
 I like having a record of what I was thinking last year or what I was reading when I developed my views on X, but I also need to have the rich organization of a [Zettelkasten] system.  I can get both by having [two note systems].
 
-[two note systems]: /blog/2014-07-21-two-goals-of-note-taking
+[two note systems]: http://www.dansheffler.com/blog/2014-07-21-two-goals-of-note-taking
 [Zettelkasten]: http://takingnotenow.blogspot.com/2007/12/luhmanns-zettelkasten.html
 

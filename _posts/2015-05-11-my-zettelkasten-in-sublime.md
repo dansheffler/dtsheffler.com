@@ -17,7 +17,7 @@ You will notice that I have surrounded some text in double brackets like this: `
 
 
 
-[last post]: blog/2015-05-05-the-zettelkasten-method/
+[last post]: http://www.dansheffler.com/blog/2015-05-05-the-zettelkasten-method/
 [Sublime Text]: http://www.sublimetext.com/
 [markdown]: http://brettterpstra.com/2011/08/31/why-markdown-a-two-minute-explanation/
 [Here]: https://github.com/dansheffler/MyWiki 

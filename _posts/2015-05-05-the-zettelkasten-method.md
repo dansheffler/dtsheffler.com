@@ -7,8 +7,8 @@ date: 2015-05-05
 
 Since classes have let out, I finally have a little more time to continue posts on my method of taking notes.  Several friends have asked me about my methods in the last few weeks and I was able to point them to my posts on paper note taking ([Two Goals][] and [Notebook Annotation][]), but not the specifics of my computer system.
 
-[Two Goals]: blog/2014-07-21-two-goals-of-note-taking/
-[Notebook Annotation]: blog/2014-07-26-notebook-annotation/
+[Two Goals]: http://www.dansheffler.com/blog/2014-07-21-two-goals-of-note-taking/
+[Notebook Annotation]: http://www.dansheffler.com/blog/2014-07-26-notebook-annotation/
 
 In this post I will simply summarize the concept of the zettelkasten method as I understand it.  In the next post, I will detail my implementation of the method in Sublime Text.
 

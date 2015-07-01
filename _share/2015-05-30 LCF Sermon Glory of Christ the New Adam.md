@@ -6,7 +6,6 @@ permalink: /glory/
 ---
 
 
-# Glory #
 
 Let me start by laying my rhetorical cards on the table.  I'm
 trying to excite in you a love, an adoration, a longing for Jesus
@@ -153,6 +152,7 @@ this same contrast with more detail in 1 Corinthians 15:
 > image of the man of dust, we shall also bear the image of the man
 > of heaven.
 
+\pagebreak
 Just listen to the pairs of contrasting words that I have pulled
 from this chapter:
 
