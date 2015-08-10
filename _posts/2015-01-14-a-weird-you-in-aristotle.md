@@ -9,4 +9,7 @@ date: 2015-01-14
 > what you are in your own right.
 > (*Metaphysics* Ζ.4)^[Trans. Terence Irwin and Gail Fine in *Readings in Ancient Greek Philosophy* (Hackett, 2005).]
 
-This is a strange departure from Aristotle's normal litany of examples: Socrates, horse, cloak, pale, white etc.  I don't think much rides on it, but why choose to switch to the second person here?
+This is a strange departure from Aristotle's normal litany of
+examples: Socrates, horse, cloak, pale, white etc.  I don't think
+much rides on it, but why choose to switch to the second person
+here?

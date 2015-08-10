@@ -2,7 +2,13 @@
 title: Reading Notes
 ---
 
-In his *How to Write a Thesis* ([Amazon][]), Umberto Eco suggests that you keep a box of index cards devoted to "reading index cards" alongside another box with "idea index cards."  In [my digital version][] of the index card box, I have been primarily keeping "idea" notes, with [one idea per file][].  Reading Eco, however, has encouraged me to also keep distinct "reading" notes, with one file per book or article that I read.
+In his *How to Write a Thesis* ([Amazon][]), Umberto Eco suggests
+that you keep a box of index cards devoted to "reading index cards"
+alongside another box with "idea index cards."  In [my digital
+version][] of the index card box, I have been primarily keeping
+"idea" notes, with [one idea per file][].  Reading Eco, however,
+has encouraged me to also keep distinct "reading" notes, with one
+file per book or article that I read.
 
 Here is an example screen-shot of a reading note:
 
@@ -25,7 +31,10 @@ In this screen-shot we see three areas:
    in the case of books).  I then mostly transcribe this into the
    Zettelkasten later with a little cleaning up.  This also serves the function of [review][].
 
-I do not use this reading note file to keep track of bibliographic information as Eco suggests.  Instead, all this information is stored in a BibTeX file so that it can be referenced automatically with [Pandoc-style citations][].
+I do not use this reading note file to keep track of bibliographic
+information as Eco suggests.  Instead, all this information is
+stored in a BibTeX file so that it can be referenced automatically
+with [Pandoc-style citations][].
 
   [Pandoc-style citations]: http://dansheffler.com/blog/2014-07-09-bibdesk-and-latex-citations/
 

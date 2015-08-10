@@ -2,7 +2,15 @@
 title: Skim and BibDesk Wrap-up
 ---
 
-Over the last few weeks, I have posted several snippets of code and explanations regarding the way I work with [Skim] and [BibDesk].  Initially, I started writing these posts just so that I could have some documentation for myself lest I forget how all these pieces work in two years, but I have also had some colleagues in the philosophy department ask about my system, so I have tried to make the explanations comprehensible to them as well.  The following is a list of those posts with a brief description of what they include.
+Over the last few weeks, I have posted several snippets of code and
+explanations regarding the way I work with [Skim] and [BibDesk].
+Initially, I started writing these posts just so that I could have
+some documentation for myself lest I forget how all these pieces
+work in two years, but I have also had some colleagues in the
+philosophy department ask about my system, so I have tried to make
+the explanations comprehensible to them as well.  The following is
+a list of those posts with a brief description of what they
+include.
 
 
 #### Skim ####
