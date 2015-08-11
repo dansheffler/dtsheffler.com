@@ -1,7 +1,7 @@
 ---
-title: Syllabus
+title:  Syllabus
 author: Dan Sheffler
-date: 2014-09-01
+date:   2014-09-01
 layout: noheader
 ---
 

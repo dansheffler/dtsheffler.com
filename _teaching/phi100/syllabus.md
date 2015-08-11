@@ -1,17 +1,17 @@
 ---
-title:  Syllabus
+title:  PHI 100 Syllabus
 author: Dan Sheffler
-date:   2014-12-31
-layout: noheader
+date:   2015-08-11
 ---
 
-# PHI 100---Intro Philosophy: Knowledge and Reality #
+## PHI 100 Syllabus ##
+
 
 Section
-:   005 and 006
+:   011 and 012
 
 Location
-:   Main Building 005 (section 005) and CB 340 (section 006)
+:   CB 341 (011) and CB 245 (012)
 
 Instructor
 :   Dan Sheffler
@@ -103,8 +103,6 @@ You are expected to have access to a stable internet connection as reading quizz
 ## Respectful Behavior ##
 
 Mature, respectful behavior is expected in class. The primary concern is that all students are able to enjoy a focused, helpful classroom. This means that I expect you will among other things: arrive to class on time, stay awake, refrain from taking cell phone calls, playing games, or doing work for other classes. I will warn you once during a semester if a particular behavior is disruptive. If this behavior happens again, I may ask you to leave resulting in an absence for the day.
-
-Class time is primarily focused on discussion of the material for which I expect you to be fully engaged. For this reason, I prohibit the use of electronic devices in class.
 
 
 ## Disability Accommodation ##

@@ -15,7 +15,7 @@ markdown:       pandoc
 pandoc:
     extensions:
         - smart
-        - bibliography: 'C:\\Users\\Dan\\texmf\\bibtex\\bib\\mybib.bib'
+        - bibliography: 'C:\\Users\\Dan\\Dropbox\\Jabref\\mybib.bib'
         - csl: 'C:\\Users\\Dan\\AppData\\Roaming\\pandoc\\default.csl'
         - mathjax
 markdown_ext:   markdown,mkdown,mkdn,mkd,md
