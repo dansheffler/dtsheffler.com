@@ -1,14 +1,18 @@
 ---
-title:  Syllabus
+title:  MH Latin Syllabus
 author: Dan Sheffler
 date:   2014-09-01
-layout: noheader
 ---
+
+
+## MH Latin Syllabs ##
+
 
 Instructor
 :   Dan Sheffler
+
 Contact
-:   dansheffler@uky.edu\
+:   dansheffler@uky.edu
 
 
 ## Course Summary ##
