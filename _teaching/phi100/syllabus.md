@@ -4,7 +4,7 @@ author: Dan Sheffler
 date:   2015-08-11
 ---
 
-## PHI 100 Syllabus ##
+
 
 
 Section

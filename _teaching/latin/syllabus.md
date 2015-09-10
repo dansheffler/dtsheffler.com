@@ -1,11 +1,12 @@
 ---
 title:  MH Latin Syllabus
 author: Dan Sheffler
-date:   2014-09-01
+date:   2015-09-10
+permalink: /latinsyllabus/
 ---
 
 
-## MH Latin Syllabs ##
+# MH Latin Syllabus #
 
 
 Instructor
@@ -36,9 +37,9 @@ Participation     20%
 ----------------- ----
 
 
-You will be expected to complete short homework assignments to be submitted on-line at [exicarus.com/moodle](http://exicarus.com/moodle). These will mostly consist of short, timed, multiple choice quizzes as a brief way to keep the students accountable to do the reading thoroughly. The expectation is that you will read the assigned passage for the week, parse all the grammar, and comprehend the basic meaning of what is being said. *After* you have thus prepared, you should log onto the course on my website and answer the handful of questions about the passage. An example question might be:
+You will be expected to complete short homework assignments to be submitted on-line at [dansheffler.com/latin](http://www.dansheffler.com/latin). These will mostly consist of short, timed, multiple choice quizzes as a brief way to keep the students accountable to do the reading thoroughly. The expectation is that you will read the assigned passage for the week, parse all the grammar, and comprehend the basic meaning of what is being said. *After* you have thus prepared, you should log onto the course on my website and answer the handful of questions about the passage. An example question might be:
 
-> What case is "colono" in the passage?
+> What case is *colono* in line 304?
 > 
 > 1. Nominative
 > 2. Genitive
@@ -47,7 +48,7 @@ You will be expected to complete short homework assignments to be submitted on-l
 
 You will be expected to *already* know that (3) is the answer from studying the passage and will not have the time to go back and parse the grammar then and there. I may also ask comprehension questions like "What does Scaevola compare friendship to in the passage?" I recommend that you do the parsing and understanding stage with your classmates then take the quiz on your own.  You may reference the reading and the notes in the book while doing the quiz, but you may not use outside help (e.g. William Whittaker's Words).
 
-In addition, Latin 3 students will be expected to do some brief grammatical homework toward the beginning of the first quarter to get them up to speed. (The readings will only be one sentence long during this period.) Latin 4 students will be expected to submit short (1--3 sentence) compositions in Latin concerning the passages read.
+In addition, the first quarter homework will focus on review of grammar from Latin 1 and 2.
 
 Another 20% of the grade will come from in-class evaluation.  This grade will be based both on participation (freely volunteering answers) and on accuracy (having the right answers).  The expectation is that you will come to class not only having read the weekly assignment, but have also looked up unfamiliar words in the dictionary, investigated unfamiliar grammatical forms, and re-read the passage a few times drilling in the meaning. You may *not* bring written translations or glosses to class. You should have the passaged prepared well enough that you can read the Latin directly in class and answer questions about its content. I keep track of the quality of participation on my attendance cards on a class-by-class basis.
 

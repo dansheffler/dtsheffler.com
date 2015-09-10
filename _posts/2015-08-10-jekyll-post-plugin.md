@@ -1,5 +1,5 @@
 ---
-Title: Jekyll Post Plugin
+title: Jekyll Post Plugin
 ---
 
 

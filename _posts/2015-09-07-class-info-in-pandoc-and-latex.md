@@ -1,5 +1,5 @@
 ---
-Title: Class Info in Pandoc and LaTeX
+title: Class Info in Pandoc and LaTeX
 ---
 
 
