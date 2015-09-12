@@ -22,21 +22,21 @@ max-width:33em;
 /* Tables */
 dl {
 	padding: 0;
-    margin: 1.5em 0;
+  margin: 1.5em 0;
 }
 
 dt {
-    float: left;
-    clear: left;
-	width: 20%;
+  float: left;
+  clear: left;
+	width: 25%;
 	font-weight: bold;
 }
 
 dd {
-    float: left;
-    clear: right;
+  float: left;
+  clear: right;
 	margin: 0 0 1.5em 0;
-    width: 80%;
+  width: 75%;
 	padding: 0;
 }
 
