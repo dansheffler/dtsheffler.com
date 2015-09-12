@@ -99,16 +99,16 @@ middle position that there are some features of temporal beings
 *qua* eternal. I therefore propose a terminology which covers these
 three positions:
 
-**Atemporalism**
+Atemporalism
 :    Eternal entities possess *no* feature similar to any feature
      characteristic of temporal entities.
 
-**Semi-Temporalism**
+Semi-Temporalism
 :    Eternal entities possess *at least one* feature similar to a
      feature characteristic of temporal entities, but in some important
      respects eternal entities are unlike temporal entities.
 
-**Temporalism**
+Temporalism
 :    Eternal entities possess (nearly) *all* of the features
      characteristic of temporal entities.
 

@@ -28,15 +28,20 @@ dl {
 dt {
   float: left;
   clear: left;
-	width: 25%;
+	/*width: 25%;*/
 	font-weight: bold;
+  margin-right: 1em;
+}
+
+dt::after {
+  content: ": ";
 }
 
 dd {
-  float: left;
-  clear: right;
+/*  float: left;
+  clear: right;*/
 	margin: 0 0 1.5em 0;
-  width: 75%;
+  /*width: 75%;*/
 	padding: 0;
 }
 
