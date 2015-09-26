@@ -1,9 +1,9 @@
 ---
 title:      PHL 211 Spring 2015 Syllabus
-layout:     noheader
+permalink:  /phl211syllabus/
 ---
 
-## PHL 211 -- Ancient and Medieval Philosophy ##
+## PHL 211 Spring Syllabus ##
 
 Location
 :    HU 125
@@ -16,6 +16,9 @@ E-mail
 
 Web
 :   [Discovery][disc]: http://discovery.asbury.edu/course/view.php?id=7275
+
+Schedule
+:    [Here](http://dansheffler.com/phl211schedule/)
 
 [disc]: http://discovery.asbury.edu/course/view.php?id=7275
 
@@ -38,6 +41,7 @@ This course will survey the history of philosophy from the presocratic Greeks to
 We will go through the major themes of each period and thinker synoptically, but at every stage I have chosen to focus on the particular theme of *the cosmos* as a way to bring all these thinkers together and to understand the role and vision of philosophy in the ancient and medieval world.  This means that for every thinker we will be asking the question: how does he conceive the structure of the universe as a whole?  I hope this will open our eyes to the high degree of agreement amongst ancient and medieval thinkers on this score and the high degree of difference between them and us.
 
 The expected learning outcomes for this course are:
+
 - to learn an appreciation for major philosophers'
   contributions to the Western philosophical tradition;
 - to understand the primary questions, terminology, and

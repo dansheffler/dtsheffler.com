@@ -1,13 +1,13 @@
 ---
 title:      PHL 211 Spring 2015 Schedule
-layout:     noheader
+permalink:  /phl211schedule/
 ---
 
-## PHL 211 2015 Spring Schedule ##
+## PHL 211 Spring Schedule ##
 
 The following schedule is an estimation of the dates on which we will
 cover particular topics in this course. As such, it is subject to
-change. Readings marked (D) are available as PDFs in Discovery.
+change. Readings marked (D) are available as PDFs in Discovery.  For the full syllabus, see [here](http://dansheffler.com/phl211syllabus/).
 
 For each reading a reading quiz must be completed on
 Discovery *by the day listed*.

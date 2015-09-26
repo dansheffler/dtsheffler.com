@@ -51,8 +51,8 @@ I wanted to point out that I think everyone should be using Git
 anyway if they are doing anything in plain text.  With an
 appropriate plugin, there is really very little to learn (no need
 to get into the CLI or any advanced features for our purposes).  I
-also want to point out that Christian is exactly right.  With date-
-of-creation timestamps or date-of-modification timestamps, you only
-get one point at which to place this note near others.  With Git,
-you get nearness based on *each* change---both to the starting note
-and to its "change neighbors."
+also want to point out that Christian is exactly right.  With date-of-creation
+timestamps or date-of-modification timestamps, you only get one
+point at which to place this note near others.  With Git, you get
+nearness based on *each* change---both to the starting note and to
+its "change neighbors."
