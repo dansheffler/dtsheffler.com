@@ -42,7 +42,6 @@ B.A., Philosophy and Classics, University of Kentucky, 2010.
 "A Complex Eternity," Society of Christian Philosophers, Georgetown University, April 2013.
 
 
-
 #### Awards ####
 
 Best graduate student paper ($500) awarded by Society of Christian Philosophers for "A Complex Eternity," April 2013.
@@ -54,6 +53,10 @@ Research grant from University of Kentucky Eureka fund ($2,000), 2006.
 
 
 #### Teaching ####
+
+Introduction to Philosophy (on-line course), Asbury University, Fall 2015.
+
+Introduction to Philosophy, University of Kentucky, Fall 2015.
 
 Ancient and Medieval Philosophy, Asbury University, Spring 2015.
 
