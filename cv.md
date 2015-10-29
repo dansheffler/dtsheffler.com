@@ -56,8 +56,6 @@ Research grant from University of Kentucky Eureka fund ($2,000), 2006.
 
 Introduction to Philosophy (on-line course), Asbury University, Fall 2015.
 
-Introduction to Philosophy, University of Kentucky, Fall 2015.
-
 Ancient and Medieval Philosophy, Asbury University, Spring 2015.
 
 Philosophy of C.S. Lewis, Asbury University, Spring 2014.
@@ -68,7 +66,7 @@ Introduction to Philosophy, Asbury University, Fall 2013--Fall 2014.
 
 Business Ethics, University of Kentucky, Spring 2013--Fall 2013.
 
-Knowledge and Reality, University of Kentucky, Fall 2013--Spring 2015.
+Knowledge and Reality, University of Kentucky, Fall 2013--Fall 2015.
 
 Introduction to Ethics, University of Kentucky, Spring 2012--Fall 2012.
 
