@@ -1,35 +1,28 @@
 ---
-title:  PHI 100 Syllabus
-author: Dan Sheffler
-date:   2015-08-11
+title:      PHI 100 Syllabus
+author:     Dan Sheffler
+date:       2016-01-05
+permalink:  /phi100syllabus/
 ---
 
 
+# Introduction to Philosophy #
 
+--------------- -------------------------------------------------------
+Sections        002 at 1:00 and 005 at 2:00 MWF
 
-Section
-:   002 at 1:00 and 005 at 2:00 MWF
+Locations       CB 342 (section 002) and CB 207 (section 005)
 
-Location
-:   CB 342 (section 002) and CB 207 (section 005)
+Instructor      Dan Sheffler
 
-Instructor
-:   Dan Sheffler
+E-mail          dansheffler@uky.edu
 
-E-mail
-:   dansheffler@uky.edu
+Office Hours    MWF 12:00--1:00 PM POT 1406
 
-Office Hours
-:   MWF 12:00--1:00 PM POT 1406
+Required Text   Nils Ch. Rauhut, *Ultimate Questions*, third
+                edition (Prentice Hall, 2011), ISBN 02573197X.
+--------------- -------------------------------------------------------
 
-
-
-
-
-## Required Texts ##
-
-- Nils Ch. Rauhut, *Ultimate Questions*, third edition (Prentice
-  Hall, 2011), ISBN 02573197X.
 
 
 ## Course Description and Learning Outcomes ##
@@ -40,8 +33,10 @@ This course aims to provide you with a foundation in the basic questions, techni
 Outcome                           Evaluation                Weight
 --------------------------------- ------------------------- -----------
 Reading Comprehension             Reading Quizzes           35%
+
 Mastery of Basic Concepts         Midterm and Final         30%
-Ability to Articulate Postition   Short Essays              35%
+
+Ability to Articulate Position    Short Essays              35%
 --------------------------------- ------------------------- -----------
 
 
