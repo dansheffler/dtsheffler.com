@@ -8,10 +8,10 @@ date:   2015-08-11
 
 
 Section
-:   011 and 012
+:   002 at 1:00 and 005 at 2:00 MWF
 
 Location
-:   CB 341 (011) and CB 245 (012)
+:   CB 342 (section 002) and CB 207 (section 005)
 
 Instructor
 :   Dan Sheffler
@@ -20,7 +20,7 @@ E-mail
 :   dansheffler@uky.edu
 
 Office Hours
-:   MWF 1:00--2:00 PM POT 1406
+:   MWF 12:00--1:00 PM POT 1406
 
 
 
@@ -28,35 +28,32 @@ Office Hours
 
 ## Required Texts ##
 
-- Plato, *Five Dialogues*, (Hackett, 2002), ISBN: 0872206335.
-- Anselm, *Proslogion*, Tr. Thomas Williams, (Hackett 2001), ISBN: 0872205657.
-- Rene Descartes, *Meditations*, Tr. Roger Ariew and Donald Cress,
-  (Hackett  1993), ISBN: 0872201929.
-- George Berkeley, *Three Dialogues*, Ed. Robert Merrihew Adams,
-  (Hackett 1979), ISBN: 0915144611.
+- Nils Ch. Rauhut, *Ultimate Questions*, third edition (Prentice
+  Hall, 2011), ISBN 02573197X.
 
 
 ## Course Description and Learning Outcomes ##
 
-What does it mean to say that something is "real"? What is "reality"? What does the universe contain? Can we know any of this? If so, how? What does it mean to say that a statement is "true"? Does this mean that there is something called "the truth"? Can we know the truth? How? When we say that something is "red" what does this mean? What would make this claim true?
+This course aims to provide you with a foundation in the basic questions, techniques, and concepts of philosophy.  We will take our point of departure from Nils Rauhut's survey, focusing each unit of the class on one of philosophy's classic "Ultimate Questions."  Everyone will go through this book to get the fundamentals, but you must also engage primary sources that you will select from the "For Further Reading" section of each chapter.  Reading comprehension and engagement will therefore be central to this class.  After you have learned to read and think about what important philosophers have to say on these big questions you must also learn to think about your own conclusions and articulate those conclusions in clear, persuasive writing.  Be prepared to *read*, to *think* about what you read, and to *write* about what you think.
 
-All these questions concern the nature of reality and our knowledge of it. In this course we will learn to evaluate such questions by using general philosophical principles and theories. You will first learn the relevant theoretical principles by studying primary source texts from ancient Greek and modern philosophy. You will then learn how to bring these historical theories into dialog with contemporary thought. Finally, you will be able to articulate your own position by written argument and in-class discussion.
+--------------------------------- ------------------------- -----------
+Outcome                           Evaluation                Weight
+--------------------------------- ------------------------- -----------
+Reading Comprehension             Reading Quizzes           35%
+Mastery of Basic Concepts         Midterm and Final         30%
+Ability to Articulate Postition   Short Essays              35%
+--------------------------------- ------------------------- -----------
+
 
 
 
 ## Grading ##
 
------------------ ---- 
-Reading Quizzes   30% 
-Final Paper       30% 
-Midterm Exam      20% 
-Final Exam        20% 
------------------ ----
+The first portion of your grade will come from regular (short) reading quizzes. These will be completed on Canvas and will typically consist of a few multiple-choice questions on the reading for the day. These quizzes are due before class on the day when the corresponding reading assignment is due. There is a time limit on these quizzes and they can only be taken once, so it is advisable that you complete them just as soon as you complete your reading. You will not have enough time to search the reading for the answers, but you may keep the reading assignment open to aid in the completion of the quiz.  I do not accept "my internet broke" excuses for resetting these quizzes (mysteriously there is always one student who can't figure out how to use the internet for the whole semester and they are also mysteriously the same student that has the lowest quiz grades).  In compensation, I drop the lowest quiz grade (because I understand that sometimes your internet really does break).  I recommend that you do not take these quizzes on your phone or at coffee shops with sketchy connections (Coffea).  This solves most problems.
 
+At the end of each chapter, you will submit a short (500--1000 words) paper on Canvas reflecting on one of the readings in the "For Further Reading" section of each chapter.  If you select a book, you must read one chapter from this book.  If you select an article, you must read the whole article.  Spend at least 250 words of your paper analyzing the argument of the chapter or article.  Specifically, you should identify the main conclusion and the main premises that the author uses to support this conclusion.  Next, spend at least 250 words articulating your own response to this argument.  Do you agree with the conclusion or not?  Does the author do a good job supporting his conclusion with reasons or is there a problem?  Each of these papers is worth 5% of your grade for a total of 35% over the course of the semester.
 
-The first portion of your grade will come from regular (short) reading quizzes. These will be completed on Blackboard and will typically consist of a few multiple-choice questions on the reading for the day. These quizzes are due before class on the day when the corresponding reading assignment is due. There is a time limit on these quizzes and they can only be taken once, so it is advisable that you complete them just as soon as you complete your reading. You will not have enough time to search the reading for the answers, but you may keep the reading assignment open to aid in the completion of the quiz.  I do not accept "my internet broke" excuses for resetting these quizzes (mysteriously there is always one student who can't figure out how to use the internet for the whole semester and they are also mysteriously the same student that has the lowest quiz grades).  In compensation, I drop the lowest quiz grade (because I understand that sometimes your internet really does break).  I recommend that you read and follow the [guidelines](https://www.uky.edu/acadtrain/sites/www.uky.edu.acadtrain/files/Tips_for_Taking_Blackboard_Tests.pdf) from UK IT.  These solve most problems.
-
-At the end of the semester, you will submit a short (1500--2000 words) paper on Blackboard reflecting on any topic we have covered in class. I will provide further guidance on this paper as the due date approaches. The midterm and the final will both comprise 20% of your grade and will mainly consist of factually oriented multiple choice questions concerning the reading (hint: it is a good idea to review past reading quizzes), but there will also be a handful of reflective short-answer questions.
+The midterm and the final will each comprise 15% of your grade (for a total of 30%) and will mainly consist of factually oriented multiple choice questions concerning the reading (hint: it is a good idea to review past reading quizzes), but there will also be a handful of reflective short-answer questions.  You will take both midterm and final on line (do not come to class that day; you will be sad).
 
 **Grading Scale:**
 
@@ -71,32 +68,11 @@ E   59--0%
 --- ------------------
 
 
-## Attendance ##
-
-Although attendance does not compose its own segment of the grade, it is mandatory and failure to attend class will adversely impact your grade. Role will be taken at the beginning of every class period. Perfect attendance will result in an extra credit of +2 percentage points. The first 2 unexcused absences will not count against you, but beginning with the 3rd absence, each absence will subtract 2 percentage points from your final grade. This goes to a **limit of 7 unexcused absences** at which point you can no longer pass the class. For your reference:
-
-Number of Absences  Percentage Change to Final Grade 
-------------------- ---------------------------------
-0                   $+2$
-1                   0
-2                   0
-3                   $-2$
-4                   $-4$
-5                   $-6$
-6                   $-8$
-7                   $-50$
-
-
-
-
-I keep track of absences by calling roll at the beginning of each class. If you do not respond when I call your name (perhaps because you are not there) you will be marked as absent. This means that if you walk in late it is your responsibility to check in with me each and every time. Lateness, especially if egregious or repeated, may be counted as an absence for the day. You are always welcome to look at your card and I encourage you to do so because it is your responsibility to keep track of how many absences I have recorded. This is especially important for students who are in danger of failing the class because of absences. I probably will not notice when you have six absences so I am unlikely to notify you when you are in danger of failing. Students missing class or an exam due to an excused absence bear the responsibility of informing me about their absence within one week following the period of the absence (except where prior notification is required) and providing appropriate documentation for the absence. Excused absences are not taken into account in the above adjustment to the final grade. It is entirely the student's responsibility to make up missed work. Make up work (including exams) must be submitted within one week of return to class. If you miss an exam due to an unexcused absence, you will receive a grade of zero for that exam. In general, I do not excuse on-line assignments.
-
-
 ## E-mail and Internet ##
 
 You are expected to have an active e-mail account that you check regularly. Section related announcements will be made via e-mail (e.g. if I am sick, pointers for home work, change in due dates). Also, e-mail is the best way for contacting me outside of class.
 
-You are expected to have access to a stable internet connection as reading quizzes are carried out on Discovery.  I will not reset quizzes because of internet trouble (doing so is simply too easy to abuse and has been in the past).  Instead, I will be dropping the lowest two reading quiz scores for everyone.
+You are expected to have access to a stable internet connection as reading quizzes are carried out on Canvas.  I will not reset quizzes because of internet trouble (doing so is simply too easy to abuse and has been in the past).  Instead, I will be dropping the lowest reading quiz score for everyone.
 
 
 
