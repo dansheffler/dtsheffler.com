@@ -1,5 +1,6 @@
 # Site settings
 title:          "dansheffler.com"
+author:         "Dan Sheffler"
 email:          ""
 description:    "The personal website of Dan Sheffler"
 baseurl:        ""
@@ -29,6 +30,8 @@ collections:
     output: true
   teaching:
     output: true
+  presentations:
+    output: true
 
 defaults:
   -
@@ -42,3 +45,9 @@ defaults:
       type: "post"
     values:
       layout: "post" # overrides previous default layout
+  -
+    scope:
+      path: ""
+      type: "presentations"
+    values:
+      layout: "presentation"

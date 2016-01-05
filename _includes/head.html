@@ -2,6 +2,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <meta name="author" content="{% if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif %}">
     <meta name="viewport" content="width=device-width">
     {% if page.excerpt %}
         <meta name="description" content="{{ page.excerpt | strip_html | strip | strip_newlines | truncate: 155 }}">
@@ -12,9 +13,10 @@
     {% endif %}
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
 
-    <!-- Custom CSS -->
-
+    <!-- Mathjax -->
     <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+    <!-- Google Analytics -->
     <script>
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -25,6 +27,8 @@ ga('create', 'UA-52489871-1', 'auto');
 ga('send', 'pageview');
 
     </script>    
+
+    <!-- Custom CSS -->
     <link rel="stylesheet" href="/css/Clownfart.css">
     <link rel="alternate" type="application/rss+xml" title="dansheffler.com" href="http://dansheffler.com/rss/index.xml" />
 </head>

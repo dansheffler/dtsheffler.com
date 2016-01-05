@@ -1,0 +1,249 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
+    <meta name="author" content="{% if page.author %}{{ page.author }}{% else %}{{ site.author }}{% endif %}">
+    <meta name="viewport" content="width=device-width">
+    {% if page.excerpt %}
+        <meta name="description" content="{{ page.excerpt | strip_html | strip | strip_newlines | truncate: 155 }}">
+    {% elsif post.excerpt %}
+        <meta name="description" content="{{ post.excerpt | strip_html | strip | strip_newlines | truncate: 155 }}">
+    {% else %}
+        <meta name="description" content="{{ site.description }}">
+    {% endif %}
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+
+    <!-- Mathjax -->
+    <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+
+    <!-- Google Analytics -->
+    <script>
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+ (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+ m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+ })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+ga('create', 'UA-52489871-1', 'auto');
+ga('send', 'pageview');
+
+    </script>    
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/css/Clownfart.css">
+    <link rel="alternate" type="application/rss+xml" title="dansheffler.com" href="http://dansheffler.com/rss/index.xml" />
+
+<style>
+    #content-wrapper {
+        padding-top: 30px !important;
+    }
+
+    header.site-header {
+        display: none;
+    }
+
+    #criticnav {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        box-shadow: 0 1px 1px 1px #777;
+        margin: 0;
+        padding: 0;
+        background-color: white;
+        font-size: 12px;
+    }
+
+    #criticnav ul {
+        list-style-type: none;
+        width: 90%;
+        margin: 0 auto;
+        padding: 0;
+    }
+
+    #criticnav ul li {
+        display: block;
+        width: 33%;
+        text-align: center;
+        padding: 10px 0 5px!important;
+        margin: 0 !important;
+        line-height: 1em;
+        float: left;
+        border-left: 1px solid #ccc;
+        text-transform: uppercase;
+    }
+
+    #criticnav ul li:before {
+        content: none !important;
+    }
+
+    #criticnav ul li#edited-button {
+        border-right: 1px solid #ccc;
+    }
+
+    #criticnav ul li.active {
+        background-image: -webkit-linear-gradient(top, white, #cccccc)
+    }
+
+    .original del {
+        
+            text-decoration: none;
+    }   
+
+    .original ins,
+    .original span.popover,
+    .original ins.break {
+        display: none;
+    }
+
+    .edited ins {
+        
+            text-decoration: none;
+    }   
+
+    .edited del,
+    .edited span.popover,
+    .edited ins.break {
+        display: none;
+    }
+
+    .original mark,
+    .edited mark {
+        background-color: transparent;
+    }
+
+    .markup mark {
+        background-color: #fffd38;
+        text-decoration: none;
+    }
+
+    .markup del {
+        background-color: #f6a9a9;
+        text-decoration: none;
+    }
+
+    .markup ins {
+        background-color: #a9f6a9;
+        text-decoration: none;
+    }
+
+    .markup ins.break {
+        display: block;
+        line-height: 2px;
+        padding: 0 !important;
+        margin: 0 !important;
+    }
+
+    .markup ins.break span {
+        line-height: 1.5em;
+    }
+
+    .markup .popover {
+        background-color: #4444ff;
+        color: #fff;
+    }
+
+    .markup .popover .critic.comment {
+        display: none;
+    }
+
+    .markup .popover:hover span.critic.comment {
+        display: block;
+        position: absolute;
+        width: 200px;
+        left: 30%;
+        font-size: 0.8em; 
+        color: #ccc;
+        background-color: #333;
+        z-index: 10;
+        padding: 0.5em 1em;
+        border-radius: 0.5em;
+    }
+}
+
+</style>
+
+<div id="criticnav">
+    <ul>
+        <li id="markup-button">Markup</li>
+        <li id="original-button">Original</li>
+        <li id="edited-button">Edited</li>
+    </ul>
+
+</div>
+
+<script type="text/javascript">
+
+    function critic() {
+
+        $('#firstdiff').remove();
+        $('#content-wrapper').addClass('markup');
+        $('#markup-button').addClass('active');
+        $('ins.break').unwrap();
+        $('span.critic.comment').wrap('<span class="popover" />');
+        $('span.critic.comment').before('&#8225;');
+
+    }  
+
+    function original() {
+        $('#original-button').addClass('active');
+        $('#edited-button').removeClass('active');
+        $('#markup-button').removeClass('active');
+
+        $('#content-wrapper').addClass('original');
+        $('#content-wrapper').removeClass('edited');
+        $('#content-wrapper').removeClass('markup');
+    }
+
+    function edited() {
+        $('#original-button').removeClass('active');
+        $('#edited-button').addClass('active');
+        $('#markup-button').removeClass('active');
+
+        $('#content-wrapper').removeClass('original');
+        $('#content-wrapper').addClass('edited');
+        $('#content-wrapper').removeClass('markup');
+    } 
+
+    function markup() {
+        $('#original-button').removeClass('active');
+        $('#edited-button').removeClass('active');
+        $('#markup-button').addClass('active');
+
+        $('#content-wrapper').removeClass('original');
+        $('#content-wrapper').removeClass('edited');
+        $('#content-wrapper').addClass('markup');
+    }
+
+    var o = document.getElementById("original-button");
+    var e = document.getElementById("edited-button");
+    var m = document.getElementById("markup-button");
+
+    window.onload = critic;
+    o.onclick = original;
+    e.onclick = edited;
+    m.onclick = markup;
+
+</script>
+
+</head>
+<body>
+<div id="content-wrapper">
+    {% include header.html %}
+    <div class="paper">
+        <article class="paper-content">
+        {{ content }}
+        </article>
+    </div>
+    <div class="source">
+        Source: 
+        <a class="source-link" href="{{ page.path | remove: 'C:/Users/Dan/Dropbox/dansheffler/' | prepend: 'https://raw.githubusercontent.com/dansheffler/dansheffler.com/master/' }}">
+            md
+        </a>
+    </div>
+</div>
+    {% include toc-footer.html %}
+</body>
+
+</html>

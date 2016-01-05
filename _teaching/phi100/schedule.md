@@ -79,12 +79,13 @@ Date       Topic                Reading
 
 2015-11-13                      **Thesis and Outline Due**
 
-2015-11-16                      *Meditations* (Sixth Meditation) 
+2015-11-13                      *Meditations* (Sixth Meditation) 
 
-2015-11-20 Berkley              *Three Dialogues* I
+2015-11-16 Berkley              *Three Dialogues* I
 
-2015-11-23                      *Three Dialogues* II;
-                                **Final Paper Due**
+2015-11-20                      *Three Dialogues* II;
+
+2015-11-23                      **Final Paper Due**
 
 2015-11-27                      **Thanks Giving**
 
