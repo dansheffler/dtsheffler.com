@@ -1,0 +1,396 @@
+%!TEX TS-program = xelatex
+%!TEX encoding = UTF-8 Unicode
+
+\RequirePackage{etoolbox}
+            \documentclass[12pt,oneside]{book}
+    
+
+\usepackage{amsmath,amssymb}
+
+\usepackage{ctable}
+\setupctable{width=2in}
+\usepackage{placeins}
+
+
+% Diagrams
+\usepackage{tikz}
+\usetikzlibrary{arrows}
+\usepackage{subcaption}
+
+
+% Use fonts from system fonts.
+\usepackage{fontspec,xunicode}
+\defaultfontfeatures{Mapping=tex-text}
+\setmainfont[Mapping=tex-text]{Palatino Linotype}
+%\settitlefont[Mapping=tex-text]{OFL Sorts Mill Goudy}
+%\setsansfont[Scale=MatchLowercase,Mapping=tex-text]{Helvetica Neue}
+%\setmonofont[Scale=MatchLowercase]{Consolas}
+\newfontfamily\greekfont[Scale=1]{GFS Porson}
+
+% Ostensibly Spaces will typeset in mathmode.
+% Doesn't seem to work, us \textrm{} instead.
+{\catcode`\ =\active{\global\let =\ }}
+\everymath{\catcode`\ =\active}
+
+
+
+% Get \boxright from txfonts without changing math font face.
+% \boxright can only be used in mathmode.
+\DeclareSymbolFont{symbolsC}{U}{txsyc}{m}{n}
+\DeclareMathSymbol{\boxright}{\mathrel}{symbolsC}{128}
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Get Greek to work automatically.
+% Just type Greek unicode in the body of the text and this will detect when the switch has been made.
+
+\usepackage{polyglossia}
+\setdefaultlanguage{english}
+\setotherlanguage[variant=ancient]{greek}
+
+
+\input{C:/Users/Dan/texmf/tex/greektokens}
+
+\XeTeXinterchartoks 0 \greekLetter = {\begin{otherlanguage*}{greek}}
+\XeTeXinterchartoks \greekLetter 0 = {\end{otherlanguage*}}
+\XeTeXinterchartoks 255 \greekLetter = {\begin{otherlanguage*}{greek}}
+\XeTeXinterchartoks \greekLetter 255 = {\end{otherlanguage*}}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+% Pandoc's Meta-data handling
+
+% \newcommand{\mytitle}{testing}
+% \newcommand{\Originaltitle}{}
+
+% \let\Originaltitle\title
+% \renewcommand*{\title}[1]{%
+%   \Originaltitle{#1}%
+%   \renewcommand*{\mytitle}{#1}%
+% }
+
+% \newcommand{\myauthor}{testing}
+% \newcommand{\Originalauthor}{}
+
+% \let\Originalauthor\author
+% \renewcommand*{\author}[1]{%
+%   \Originalauthor{#1}%
+%   \renewcommand*{\myauthor}{#1}%
+% }
+
+% \newcommand{\mydate}{testing}
+% \newcommand{\Originaldate}{}
+
+% \let\Originaldate\date
+% \renewcommand*{\date}[1]{%
+%   \Originaldate{#1}%
+%   \renewcommand*{\mydate}{#1}%
+% }
+
+
+
+
+
+
+% % Give some default values.
+% \def\myauthor{}
+% \def\mydate{}
+% \def\teacher{}
+% \def\class{}
+% \def\semester{}
+% \def\dearline{To whom it may concern,}
+
+
+%Pandoc subscript command
+\newcommand{\textsubscr}[1]{\textsubscript{#1}}
+
+
+% My finicky block quote formating
+\usepackage[leftmargin=0.5in,rightmargin=0.5in,noorphans,indentfirst=false]{quoting}
+
+% Special No Indent Command
+\makeatletter
+\newcommand*{\@doendeq}{%
+  \everypar{{\setbox\z@\lastbox}\everypar{}}%
+}
+
+\renewenvironment{quote}{%
+    \singlespacing\begin{quoting}%
+}{%
+    \end{quoting}\ignorespacesafterend\par\noindent\aftergroup\@doendeq%
+}
+
+\makeatother
+
+
+
+
+% Make Footnote fontsize the same as the body text.
+\let\origfootnotesize\footnotesize
+\let\footnotesize\normalsize
+
+
+% Chicago style footnotes (full citation in first note)
+\usepackage[notes,isbn=false,url=false]{biblatex-chicago}
+\addbibresource{mybib.bib}
+
+
+% Fix footnote number indentation
+\usepackage{footmisc}
+\makeatletter
+\renewcommand\@makefntext[1]{% 
+    \parindent 0.5in% 
+    \@thefnmark.~#1}
+\makeatother
+
+
+%Automatic Links
+\usepackage[xetex, bookmarks, colorlinks=false, pdftitle={Samples from Teaching Evaluations}, pdfauthor={Dan Sheffler}, pdfsubject={}]{hyperref}
+
+
+
+% Pandoc's expected environment for lists
+\usepackage[shortlabels]{enumitem}
+\setlistdepth{20}
+
+\usepackage{afterpage}
+
+
+%%%%%%%%%%%%%%%%%% Pandoc's Presets %%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\usepackage{longtable,booktabs}
+
+
+
+
+%%%% Important Metadata %%%%
+\title{Samples from Teaching Evaluations}
+\author{Dan Sheffler}
+\date{2016-02-23}
+
+
+
+
+%%%%%%%%%% Chicago %%%%%%%%%%%%%
+
+
+
+
+
+% Page layout
+\usepackage[right=1in,left=1in,top=1in,bottom=1in,includehead]{geometry}
+\usepackage{setspace}
+\parindent  0.5in
+
+% List Environments
+\setlist[enumerate]{%
+    labelindent=0.5in,%
+    leftmargin=*,%
+     nosep%
+}
+\setlist[itemize]{%
+    leftmargin=0.5in,%
+    labelindent=0.0in,%
+    labelsep=*%
+}
+
+
+% Get single-spacing for paragraphs in numbered lists
+
+\makeatletter
+\let\oldenumerate=\enumerate
+\renewenvironment{enumerate}{%
+    \singlespacing\begin{oldenumerate}
+}{%
+
+    \end{oldenumerate}\ignorespacesafterend\par\noindent\aftergroup\@doendeq}
+\makeatother
+
+
+
+%Title, Section, etc. Subsubsections blank in the text body (paragraph labels), but the text *is* included in the TOC.
+
+\usepackage[bottomtitles,explicit]{titlesec}
+\titleformat{\chapter}[display]{\vspace{1in}\bfseries\Huge}{Chapter \thechapter \LARGE\newline #1}{0.2in}{}[\vspace{-1in}]
+\titleformat{\section}[hang]{\bfseries\large}{\Roman{section}~~--~~#1}{0in}{}
+\titleformat{\subsection}[hang]{\bfseries\normalsize}{#1}{0in}{}
+\titleformat{name=\section,numberless}[hang]{\bfseries\large}{#1}{0in}{}
+% \titleformat{\subsection}[runin]{}{}{.5in}{}
+\titleformat{\subsubsection}[runin]{\normalsize}{}{0.5in}{\hspace{0.5in}}
+
+
+\titlespacing*{\subsubsection}{0.5in}{0in}{0in}
+
+
+% \makeatletter
+% \newcommand*{\@doendeq}{%
+%  \everypar{{\setbox\z@\lastbox}\everypar{}}%
+%}
+
+
+% Reset subsubsection counters even if levels are skipped.
+\makeatletter
+    \@addtoreset{subsubsection}{section}
+\makeatother
+
+
+
+
+
+% Page Header Formating
+\usepackage{fancyhdr}
+\setlength{\headheight}{15.2pt}
+\usepackage{lastpage}
+
+
+\fancypagestyle{plain}{%
+\fancyhf{} % clear all header and footer fields
+\fancyfoot[C]{\thepage} % except the center
+\renewcommand{\headrulewidth}{0pt}%
+\renewcommand{\footrulewidth}{0pt}%
+\newgeometry{top=1in,left=1in,right=1in,bottom=1in}
+}
+
+\fancypagestyle{none}{%
+\fancyhf{} % clear all header and footer fields
+\renewcommand{\headrulewidth}{0pt}%
+\renewcommand{\footrulewidth}{0pt}%
+\newgeometry{top=1in,left=1in,right=1in,bottom=1in}
+}
+
+\fancypagestyle{myheading}{%
+\lhead{\rightmark}\chead{}\rhead{Sheffler \thepage}
+\fancyfoot[C]{}%
+\renewcommand{\headrulewidth}{1pt}%
+\renewcommand{\footrulewidth}{0pt}%
+\restoregeometry%
+}
+
+
+
+
+
+\clubpenalty=1000
+\widowpenalty=1000
+
+
+
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\begin{document}
+
+%Fixes for sections in the header.
+\pagestyle{myheading}
+\renewcommand{\chaptermark}[1]{\markright{\chaptername\ \thechapter\ -\ #1}}
+\renewcommand{\sectionmark}[1]{\markright{\Roman{section}\ -\ #1}}
+
+
+    % Exclude header from first page
+    \thispagestyle{plain}
+
+    % %Class information
+    % \noindent Dan Sheffler\\
+    % \noindent\LARGE\textbf{Samples from Teaching Evaluations}
+    % \\
+    % \\
+
+    % % Title
+    % \vspace{.1in}
+
+
+    % The rest of the paper
+
+\doublespace
+
+
+
+
+%%%%%%% Pandoc Presets %%%%%%%
+
+\begin{longtable}[c]{@{}lllll@{}}
+\toprule
+Semester & Course & Overall Quality testing testing testing testing
+testing & Overall Value & Approx. Number\tabularnewline
+\midrule
+\endhead
+2011 Spring & PHI 120-010 & 3.8 & 3.1 & 25\tabularnewline
+2011 Spring & PHI 120-017 & 3.4 & 3.1 & 25\tabularnewline
+2011 Spring & PHI 120-018 & 3.4 & 2.7 & 25\tabularnewline
+2011 Fall & PHI 120-021 & 3.8 & 3.5 & 35\tabularnewline
+2011 Fall & PHI 120-025 & 3.7 & 3.6 & 35\tabularnewline
+2012 Spring & PHI 130-010 & 3.5 & 3.3 & 15\tabularnewline
+2012 Fall & PHI 130-003 & 3.8 & 3.6 & 30\tabularnewline
+2012 Fall & PHI 130-004 & 3.5 & 3.3 & 30\tabularnewline
+2013 Fall & PHI 100-010 & 4.0 & 3.8 & 30\tabularnewline
+2013 Fall & PHI 334-001 & 3.9 & 3.6 & 30\tabularnewline
+2013 Spring & PHI 334-002 & 3.8 & 3.6 & 35\tabularnewline
+2014 Fall & PHI 100-006 & 4.0 & 3.6 & 50\tabularnewline
+2014 Fall & PHI 100-011 & 3.9 & 3.8 & 20\tabularnewline
+\bottomrule
+\end{longtable}
+
+PHI 100 = Introduction to Philosophy PHI 120 = Introduction to Logic PHI
+130 = Introduction to Ethics PHI 334 = Business Ethics
+
+Overall quality of teaching is marked on a scale of 0 to 4.
+
+\section{Introduction to Philosophy (PHI
+100)}\label{introduction-to-philosophy-phi-100}
+
+``{[}If you were teaching this course, what would you do differently?{]}
+I'd resign and have Mr.~Sheffler teach it so students could have a
+better education.''
+
+\section{Introduction to Logic (PHI
+120)}\label{introduction-to-logic-phi-120}
+
+``I was never bored. Instead he woke me up and dragged me into
+philosophy.''
+
+``Dan was an excellent instructor and made some very complicated themes
+fairly simple, he always made himself available for help outside of the
+classroom, he will be a very good professor.''
+
+``Strengths include the informality of the course. Instructor was not
+intimidating or rude. Very helpful.''
+
+``The instructor's strengths were his ability to gauge student interest,
+answer questions effectively, and come across as caring about his
+students.''
+
+``Mr.~Sheffler covered all the material efficiently and in a relaxed,
+easy manner that was conducive to my way of learning.''
+
+``The class was structured very nicely because there was lecture and
+discussion. Our professor called on students so everyone had to
+participate.''
+
+``{[}He is{]} very smart, very interesting/stimulating. Great teacher.
+Fair grader, encourages success. No weaknesses.''
+
+\section{Business Ethics (PHI 334)}\label{business-ethics-phi-334}
+
+``I gained a great deal of valuable opinions and views as well as
+thought provoking discussions. {[}The instructor's strengths are{]}
+excellent knowledge, demeanor and preparedness.''
+
+``I liked how he encouraged student participation and made everyone feel
+comfortable to speak up.''
+
+``{[}He is{]} really good at making class enjoyable and carrying out
+discussions; has great knowledge of subject.''
+
+``He encourages everyone to participate and voice their opinions. The
+instructor is very knowledgeable about the material and presents it
+well.''
+
+\end{document}

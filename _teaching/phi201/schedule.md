@@ -26,12 +26,12 @@ Day           Topic         Reading
 2016-02-11                  *Phaedo* (269--281)
 2016-02-16                  *Timaeus* (614--629)
 2016-02-18                  *Timaeus* (630--644)
-2016-02-23    Aristotle     *Categories* (656--662)
-2016-02-25                  *On the Heavens* (739--746)
-2016-03-01                  *On the Heavens* (739--746)
-2016-03-03                  *Metaphysics* (771--783)
-2016-03-08                  *Metaphysics* (784-795)
-2016-03-10                  *Metaphysics* (796--808)
+2016-02-23    Aristotle     *Categories* (656--662; 1a--4b)
+2016-02-25                  *On the Heavens* (739--746; 268b--305a)
+2016-03-01                  *On the Heavens* (739--746; 268b--305a)
+2016-03-03                  *Metaphysics* (771--783; 1003a--1031b)
+2016-03-08                  *Metaphysics* (784-795; 1031b--1041b)
+2016-03-10                  *Metaphysics* (796--808; 1041b--1075a)
                             **Spring Break**
 2016-03-22    Augustine     *Confessions* I
 2016-03-24                  *Confessions* III
@@ -40,7 +40,7 @@ Day           Topic         Reading
 2016-04-05    Anselm        *Monologion* (5--31)
 2016-04-07                  *Monologion* (32--56)
 2016-04-12                  *Monologion* (57--81)
-2016-04-14    Thomas        *Summa Theologica* QQ 2--4 (M)
+2016-04-14    Aquinas       *Summa Theologica* QQ 2--4 (M)
 2016-04-19                  *Summa Theologica* Q 12 (M)
 2016-04-21                  *Summa Theologica* QQ 44 and 45 (M)
 2016-04-26                  *Summa Theologica* TBD (M)

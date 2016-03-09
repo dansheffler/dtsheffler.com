@@ -51,7 +51,7 @@
 	ga('create', 'UA-52489871-1', 'auto');
 	ga('send', 'pageview');
 
-	    </script>    
+	    </script>
 	</head>
 
 	<body>
@@ -70,6 +70,8 @@
 
 		<script>
 
+
+
 			// Full list of configuration options available at:
 			// https://github.com/hakimel/reveal.js#configuration
 			Reveal.initialize({
@@ -79,6 +81,7 @@
 				center: true,
 
 				transition: '{% if page.transition %}{{ page.transition }}{% else %}slide{% endif %}', // none/fade/slide/convex/concave/zoom
+				backgroundTransition: '{% if page.transition %}{{ page.transition }}{% else %}slide{% endif %}',
 				{% if page.parallax %}
 					parallaxBackgroundImage: 'https://s3.amazonaws.com/hakim-static/reveal-js/reveal-parallax-1.jpg', // e.g. "'https://s3.amazonaws.com/hakim-static/reveal-js/reveal-parallax-1.jpg'"
 				    parallaxBackgroundHorizontal: 50,
@@ -96,6 +99,29 @@
 				]
 			});
 
+		</script>
+		<script src="/js/jquery-1.8.3.min.js"></script>
+
+		// A little clever jQuery styling of blockquotes
+		<script>
+			$('blockquote p').each(function(){
+
+			    var $numWords = $(this).text().split(" ").length;
+
+			    console.log($numWords)
+
+			    if ($numWords >= 25) {
+			    	$(this).css("text-align", "left");
+			    	$(this).css("padding-left", "1em");
+			    }
+			    else {
+			    	$(this).css("font-size", "1.3em");
+			    }
+
+			    if ($numWords >= 50) {
+			        $(this).css("font-size", "0.7em");
+			    }
+			});
 		</script>
 
 	</body>

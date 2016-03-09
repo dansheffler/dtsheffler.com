@@ -33,6 +33,14 @@ html, body, .reveal div, .reveal span, .reveal applet, .reveal object, .reveal i
   display: block; }
 
 /*********************************************
+ * MY ADDITIONS
+ *********************************************/
+
+ section[data-background] blockquote {
+  background: rgba(128,128,128,0.5) !important;
+ }
+
+/*********************************************
  * GLOBAL STYLES
  *********************************************/
 html,
@@ -854,6 +862,11 @@ html:-moz-full-screen-ancestor {
   max-height: none;
   top: 0;
   left: 0; }
+
+/* tinted backgrounds */
+html.testState .state-background {
+  background-image: url("https://lh4.ggpht.com/wKrDLLmmxjfRG2-E-k5L5BUuHWpCOe4lWRF7oVs1Gzdn5e5yvr8fj-ORTlBF43U47yI=w300");
+}
 
 /* Immediate transition style */
 .reveal[data-background-transition=none] > .backgrounds .slide-background,

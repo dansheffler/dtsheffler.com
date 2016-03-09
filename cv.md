@@ -54,31 +54,44 @@ Research grant from University of Kentucky Eureka fund ($2,000), 2006.
 
 #### Teaching ####
 
-Introduction to Philosophy (on-line course), Asbury University, Fall 2015.
+###### Georgetown College ######
 
-Ancient and Medieval Philosophy, Asbury University, Spring 2015.
+Ancient and Medieval Philosophy, Spring 2016
 
-Philosophy of C.S. Lewis, Asbury University, Spring 2014.
 
-Social and Political Philosophy, Asbury University, Fall 2012, Fall 2014.
+###### Asbury University ######
 
-Introduction to Philosophy, Asbury University, Fall 2013--Fall 2014.
+Introduction to Philosophy (on-line course), Fall 2015.
 
-Business Ethics, University of Kentucky, Spring 2013--Fall 2013.
+Ancient and Medieval Philosophy, Spring 2015.
 
-Knowledge and Reality, University of Kentucky, Fall 2013--Fall 2015.
+Philosophy of C.S. Lewis, Spring 2014.
 
-Introduction to Ethics, University of Kentucky, Spring 2012--Fall 2012.
+Social and Political Philosophy, Fall 2012, Fall 2014.
 
-Symbolic Logic, University of Kentucky, Fall 2010--Fall 2011.
+Introduction to Philosophy, Fall 2013--Fall 2014.
 
-Latin 1 and 2, University of Kentucky, Fall 2009--Spring 2010.
 
-Medical Terminology (on-line course), University of Kentucky, Summer 2010.
+###### University of Kentucky ######
 
-Traditional Logic, Mars Hill Christian Academy, 2008--2014.
+Introduction to Philosophy, Fall 2013--Spring 2016.
 
-Latin years 3 and 4, Mars Hill Christian Academy, 2009--2015.
+Business Ethics, Spring 2013--Fall 2013.
+
+Introduction to Ethics, Spring 2012--Fall 2012.
+
+Symbolic Logic, Fall 2010--Fall 2011.
+
+Latin 1 and 2, Fall 2009--Spring 2010.
+
+Medical Terminology (on-line course), Summer 2010.
+
+
+###### Mars Hill Christian Academy ######
+
+Traditional Logic, 2008--2016.
+
+Latin years 3 and 4, 2009--2016.
 
 
 

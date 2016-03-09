@@ -2,7 +2,7 @@ html { font-size: 100%; overflow-y: scroll; -webkit-text-size-adjust: 100%; -ms-
 
 body{
 color:#333;
-font-family: 'Minion Pro', Palatino, Georgia, Times, 'Times New Roman', serif;
+font-family: 'Minion Pro', Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;
 font-size:1.75em;
 line-height:1.5em;
 background:#fdfdfd;
@@ -118,6 +118,12 @@ top: 4em;
 .tocify-subheader .tocify-subheader {
     text-indent:0.8em;
 }
+
+
+
+
+
+
 
 
 .wrap:before,

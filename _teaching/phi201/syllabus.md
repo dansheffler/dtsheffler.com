@@ -5,26 +5,17 @@ permalink:  /phi201syllabus/
 
 ## PHI 201 Syllabus - History of Philosophy I ##
 
-Location
-:    TBD
 
-Instructor
-:    Dan Sheffler
-
-E-mail
-:    dansheffler@uky.edu
-
-Web
-:   TBD
-
-Schedule
-:    <http://dansheffler.com/phi201schedule/>
-
-Semester
-:   Spring 2016
-
-Credit Hours
-:   3
+----------------------- -----------------------------------------------
+Location                AH005
+Instructor              Dan Sheffler
+Email                   daniel_sheffler@georgetowncollege.edu
+Web                     <http://sage.georgetowncollege.edu/course/view.php?id=2311>
+Schedule                <http://dansheffler.com/phi201schedule/>
+Presentations           <http://dansheffler.com/phi201presentations/>
+Semester                Spring 2016
+Credit Hours            3
+----------------------- -----------------------------------------------
 
 
 
@@ -88,8 +79,8 @@ clear, concise prose.
 
 ----------------- ----
 Reading Quizzes   30% 
-Midterm Paper     40% 
-Final Paper       40% 
+Midterm Paper     35% 
+Final Paper       35% 
 ----------------- ----
 
 The first portion of your grade will come from regular (short) reading quizzes. These will be completed on Moodle and will typically consist of five multiple-choice questions on the reading for the day. These quizzes are due before class on the day when the corresponding reading assignment is due. There is a time limit on these quizzes and they can only be taken once, so it is advisable that you complete them just as soon as you complete your reading. You will not have enough time to search the reading for the answers if you have not read it, but you may keep the reading assignment open to aid in the completion of the quiz. You will quickly find that you really must do the reading and do it quite carefully to do well on these quizzes.

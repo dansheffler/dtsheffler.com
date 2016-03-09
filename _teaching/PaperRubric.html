@@ -1,0 +1,407 @@
+<!DOCTYPE html>
+<!-- saved from url=(0048)http://dansheffler.com/teaching/PaperRubric.html -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <title>Paper Rubric</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+/*
+   This document has been created with Marked.app <http://marked2app.com>
+   Please leave this notice in place, along with any additional credits below.
+   ---------------------------------------------------------------
+   Title: Kult
+   Author: Peter Sziebig - @bigpe
+   Description: Easy to read
+*/
+
+@font-face {
+    font-family: "Ubuntu";
+    font-style: normal;
+    font-weight: 300;
+    src: local("Ubuntu Light"), local("Ubuntu-Light"), url("http://themes.googleusercontent.com/static/fonts/ubuntu/v4/WtcvfJHWXKxx4x0kuS1kobO3LdcAZYWl9Si6vvxL-qU.woff") format("woff");
+}
+@font-face {
+    font-family: "Ubuntu";
+    font-style: normal;
+    font-weight: 400;
+    src: local("Ubuntu"), url("http://themes.googleusercontent.com/static/fonts/ubuntu/v4/CGXpU_uR_FUfdeyCjAWgZ-vvDin1pK8aKteLpeZ5c0A.woff") format("woff");
+}
+@font-face {
+    font-family: "Ubuntu";
+    font-style: normal;
+    font-weight: 500;
+    src: local("Ubuntu Medium"), local("Ubuntu-Medium"), url("http://themes.googleusercontent.com/static/fonts/ubuntu/v4/gMhvhm-nVj1086DvGgmzB7O3LdcAZYWl9Si6vvxL-qU.woff") format("woff");
+}
+@font-face {
+    font-family: "Ubuntu";
+    font-style: normal;
+    font-weight: 700;
+    src: local("Ubuntu Bold"), local("Ubuntu-Bold"), url("http://themes.googleusercontent.com/static/fonts/ubuntu/v4/nsLtvfQoT-rVwGTHHnkeJrO3LdcAZYWl9Si6vvxL-qU.woff") format("woff");
+}
+@font-face {
+    font-family: "Ubuntu";
+    font-style: italic;
+    font-weight: 300;
+    src: local("Ubuntu Light Italic"), local("Ubuntu-LightItalic"), url("http://themes.googleusercontent.com/static/fonts/ubuntu/v4/DZ_YjBPqZ88vcZCcIXm6VqfTCPadK0KLfdEfFtGWCYw.woff") format("woff");
+}
+
+
+
+html {
+    font-size: 100%;
+}
+html, button, input, select, textarea {
+    font-family: sans-serif;
+}
+
+html, body, button, input, select, textarea {
+    color: #57534A;
+    font-family: "Ubuntu","Myriad Pro","Myriad",sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+}
+
+body{
+    margin: 0 auto;
+    background-color: #FFFFFF;
+}
+
+body, textarea {
+    line-height: 1.4;
+}
+
+
+body:after {
+    clear: both;
+    content: "";
+    display: table;
+}
+
+body {
+    padding-left: 6rem;
+    padding-right: 6rem;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 200rem;
+    display: block;
+}
+
+
+
+h1, h2, h3, dt {
+    color: #423F37;
+    font-weight: 700;
+}
+
+h1 {
+    font-size: 2em;
+    margin: 0.67em 0;
+}
+h2, .article-list .article-title {
+    font-size: 1.5em;
+    margin: 0.83em 0;
+}
+h3, dt {
+    font-size: 1.17em;
+    margin: 1em 0;
+}
+h4 {
+    font-size: 1em;
+    margin: 1.33em 0;
+}
+h5 {
+    font-size: 0.83em;
+    margin: 1.67em 0;
+}
+h6 {
+    font-size: 0.75em;
+    margin: 2.33em 0;
+}
+
+
+a {
+    color: #8DB359;
+    cursor: pointer;
+    outline: 0 none;
+    text-decoration: underline;
+}
+
+a:hover {
+    outline: 0 none;
+    color: #739544;
+}
+
+
+p, pre {
+    margin: 1em 0;
+}
+code, kbd, pre, samp {
+    font-family: monospace,serif;
+    font-size: 1em;
+    margin: 0;
+    padding: 0;
+
+}
+pre {
+    white-space: pre-wrap;
+    word-wrap: break-word;
+}
+
+pre {
+    background-color: #F8F5F0;
+    font-size: 0.7rem;
+    overflow-x: auto;
+    padding: 1.3rem;
+    position: relative;
+    white-space: pre;
+    word-wrap: normal;
+}
+pre, code, kbd, samp {
+    margin: 0;
+}
+code, kbd, pre, samp {
+    font-family: monospace,serif;
+}
+
+code {
+    color: #423F37;
+}
+
+
+aside {
+    display: block;
+    float: right;
+    width: 390px;
+}
+
+
+b, strong {
+    font-weight: bold;
+    color: #423F37;
+    font-weight: 700;
+}
+
+blockquote {
+    color: #423F37;
+    font-size: 1.25em;
+    font-weight: 700;
+    margin: 1em 40px;
+}
+
+blockquote {
+    margin-bottom: 2em;
+    margin-top: 2em;
+}
+
+figure {
+    margin-left: -4.5rem;
+    margin-right: -4.5rem;
+    margin-bottom: 2em;
+    margin-top: 2em;
+}
+
+
+hr {
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-color: -moz-use-text-color -moz-use-text-color #ECE6DA;
+    border-image: none;
+    border-style: none none solid;
+    border-width: medium medium 1px;
+    margin: 3em 6em;
+}
+
+
+img {
+    max-width: 100%;
+    display: block;
+    border: 0 none;
+}
+
+
+ol > li:before {
+    color: #423F37;
+    content: counter(ol, decimal) ".";
+    counter-increment: ol;
+    font-weight: 700;
+    margin-right: 0.333em;
+    position: absolute;
+    right: 100%;
+}
+
+ul > li:before {
+    background-color: #423F37;
+    border-radius: 14px 14px 14px 14px;
+    content: "";
+    height: 6px;
+    margin-right: 0.333em;
+    margin-top: 0.55em;
+    position: absolute;
+    right: 100%;
+    width: 6px;
+}
+
+ol, ul, dl {
+    margin-left: 2rem;
+    padding: 0;
+}
+ol {
+    counter-reset: ol;
+}
+li + li, dd + dt {
+    margin-top: 0.5em;
+}
+
+ul > li {
+    position: relative;
+}
+
+ol > li {
+    position: relative;
+}
+li {
+    list-style: none outside none;
+}
+
+
+figure > figcaption {
+    margin-top: 0.5em;
+}
+small, dd, figcaption {
+    color: #A19C91;
+    display: block;
+    font-size: 0.8rem;
+    font-style: italic;
+    line-height: 1.2;
+}
+
+
+tbody{display:table-row-group}
+tfoot{display:table-footer-group}
+table{margin-bottom:2em;font-size: 0.8em;padding:0;border-collapse:collapse;-webkit-box-shadow:1px 1px 2px rgba(0,0,0,.35);width:100%;margin:0 auto 2em auto}
+table th,table td{padding:10px 10px 9px;line-height:18px;text-align:left}
+table th{
+padding-top:9px;!important;text-transform:uppercase;}
+table td{vertical-align:top;border-top:1px solid #ddd;}
+table tbody th{border-top:1px solid #ddd;vertical-align:top}
+table{border:1px solid #ddd;border-collapse:separate;*border-collapse:collapse;-webkit-border-radius:4px;-moz-border-radius:4px;border-radius:4px}
+table th+th,table td+td,table th+td{border-left:1px solid #ddd}
+table thead tr:first-child th:first-child,table tbody tr:first-child td:first-child{-webkit-border-radius:4px 0 0 0;-moz-border-radius:4px 0 0 0;border-radius:4px 0 0 0}
+table thead tr:first-child th:last-child,table tbody tr:first-child td:last-child{-webkit-border-radius:0 4px 0 0;-moz-border-radius:0 4px 0 0;border-radius:0 4px 0 0}
+table tbody tr:last-child td:first-child{-webkit-border-radius:0 0 0 4px;-moz-border-radius:0 0 0 4px;border-radius:0 0 0 4px}
+table tbody tr:last-child td:last-child{-webkit-border-radius:0 0 4px 0;-moz-border-radius:0 0 4px 0;border-radius:0 0 4px 0}
+tbody tr:nth-child(odd){background-color:rgba(0,0,0,0.03)}
+
+caption{display:table-caption;font-weight:300;font-size:1.3em;text-transform:uppercase;letter-spacing:2px;word-spacing:.2em;background:rgba(0,0,0,.75);color:#EEE;padding:4px;-webkit-border-radius:4px;margin:4px 0;-webkit-box-shadow:2px 2px 2px rgba(0,0,0,.35)}
+
+/* grey out placeholders */
+:-moz-placeholder {
+  color: #bfbfbf;
+}
+::-webkit-input-placeholder {
+  color: #bfbfbf;
+}
+
+
+.article-date {
+    color: #C7C2B8;
+    display: block;
+    font-size: 0.8rem;
+}
+
+
+</style>
+
+<style id="style-1-cropbar-clipper">/* Copyright 2014 Evernote Corporation. All rights reserved. */
+.en-markup-crop-options {
+    top: 18px !important;
+    left: 50% !important;
+    margin-left: -100px !important;
+    width: 200px !important;
+    border: 2px rgba(255,255,255,.38) solid !important;
+    border-radius: 4px !important;
+}
+
+.en-markup-crop-options div div:first-of-type {
+    margin-left: 0px !important;
+}
+</style></head>
+
+<body class="normal suppressprintlinks" data-pinterest-extension-installed="cr1.39.1">
+  <div id="wrapper">
+      <h1 id="final-paper-rubric">Final Paper Rubric</h1>
+<table>
+<colgroup><col width="7%">
+<col width="12%">
+<col width="14%">
+<col width="13%">
+<col width="13%">
+<col width="13%">
+<col width="12%">
+<col width="12%">
+</colgroup><thead>
+<tr class="header">
+<th align="left">Category&nbsp; and Weight</th>
+<th align="left"><strong>Nonexistent</strong>&nbsp; = 0%</th>
+<th align="left"><strong>Bad</strong>&nbsp; = 50%</th>
+<th align="left"><strong>D</strong>&nbsp; = 65%</th>
+<th align="left"><strong>C</strong>&nbsp; = 75%</th>
+<th align="left"><strong>B</strong>&nbsp; = 85%</th>
+<th align="left"><strong>A</strong>&nbsp; = 95%</th>
+<th align="left"><strong>Impressive</strong>&nbsp; = 100%</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td align="left"><p><strong>Style</strong><br>20%</p></td>
+<td align="left"></td>
+<td align="left"><p>Very difficult to read and follow train of thought because of grammar, spelling, or formatting.</p></td>
+<td align="left"><p>Consistently poor grammar, spelling, OR formatting.</p></td>
+<td align="left"><p>Several noticeable errors. Sloppy. Appears not to have been read over.</p></td>
+<td align="left"><p>A few noticeable errors. Could have used further proofreading.</p></td>
+<td align="left"><p>No noticeable grammar, spelling, or formatting errors.</p></td>
+<td align="left"><p>Exceptionally well written. Impresses me with its writing quality.</p></td>
+</tr>
+<tr class="even">
+<td align="left"><p><strong>Content</strong><br>30%</p></td>
+<td align="left"><p>Student does not write about a suitable issue.</p></td>
+<td align="left"><p>Very difficult to understand what the student is arguing.</p></td>
+<td align="left"><p>Points are altogether absent OR paper fails to follow instructions by not providing reasons in support of a thesis. (Book-report style papers fall into this category.)</p></td>
+<td align="left"><p>Only cursory development of ideas OR weak connection between thesis and supporting reasons</p></td>
+<td align="left"><p>A few items that are under-developed, OR a general but minor lack of cohesion between thesis and supporting reasons</p></td>
+<td align="left"><p>Developed thoughts, clear structure, and logical cohesion.</p></td>
+<td align="left"><p>Impressively fleshed out. Very clearly organized. Logical progression.</p></td>
+</tr>
+<tr class="odd">
+<td align="left"><p><strong>Thinking</strong><br>30%</p></td>
+<td align="left"><p>Student does not express his own view at all.</p></td>
+<td align="left"><p>Very difficult to understand the thought process that this student is going through.</p></td>
+<td align="left"><p>Paper is mostly or entirely references to other people’s thinking OR student appears to have importantly misunderstood core concepts we have discussed in class. (Consistent misuse of technical terms falls into this category.)</p></td>
+<td align="left"><p>Student goes through arguments but it appears that some key concepts are not understood OR student is simply explaining what other people think.</p></td>
+<td align="left"><p>Some good critical thinking, but not throughout the paper.</p></td>
+<td align="left"><p>Student is clearly thinking critically about the issues for himself and is not merely regurgitating.</p></td>
+<td align="left"><p>Impressive thinking above and beyond what I would expect of an undergraduate student.</p></td>
+</tr>
+<tr class="even">
+<td align="left"><p><strong>Length</strong><br>20%</p></td>
+<td align="left"><p>One paragraph or less.</p></td>
+<td align="left"><p>Less than 50% of the word count.</p></td>
+<td align="left"><p>50–75% of the word count.</p></td>
+<td align="left"><p>Substantially short of the word count.</p></td>
+<td align="left"><p>Either falls just a little short OR contains a good bit of fluff just to meet the word count.</p></td>
+<td align="left"><p>Suitably meets the word count with little to no filler.</p></td>
+<td align="left"><p>Perfect. This paper contains absolutely no filler and meets the length requirement by expressing its ideas at the right level of analysis to fit into the given word count</p></td>
+</tr>
+</tbody>
+</table>
+<div class="references">
+
+</div>
+
+<!-- ##END MARKED WRAPPER## -->
+    </div>
+
+<div></div><div></div></body><div></div><div></div></html>

@@ -2874,7 +2874,9 @@
 
 				// Images
 				if( backgroundImage ) {
+					// background.style.backgroundImage = 'linear-gradient(rgba(255, 0, 0, 0.45), rgba(255, 0, 0, 0.45) ), url('+ backgroundImage +')';
 					background.style.backgroundImage = 'url('+ backgroundImage +')';
+					background.style.opacity = '0.7';
 				}
 				// Videos
 				else if ( backgroundVideo && !isSpeakerNotes() ) {
