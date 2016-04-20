@@ -12,3 +12,5 @@ permalink:  /phi100presentations/
 - [Chapter 3](http://dansheffler.com/presentations/Rauhut3.html#/)
 - [Chapter 4](http://dansheffler.com/presentations/Rauhut4.html#/)
 - [Chapter 5](http://dansheffler.com/presentations/Rauhut5.html#/)
+- [Chapter 6](http://dansheffler.com/presentations/Rauhut6.html#/)
+- [Chapter 7](http://dansheffler.com/presentations/Rauhut7.html#/)

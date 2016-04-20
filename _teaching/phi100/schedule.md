@@ -94,7 +94,7 @@ Date       Topic                Reading
 
 2016-03-30                      118--124 (stop at end of section)
 
-2016-04-01                      124
+2016-04-01                      124 (No Reading Quiz)
 
 2016-04-04 Mind--Body           126--131 (stop at end of section)\
                                 **Chapter 5 Paper Due**

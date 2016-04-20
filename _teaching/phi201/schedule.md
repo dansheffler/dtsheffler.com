@@ -3,6 +3,7 @@ title:      PHI 201 Spring 2016 Schedule
 permalink:  /phi201schedule/
 ---
 
+
 ## PHI 201 Spring Schedule ##
 
 The following schedule is an estimation of the dates on which we will
@@ -43,10 +44,10 @@ Day           Topic         Reading
 2016-04-14    Aquinas       *Summa Theologica* QQ 2--4 (M)
 2016-04-19                  *Summa Theologica* Q 12 (M)
 2016-04-21                  *Summa Theologica* QQ 44 and 45 (M)
-2016-04-26                  *Summa Theologica* TBD (M)
-2016-04-28                  *Summa Theologica* TBD (M)
-2016-05-03                  *Summa Theologica* TBD (M)
-2016-05-05                  *Summa Theologica* TBD (M)
+2016-04-26    Extras        *Republic* 514a--516c
+2016-04-28                  *Republic* 516c--520a
+2016-05-03                  *Consolation of Philosophy* Book I
+2016-05-05                  *Consolation of Philosophy* Book II
 
 
 **Midterm Paper Due 2016-03-10**

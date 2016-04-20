@@ -116,6 +116,11 @@ $\therefore$ Hard determinism is false.
 </section>
 <section>
 
+## [Henry Stapp](http://www.closertotruth.com/series/solutions-the-mind-body-problem#video-3652) ##
+
+</section>
+<section>
+
 ## Recent Science ##
 
 </section>

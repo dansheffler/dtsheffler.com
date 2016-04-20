@@ -11,3 +11,7 @@ permalink:  /phi201presentations/
 - [The Phaedo](http://dansheffler.com/presentations/Phaedo.html#/)
 - [The Timaeus](http://dansheffler.com/presentations/Timaeus.html#/)
 - [Aristotle](http://dansheffler.com/presentations/Aristotle.html#/)
+- [Augustine](http://dansheffler.com/presentations/Augustine.html#/)
+- [Anselm](http://dansheffler.com/presentations/Anselm.html#/)
+- [Aquinas](http://dansheffler.com/presentations/Aquinas.html#/)
+- [The Allegory of the Cave](http://dansheffler.com/presentations/AllegoryOfTheCave.html#/)
