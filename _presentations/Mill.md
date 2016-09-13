@@ -407,27 +407,15 @@ title: John Stuart Mill - Utilitarianism
 
 </section>
 </section><!--End Chapter 5, pp. 42,49 -->
-<section><!--Begin Chapter 5, 50,56-->
-<section>
-
-# Chapter 5, 50--56 #
-
-</section>
-<section>
-
-## Perfect versus Imperfect Obligation ##
-
-</section>
-<section>
-
-## Rights ##
-
-</section>
-</section><!--End Chapter 5, 50,56-->
 <section><!--Begin Chapter 5, pp. 50.56-->
 <section>
 
 # Chapter 5, pp. 50--56 #
+
+</section>
+<section>
+
+## Perfect versus Imperfect Obligations ##
 
 </section>
 <section>
