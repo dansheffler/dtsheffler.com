@@ -13,7 +13,7 @@ title:      The Mind--Body Problem
 ## [John Searle](http://www.closertotruth.com/series/solutions-the-mind-body-problem#video-4048) ##
 
 
-
+    
 </section>
 <section>
 

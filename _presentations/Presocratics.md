@@ -2,7 +2,7 @@
 title:      The Presocratics
 ---
 
-<section>
+<section data-background="http://www.theimaginativeconservative.org/wp-content/uploads/2016/02/319520_66d4_2.jpg">
 
 # The Presocratics #
 
@@ -120,8 +120,6 @@ Ask about the connection between the universe and numbers.  Why do you think it 
 <aside class="notes">
 
 Notice how this is a very different *kind* of first principle from the *physikoi* above.
-
-**Reading for 2016-01-21 Ends Here**
 
 </aside>
 </section>

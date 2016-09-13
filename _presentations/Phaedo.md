@@ -62,7 +62,7 @@ title:      The Phaedo
 </section>
 </section><!--End Intro-->
 <section><!--Begin Recollection Argument-->
-<section>
+<section data-background="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/MANNapoli_9994_detail_mosaic_mask.jpg/1219px-MANNapoli_9994_detail_mosaic_mask.jpg">
 
 # The Recollection Argument #
 
@@ -141,7 +141,7 @@ Use the passage from 98d--99b about the why Socrates is sitting.  Make sure we d
 </section>
 </section><!--End Second Sailing-->
 <section><!--Begin Myth-->
-<section>
+<section data-background="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/MANNapoli_8836_Isis_Fortune_painting.jpg/1081px-MANNapoli_8836_Isis_Fortune_painting.jpg">
 
 # Myth #
 

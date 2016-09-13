@@ -137,7 +137,8 @@ header.site-header {
   position: fixed;
   top: 0px;
   left: 0px;
-  background: white;
+  background: #fdfdfd;
+  z-index: 10;
   height: 2em;
   border-bottom: 2px solid red;
   width: 100%;
@@ -219,9 +220,16 @@ h4,h5,h6{ font-weight: bold; }
 h1{ font-size:2.1em; }
 h2{ font-size:1.9em; }
 h3{ font-size:1.5em; }
-h4{ font-size:1.2em; }
+h4{
+  font-size:1.2em;
+  padding-top: 3.5em;
+}
 h5{ font-size:1em; }
-h6{ font-size:0.9em; }
+h6{
+  font-size:1em;
+  margin-top: 2em;
+  margin-bottom:1em;
+}
 
 h4.paper { margin-bottom: 0; }
 

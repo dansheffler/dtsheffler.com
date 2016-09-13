@@ -16,7 +16,7 @@ title: PHI 201 Introduction
 - [Syllabus](http://dansheffler.com/phi201syllabus/) (dansheffler.com/phi201syllabus)
 - [Schedule](http://dansheffler.com/phi201schedule/) (dansheffler.com/phi201schedule)
 - [Presentations](http://dansheffler.com/phi201presentations/) (dansheffler.com/phi201presentations)
-- [Sage/Moodle](http://sage.georgetowncollege.edu/course/view.php?id=2311)
+- [Sage/Moodle](http://sage.georgetowncollege.edu/course/view.php?id=2584)
 
 (You should bookmark these and refer to the often)
 
@@ -32,12 +32,23 @@ title: PHI 201 Introduction
 
 ## The Plan ##
 
-1. Presocratics
-2. Socrates and Plato
-3. Aristotle
-4. Augustine
-5. Anselm
-6. Aquinas
+1. The Cave
+2. Presocratics
+3. Socrates and Plato
+4. Aristotle
+
+5. Augustine
+6. Boethius
+7. Anselm
+8. Aquinas
+
+</section>
+<section>
+
+## Philosophy ##
+
+(φιλοσοφία)
+
 
 </section>
 <section>

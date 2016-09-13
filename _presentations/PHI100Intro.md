@@ -2,6 +2,9 @@
 title: PHI 100 Introduction
 ---
 
+<section>
+
+
 
 <section data-background="http://mv.vatican.va/1_CommonFiles/z-patrons/Restorations/Restorations_01.jpg">
 
@@ -54,8 +57,9 @@ title: PHI 100 Introduction
 </section>
 <section>
 
-## φιλοσωφία ##
+φιλο-σωφία
 
-(*philosophia*)
+(*philo-sophia*)
 
+</section>
 </section>

@@ -180,7 +180,7 @@ title:      Augustine
 > By the Platonic books I was admonished to return into myself.
 > With you as my guide I entered into my innermost citadel, and was
 > given power to do so because you had become my helper. I entered
-> an with my soul's eye, such as it was, saw above that same eye of
+> in with my soul's eye, such as it was, saw above that same eye of
 > my soul the immutable light higher than my mind.
 > (7.10.16)
 

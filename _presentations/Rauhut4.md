@@ -13,6 +13,11 @@ title: Rauhut Chapter 4
 </section>
 <section>
 
+## [John Searle](https://www.closertotruth.com/series/philosophy-free-will#video-47384) ##
+
+</section>
+<section>
+
 > In general, we can say that having free will means that we can
 > make choices in our lives and that these choices are up to us.
 

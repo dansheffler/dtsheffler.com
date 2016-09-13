@@ -24,7 +24,7 @@ permalink: /cv/
 
 #### Education ####
 
-PhD, Philosophy, University of Kentucky, (in progress, expected graduation in 2016).
+PhD, Philosophy, University of Kentucky, (in progress, expected graduation in 2017).
 
 M.A., Philosophy, University of Kentucky, 2012.
 
@@ -56,7 +56,9 @@ Research grant from University of Kentucky Eureka fund ($2,000), 2006.
 
 ###### Georgetown College ######
 
-Ancient and Medieval Philosophy, Spring 2016
+Ancient and Medieval Philosophy, Spring 2016--Fall 2016
+
+Ethics, Fall 2016
 
 
 ###### Asbury University ######
@@ -74,7 +76,7 @@ Introduction to Philosophy, Fall 2013--Fall 2014.
 
 ###### University of Kentucky ######
 
-Introduction to Philosophy, Fall 2013--Spring 2016.
+Introduction to Philosophy, Fall 2013--Fall 2016.
 
 Business Ethics, Spring 2013--Fall 2013.
 

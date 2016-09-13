@@ -38,6 +38,11 @@ Perhaps raise the discussion question whether there is something wrong with beli
 </section>
 <section>
 
+## [John Hawthorn](https://www.closertotruth.com/series/what-truth#video-2391) ##
+
+</section>
+<section>
+
 ## Knowledge Presuppoes Belief ##
 
 (Belief is therefore a NECESSARY CONDITION for knowledge)
@@ -86,6 +91,11 @@ Practice this definition with the FFT on 46--47 (the answers will depend on the 
 <section>
 
 # Skepticism #
+
+</section>
+<section>
+
+## [Raymond Tallis](https://www.closertotruth.com/series/what-truth#video-4272) ##
 
 </section>
 <section>
@@ -167,6 +177,7 @@ $\therefore$ I have reason to doubt whether my current perceptual beliefs are tr
 # Empiricism #
 
 </section>
+
 <section>
 
 ## British Roots ##

@@ -14,117 +14,114 @@ change. Readings marked (C) are available in Canvas under "Course Content."
 
 For each reading a reading quiz must be completed on Canvas *by the day listed*.
 
-Section 002 meets 1:00 MWF
+PHI 100-005 is MWF 12:00--12:50 in CP 397
 
-Section 005 meets 2:00 MWF
+PHI 100-006 is MWF 1:00--1:50 in CB 246
 
 
 -------------------------------------------------------------------
 Date       Topic                Reading
 ---------- -------------------- -----------------------------------
-2016-01-13 Intro
+2016-08-24 Intro
 
-2016-01-15
+2016-08-26
 
-2016-01-18 What is Philosophy?  1--2 (stop after food for thought)
+2016-08-29 What is Philosophy?  1--2 (stop after food for thought)
 
-2016-01-20                      2--5 (stop after food for thought)
+2016-08-31                      2--5 (stop after food for thought)
 
-2016-01-22                      5--6 (stop at end of section)
+2016-09-02                      5--6 (stop at end of section)
 
-2016-01-25                      6--9 (stop after food for thought)
+2016-09-05                      6--9 (stop after food for thought)\
+                                **Labor Day**
 
-2016-01-27                      9--10 (stop at end of section)
+2016-09-07                      9--10 (stop at end of section)
 
-2016-01-29                      10--12
+2016-09-09                      10--12
 
-2016-02-01 Philosophical Tools  15--16 (stop at end of section)\
-                                **Chapter 1 Paper Due**
+2016-09-12 Philosophical Tools  15--16 (stop at end of section)
 
-2016-02-03                      16--20 (stop at end of section)
+2016-09-14                      16--20 (stop at end of section)
 
-2016-02-05                      20--24
+2016-09-16                      20--24
 
-2016-02-08                      25--28 (stop at end of section)
+2016-09-19                      25--28 (stop at end of section)
 
-2016-02-10                      28--35 (stop at end of section)
+2016-09-21                      28--35 (stop at end of section)
 
-2016-02-12                      35--40
+2016-09-23                      35--40
 
-2016-02-15 What Do We Know?     42--44 (stop at end of section)\
-                                **Chapter 2 Paper Due**
+2016-09-26 What Do We Know?     42--44 (stop at end of section)
 
-2016-02-17                      44--47 (stop at end of section)
+2016-09-28                      44--47 (stop at end of section)
 
-2016-02-19                      47--57 (stop at end of section)
+2016-09-30                      47--57 (stop at end of section)
 
-2016-02-22                      57--67 (stop at end of section)
+2016-10-03                      57--67 (stop at end of section)
 
-2016-02-24                      67--74 (stop at end of section)
+2016-10-05                      67--74 (stop at end of section)
 
-2016-02-26                      74
+2016-10-07                      74
 
-2016-02-29 Free Will            77--81 (stop at end of section)\
-                                **Chapter 3 Paper Due**
+2016-10-10 Free Will            77--81 (stop at end of section)\
+                                **Chapters 2 and 3 Paper Due**
 
-2016-03-02                      82--86 (stop at end of section)
+2016-10-12                      82--86 (stop at end of section)
 
-2016-03-04                      86--88 (stop at end of section)
+2016-10-14                      86--88 (stop at end of section)
 
-2016-03-07                      88--97 (stop at end of section)
+2016-10-17                      88--97 (stop at end of section)
 
-2016-03-09                      97--101
+2016-10-19                      97--101
 
-2016-03-11                      **Midterm**
+2016-10-21                      **Midterm**
 
-2016-03-14                      **Spring Break**
+2016-10-24 Personal Identity    104--109
 
-2016-03-16                      **Spring Break**
+2016-10-26                      110--113 (stop at end of section)
 
-2016-03-18                      **Spring Break**
+2016-10-28                      113--116 (stop at end of section)
 
-2016-03-21 Personal Identity    104--109\
-                                **Chapter 4 Paper Due**
+2016-10-31                      116--118 (stop at end of section)
 
-2016-03-23                      110--113 (stop at end of section)
+2016-11-02                      118--124 (stop at end of section)
 
-2016-03-25                      113--116 (stop at end of section)
+2016-11-04                      124 (No Reading Quiz)
 
-2016-03-28                      116--118 (stop at end of section)
+2016-11-07 Mind--Body           126--131 (stop at end of section)\
+                                **Chapters 4 and 5 Paper Due**
 
-2016-03-30                      118--124 (stop at end of section)
+2016-11-09                      131--139 (stop at end of section)
 
-2016-04-01                      124 (No Reading Quiz)
+2016-11-11                      139--144 (stop at end of section)
 
-2016-04-04 Mind--Body           126--131 (stop at end of section)\
-                                **Chapter 5 Paper Due**
+2016-11-14                      144--146 (stop at end of section)
 
-2016-04-06                      131--139 (stop at end of section)
+2016-11-16                      146--151
 
-2016-04-08                      139--144 (stop at end of section)
+2016-11-18                      152--154
 
-2016-04-11                      144--146 (stop at end of section)
+2016-11-21
 
-2016-04-13                      146--151
+2016-11-23                      **Thanks Giving**
 
-2016-04-15                      152--154
+2016-11-25                      **Thanks Giving**
 
-2016-04-18 God                  156--160\
-                                **Chapter 6 Paper Due**
+2016-11-28 God                  156--160
 
-2016-04-20                      161--169 (stop at end of section)
+2016-11-30                      161--169 (stop at end of section)
 
-2016-04-22                      169--176 (stop at end of section)
+2016-12-02                      169--176 (stop at end of section)
 
-2016-04-25                      176--185 (stop at end of section)
+2016-12-05                      176--185 (stop at end of section)
 
-2016-04-27                      185--189 (stop at end of section)
+2016-12-07                      185--189 (stop at end of section)
 
-2016-04-29                      189--194
+2016-12-09                      189--194
 
-2015-05-02                      **Section 005 Exam**
+**TBD**                         **Section 005 Exam**
 
-2015-05-03                      **Section 002 Exam**
+**TBD**                         **Section 002 Exam**
 
-2016-05-06                      **Chapter 7 Paper Due**
+2016-12-14                      **Chapters 6 and 7 Paper Due**
 ---------- -------------------- -----------------------------------

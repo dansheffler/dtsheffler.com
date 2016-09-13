@@ -126,6 +126,12 @@ Agnosticism     Don't Know
 # The Design Argument #
 
 </section>
+<section>
+
+## [George F.R. Ellis](https://www.closertotruth.com/series/what-are-the-ultimate-questions-all-reality#video-2197) ##
+
+
+</section>
 <section data-background="http://static.artuk.org/w1200h1200/CUII/CUII_CCOL_3.jpg">
 
 ## William Paley ##
@@ -187,6 +193,8 @@ Agnosticism     Don't Know
 <section data-background="https://i.ytimg.com/vi/8VOMrozCISA/maxresdefault.jpg">
 
 ## Modal Versions ##
+
+#### [Alvin Plantinga](https://www.closertotruth.com/series/how-does-philosophy-illuminate-the-physical-world#video-2843) ####
 
 </section>
 </section><!--End The Ontological Argument-->

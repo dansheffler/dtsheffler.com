@@ -1,18 +1,18 @@
 ---
-title:      PHI 2016 Fall 2016 Syllabus
-permalink:  /phi201syllabus/
+title:      PHI 151 Fall 2016 Syllabus
+permalink:  /phi151syllabus/
 ---
 
-## PHI 201 Syllabus - History of Philosophy I ##
+## PHI 151 Syllabus - Ethics ##
 
 
 ----------------------- -----------------------------------------------
-Location                Pawling Hall, 301
+Location                Chapel 002
 Instructor              Dan Sheffler
 Email                   daniel_sheffler@georgetowncollege.edu
-Web                     <http://sage.georgetowncollege.edu/course/view.php?id=2584>
-Schedule                <http://dansheffler.com/phi201schedule/>
-Presentations           <http://dansheffler.com/phi201presentations/>
+Web                     <http://sage.georgetowncollege.edu/course/view.php?id=2585>
+Schedule                <http://dansheffler.com/phi151schedule/>
+Presentations           <http://dansheffler.com/phi151presentations/>
 Semester                Fall 2016
 Credit Hours            3
 ----------------------- -----------------------------------------------
@@ -21,37 +21,18 @@ Credit Hours            3
 
 ## Required Texts ##
 
-- *Readings in Ancient Greek Philosophy*, ed. S. Marc Cohen,
-  Patricia Curd, and C.D.C. Reeve, (Hackett, 2005), ISBN: 0872207692.
-- Augustine, *Confessions*, trans. Henry Chadwick, (Oxford, 1991)
-  ISBN: 9780199537822.
-- Boethius, *The Consolation of Philosophy*, trans. Victor Watts,
-  (Penguin, 1999).
-- Anselm, *The Major Works*, ed. Brian Davies and G.R. Evans,
-  (Oxford, 1998), ISBN: 0192825259.
-
+- John Stuart Mill, *Utilitarianism*, ed. George Sher (Hackett, 2001)
+  ISBN:9780872206052.
+- Immanuel Kant, *Grounding for the Metaphysics of Morals*, trans.
+  James W. Ellington (Hackett, 1993) ISBN: 9780872201668.
+- Aristotle, *Nichomachean Ethics*, trans. Terence Irwin (Hackett, 1999) ISBN: 9780872204645.
 
 
 ## Course Description and Learning Outcomes ##
 
-*From the Catalog*:  Survey of the development of Western
-philosophical thought within its cultural contexts from ancient
-Greece through the Middle Ages. Exploration of foundational
-approaches to questions of reality, virtue, knowledge, God, faith,
-and reason. This course carries a Writing Flag (W) in the
-Foundations and Core Program
+*From the Catalog*:   Introduction to important texts and authors, including Aristotle, Kant, and Mill, who provide interesting answers to the question, "How should one live?"
 
-*From Me*:  In this course we will read major philosophers from the
-ancient and medieval periods including Plato, Aristotle, Augustine,
-Boethius, Anselm, and Aquinas.  For each author, we will try to
-come to grips with his worldview, that is, how he conceives the
-structure of reality as a whole.  Where does this author think that
-the universe comes from?  What does he think is most real?  Does he
-believe in God?  How does he conceive of God?  What does he think
-it means to be human?  I hope that asking these questions will open
-our eyes to the high degree of agreement amongst ancient and
-medieval thinkers and the high degree of difference between them
-and modern thinkers.  I also hope that as you explore how great men of the past have answered these questions, you will begin to develop answers of your own.
+*From Me*:  In this course we will learn about right and wrong.  Is it wrong to kill someone?  What if doing so will save ten lives?  Do you really have to donate money to charity? Or is it just something nice to do?  More importantly, *what makes* murder wrong and giving to charity good?  In order to think through these questions for ourselves, we will read the primary sources from the three most influential ethical systems: (i) utilitarianism, (ii) kantianism, and (iii) virtue ethics.  We will attempt to understand the very different ways that these systems have conceived of what makes one thing right and another thing wrong.  I hope that by exploring the ways that influential thinkers have understood morality you will come to a more mature understanding yourself and that this will impact the way you live your life.
 
 
 
@@ -63,29 +44,30 @@ Learning Outcome                        Assessment
 --------------------------------------- -------------------------------
 To gain an understanding of the primary Reading Quizzes
 questions, terminology, and theories in
-ancient and medieval philosophy
+ethical philosophy
 
 To learn to carefully read              Reading Quizzes
 philosophical texts
 
 To gain the capacity to communicate     Midterm and Final Papers
-difficult philosophical thinking in
-clear, concise prose.
+mature ethical thinking in clear,
+concise prose.
 -----------------------------------------------------------------------
 
 
 
 ## Grading ##
 
------------------ ----
-Reading Quizzes   40% 
-Midterm Paper     30% 
-Final Paper       30% 
------------------ ----
+--------------------------- ----
+Reading Quizzes             40% 
+Utilitarianism Paper        20% 
+Kantianism Paper            20%
+Virtue Ethics Paper         20%
+--------------------------- ----
 
 The first portion of your grade will come from regular (short) reading quizzes. These will be completed on Moodle and will typically consist of five multiple-choice questions on the reading for the day. These quizzes are due before class on the day when the corresponding reading assignment is due. There is a time limit on these quizzes and they can only be taken once, so it is advisable that you complete them just as soon as you complete your reading. You will not have enough time to search the reading for the answers if you have not read it, but you may keep the reading assignment open to aid in the completion of the quiz. You will quickly find that you really must do the reading and do it quite carefully to do well on these quizzes.
 
-At the middle and end of the semester, you will submit a short (1000--1500 words) paper on Moodle analyzing and reflecting upon one of the authors we have discussed in class.  This paper will consist of one section (at least 500 words) that analyzes an argument from the author and one section (at least 500 words) that presents your own argument on the same topic.  I will not accept papers that fail to meet these length requirements.  Instead, your paper will simply rack up deductions for lateness until you turn in a paper of sufficient length.  See [these instructions](http://www.dansheffler.com/phi201analysispaper/) for specific steps to getting an A and the specific rubric I use while grading.
+At the end of each unit, you will submit a short (700--1000 words) paper on Moodle analyzing and reflecting upon an ethical dillema through the lens of the system we discuss in that unit.  This paper will consist of one section (at least 350 words) that analyzes the way our author would answer a difficult ethical question and another section (at least 350 words) that presents your own argument on the same topic.  I will not accept papers that fail to meet these length requirements.  Instead, your paper will simply rack up deductions for lateness until you turn in a paper of sufficient length.  See [these instructions](http://www.dansheffler.com/phi151analysispaper/) for specific steps to getting an A and the specific rubric I use while grading.
 
 **Grading Scale:**
 
@@ -149,5 +131,5 @@ If you are registered to receive accommodations for a disability, please discuss
 
 ## Schedule ##
 
-(See [separate document](http://dansheffler.com/phi201schedule/) for our projected schedule of topics and readings.)
+(See [separate document](http://dansheffler.com/phi151schedule/) for our projected schedule of topics and readings.)
 

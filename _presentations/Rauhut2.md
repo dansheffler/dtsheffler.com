@@ -43,6 +43,7 @@ The quote in the book is too long to go over in class.  Have the students pull o
 # Logical Consistency #
 
 </section>
+
 <section data-background="https://upload.wikimedia.org/wikipedia/commons/9/9c/William_James_b1842c.jpg">
 
 > [Philosophy is] an unusually stubborn effort to think clearly

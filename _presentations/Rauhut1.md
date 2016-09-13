@@ -3,17 +3,15 @@ title:      Rauhut Chapter 1
 ---
 
 
-
 <section data-background="http://www.artcyclopedia.org/art/rodin-thinker.jpg">
 
 # Rauhut Chapter 1 #
 
 ## What is Philosophy ##
 
-
-
 </section>
-<section>
+<section><!--Begin Big Questions-->
+<section data-background="http://www.jj-archive.net/albums/ff_flamm_col.jpg">
 
 ## Asking the Big Questions ##
 
@@ -24,17 +22,20 @@ Rauhut gives a nice example of a tribal girl asking her father about the nature 
 </section>
 <section>
 
+## [J. Richard Gott III](https://www.closertotruth.com/series/what-are-the-ultimate-questions-all-reality#video-2288) ##
+
+</section>
+<section>
+
 ## Worldview ##
 
 <aside class=notes>
 Talk about the concept of "Worldview" as comprehensive answers to the big questions.
 </aside>
 </section>
-<section><!--Begin Stories-->
-
 <section>
 
-# Stories #
+## Stories ##
 
 </section>
 <section>
@@ -62,17 +63,14 @@ Talk about the concept of "Worldview" as comprehensive answers to the big questi
 
 <aside class=notes>
 Aside from traditional mythologies (of the sort found in Bulfinch's), we also have a great many "narratives" that we use to form a comprehensive picture of the world.  We can ask the same truth questions about these.
-
-**This is where reading 1.1 stops**
 </aside>
 
 </section>
-</section><!--End Stories-->
+</section><!--End Big Questions-->
 <section><!--Begin Religion-->
+<section data-background="https://upload.wikimedia.org/wikipedia/commons/9/96/Schnorr_von_Carolsfeld_Bibel_in_Bildern_1860_007.png">
 
-<section>
-
-# Religious Explanation #
+# Religious Explanation and Philosophy #
 
 </section>
 <section>
@@ -90,14 +88,6 @@ Aside from traditional mythologies (of the sort found in Bulfinch's), we also ha
 </section>
 <section>
 
-## Mysticism ##
-
-<aside class=notes>
-I want to add to Rauhut's account a fourth possibility, "mysticism," for lack of a better term, that relies on direct experiences of some kind of "enlightenment."  This may or may not be understood as revelation from God, but the linking feature is that it is experienced first hand rather than transmitted through tradition and it is some kind of extraordinary cognitive experience.
-</aside>
-</section>
-<section>
-
 ## Competition? ##
 
 <aside class=notes>
@@ -107,11 +97,9 @@ I want to add to Rauhut's account a fourth possibility, "mysticism," for lack of
 </aside>
 
 </section>
-</section><!--End Religion-->
-<section><!--Begin Philosophy-->
 <section>
 
-# Philosophy #
+## Philosophy ##
 
 <aside class=notes>
 Mention again: Philosophy as love of wisdom.
@@ -120,7 +108,7 @@ Mention again: Philosophy as love of wisdom.
 </section>
 <section>
 
-## Big-Picture Answers ##
+## Similarity: Big-Picture Answers ##
 
 <aside class=notes>
 - One possible response students have at this point is to simply
@@ -135,7 +123,7 @@ Mention again: Philosophy as love of wisdom.
 </section>
 <section>
 
-## Arguments ##
+## Based on Arguments ##
 
 </section>
 <section>
@@ -153,14 +141,18 @@ Mention again: Philosophy as love of wisdom.
   discuss it.
 - Perhaps mention that Tolstoy, after having the experiences Rauhut
   mentions, arrives at a radically religious worldview.
-- **This is where reading 1.2 stops**
 </aside>
 </section>
-</section><!--End Philosophy-->
+</section><!--End Religion and Philosophy-->
 <section><!--Start Philosophy and Dialogue-->
-<section>
+<section data-background="https://lh3.googleusercontent.com/gs_5zRi0FLEhc42-e9MCj1hwbX3E1qS5H1l56uxy5OIbrAZt1kJy6Wb6_lo2VyuX9BQJZXjvts8_yjkjmdnJzrjv-ScFdaNbrq5DaX8wzd1MY_XO4v8kbDx6W0MoLwyBpg">
 
 # Philosophy and Dialogue #
+
+</section>
+<section>
+
+## [Rebeca Newberger Goldstein](https://www.closertotruth.com/series/asking-ultimate-questions#video-47354) ##
 
 </section>
 <section>
@@ -209,14 +201,18 @@ Mention again: Philosophy as love of wisdom.
 
 <aside class=notes>
 - Ask why adding "for a human being" is important here.
-- **This is where reading 1.3 stops**
 </aside>
 </section>
 </section><!--End Philosophy and Dialogue-->
 <section><!--Start Philosophy and Science-->
-<section>
+<section data-background="https://upload.wikimedia.org/wikipedia/commons/a/a2/An_alchemist_at_a_furnace_with_a_large_'receiver',_with_diag_Wellcome_V0025560.jpg">
 
 # Philosophy and Science #
+
+</section>
+<section>
+
+## [Charles L. Harper Jr.](https://www.closertotruth.com/series/asking-ultimate-questions#video-2370) ##
 
 </section>
 <section data-background="http://www.military-history.org/wp-content/uploads/2014/04/Wittgenstein.jpg">
@@ -259,9 +255,6 @@ Mention again: Philosophy as love of wisdom.
   to ask, "What *are* numbers anyway?"
 - So what let's talk about it: what *are* numbers anyway?
 </aside>
-
-</section>
-
 </section>
 <section>
 
@@ -286,13 +279,10 @@ Mention again: Philosophy as love of wisdom.
 > all meaningful questions.  Do you agree with this conclusion?
 > Why or why not?
 
-<aside class=notes>
-- **End of reading 1.4**
-</aside>
 </section>
 </section><!--End Philosophy and Science-->
 <section><!--Begin Philosophy is Personal-->
-<section>
+<section data-background="http://2.bp.blogspot.com/_sSJExAgIc0A/TQD7MiXluCI/AAAAAAAAAEM/vaRLmxiSmFU/s1600/alchemist.jpg">
 
 # Philosophy is Personal #
 
@@ -330,15 +320,19 @@ Mention again: Philosophy as love of wisdom.
 <aside class=notes>
 Consider using numbers 1, 4, 5, 9, 14, and 15 as time allows.
 
-**End of reading 1.5**
 </aside>
 
 </section>
 </section><!--End Philosophy is Personal-->
 <section><!--Begin Branches of Philosophy-->
-<section>
+<section data-background="http://bildgeist.com/wp-content/uploads/2014/07/02-eleazar-ouroboros.jpg">
 
 # Branches of Philosophy #
+
+</section>
+<section>
+
+## [John Hawthorn](https://www.closertotruth.com/series/how-does-philosophy-illuminate-the-physical-world#video-2387) ##
 
 </section>
 <section>

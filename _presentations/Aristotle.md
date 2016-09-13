@@ -62,7 +62,7 @@ title:      Aristotle
 </section>
 <section>
 
-> Some are neither in a subject not said of a subject, for example
+> Some are neither in a subject nor said of a subject, for example
 > the individual man or the individual horse.
 > (1b)
 
@@ -110,7 +110,7 @@ What is most fundamental?
 <section>
 
 > Each substance seems to signify a particular THIS.  As far as
-> primary substances are concerned, it is indisputable true that
+> primary substances are concerned, it is indisputably true that
 > each signifies a particular THIS, for what is indicated is
 > individual and one in number.
 > (10a)
@@ -131,154 +131,6 @@ What is most fundamental?
 
 </section>
 </section><!--End Categories-->
-<section><!--Begin On The Heavens-->
-<section data-background="https://s-media-cache-ak0.pinimg.com/736x/c7/83/42/c783426124c0ba2c9bf3fc01f2c77294.jpg">
-
-# On The Heavens #
-
-</section>
-<section>
-
-## Circular Motion ##
-
-1. Simplicity
-2. Nature
-3. Completeness
-
-</section>
-<section>
-
-> From all these premises therefore it clearly follows that there
-> exists some physical substance besides the four in our sublunary
-> world, and moreover that it is more divine than, and prior to,
-> all these.
-> (269a)
-
-</section>
-<section>
-
-## Elements ##
-
-1. Finite
-2. Not Eternal
-
-</section>
-<section>
-
-Again, what is most fundamental?
-
-</section>
-</section><!--End On The Heavens-->
-<section><!--Begin Metaphysics IV-->
-<section data-background="https://upload.wikimedia.org/wikipedia/commons/0/06/Aristotle-Raphael.JPG">
-
-# Metaphysics IV #
-
-</section>
-<section>
-
-## First Philosophy ##
-
-> There is a science that studies being in so far as it is being,
-> and also the properties of being in its own right.  It is not the
-> same as any of the so called special sciences.  For none of them
-> considers being quite generally, in so far as it is being.
-> (933a)
-
-</section>
-<section>
-
-## Pros Hen Predication ##
-
-> Similarly, then, being is spoken of in many ways, but in all
-> cases it is spoken of with reference to one principle.
-> (1003b)
-
-</section>
-<section>
-
-> Being and unity are the same and a single nature, since they
-> imply each other.
-> (1003b)
-
-</section>
-<section>
-
-## Philosophy vs. Geometry ##
-
-</section>
-<section>
-
-## The Firmest Principle of All ##
-
-> It is impossible for the same thing both to belong and not belong
-> at the same time to the same thing and in the same respect.
-> (1005b)
-
-</section>
-<section>
-
-## So What is Philosophy? ##
-
-</section>
-</section><!--End Metaphysics IV-->
-<section><!--Begin Metaphysics VII-->
-<section data-background="http://newshour-tc.pbs.org/newshour/wp-content/uploads/2016/01/greekart.jpg">
-
-# Metaphysics VII #
-
-</section>
-<section>
-
-## What is Substance? ##
-
-- Form?
-- Matter?
-- Composite?
-
-</section>
-<section>
-
-## Form ##
-
-</section>
-<section>
-
-## Matter ##
-
-</section>
-<section>
-
-## Composite ##
-
-</section>
-<section>
-
-## Essence ##
-
-(the-what-it-was-to-be)
-
-</section>
-<section>
-
-> Now, a composite is composed of something in such a way that the
-> whole thing is one, not as a heap is, but as a syllable is.  A
-> syllable is not the same as its letters---for instance, B and A
-> are not the same thing as BA.
-> (1041b)
-
-</section>
-<section>
-
-> Now this is the substance of a given thing; for this is the
-> primary cause of the thing's being [what it is].  Some things are
-> not substance, but the things that are substances are naturally
-> constituted; hence this nature---the one that is not an element
-> but a principle---will apparently be substance.
-> (1041b)
-
-</section>
-</section><!--End Metaphysics VII-->
 <section><!--Begin Metaphysics VIII-->
 <section data-background="https://upload.wikimedia.org/wikipedia/commons/d/d2/Paradiso_Canto_31.jpg">
 
