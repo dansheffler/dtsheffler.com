@@ -466,3 +466,55 @@ title: John Stuart Mill - Utilitarianism
 
 </section>
 </section><!--End Chapter 5, pp. 50.56-->
+<section><!--Begin Chapter 5, pp. 57.64-->
+<section>
+
+# Chapter 5, pp. 57--64 #
+
+</section>
+<section>
+
+## Deriving Justice from Utility ##
+
+> The moral rules which forbid mankind to hurt one another (in
+> which we must never forget to include a wrongful interference
+> with each other's freedom) are more vital to human well-being
+> than any maxims, however important, which only point out the best
+> mode of managing some department of human affairs.
+> (Ch. 5, p. 59)
+
+</section>
+<section>
+
+## Traditional Maxims ##
+
+> Most of the maxims of justice current in the world, and commonly
+> appealed to in its transactions, are simply instrumental to
+> carrying into effect the principles of justice which we have now
+> spoken of.
+> (Ch. 5, p. 61)
+
+</section>
+<section>
+
+## Each Receiving Equally ##
+
+</section>
+</section><!--End Chapter 5, pp. 57.64-->
+<section><!--Begin Gambling with Lives-->
+<section>
+
+# Gambling with Lives #
+
+</section>
+<section>
+
+## Positive and Negative Consequences ##
+
+</section>
+<section>
+
+## Disproportionate Populations ##
+
+</section>
+</section><!--End Gambling with Lives-->

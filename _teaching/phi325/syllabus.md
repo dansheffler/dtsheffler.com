@@ -1,56 +1,31 @@
 ---
-title:      PHI 201 2017 Spring Syllabus
-permalink:  /phi201syllabus/
+title:      PHI 325 2017 Spring Syllabus
+permalink:  /phi325syllabus/
 ---
 
-## PHI 201 Syllabus - History of Philosophy I ##
+## PHI 325 Syllabus - Business Ethics ##
 
 
 ----------------------- -----------------------------------------------
-Location                Pawling Hall, 301
+Location                Chapel 003
 Instructor              Dan Sheffler
 Email                   daniel_sheffler@georgetowncollege.edu
-Web                     <http://sage.georgetowncollege.edu/course/view.php?id=3007>
-Schedule                <http://dansheffler.com/phi201schedule/>
-Presentations           <http://dansheffler.com/phi201presentations/>
+Web                     <http://sage.georgetowncollege.edu/course/view.php?id=3008>
+Schedule                <http://dansheffler.com/phi325schedule/>
+Presentations           <http://dansheffler.com/phi325presentations/>
 Semester                Spring 2017
 Credit Hours            3
 ----------------------- -----------------------------------------------
 
 
 
-## Required Texts ##
-
-- *Readings in Ancient Greek Philosophy*, ed. S. Marc Cohen,
-  Patricia Curd, and C.D.C. Reeve, (Hackett, 2005), ISBN: 0872207692.
-- Augustine, *Confessions*, trans. Henry Chadwick, (Oxford, 1991)
-  ISBN: 9780199537822.
-- Boethius, *The Consolation of Philosophy*, trans. Victor Watts,
-  (Penguin, 1999).
-- Anselm, *The Major Works*, ed. Brian Davies and G.R. Evans,
-  (Oxford, 1998), ISBN: 0192825259.
-
-
-
 ## Course Description and Learning Outcomes ##
 
-*From the Catalog*:  Survey of the development of Western
-philosophical thought within its cultural contexts from ancient
-Greece through the Middle Ages. Exploration of foundational
-approaches to questions of reality, virtue, knowledge, God, faith,
-and reason.
+*From the Catalog*:  Introduction to both the moral issues involved in business management and the ethical concepts and analytical skills relevant to resolving those issues
 
-*From Me*:  In this course we will read major philosophers from the
-ancient and medieval periods including Plato, Aristotle, Augustine,
-Boethius, Anselm, and Aquinas.  For each author, we will try to
-come to grips with his worldview, that is, how he conceives the
-structure of reality as a whole.  Where does this author think that
-the universe comes from?  What does he think is most real?  Does he
-believe in God?  How does he conceive of God?  What does he think
-it means to be human?  I hope that asking these questions will open
-our eyes to the high degree of agreement amongst ancient and
-medieval thinkers and the high degree of difference between them
-and modern thinkers.  I also hope that as you explore how great men of the past have answered these questions, you will begin to develop answers of your own.
+*From Me*:  Is it right for a CEO to give his granddaughter a major bonus when there are other, more deserving employees? Is it acceptable for a company to deceive consumers about the nature of their product although they don't lie outright? Should the government regulate the pollution companies produce on their own private property?
+
+All these questions concern the morality of actions taken by companies and their employees. In this course we will learn to evaluate such questions by using general ethical principles and theories. You will first learn the relevant theoretical principles, then you will be able to apply them to real life case studies. Finally you will be able to articulate your own position by written argument and in-class discussion.
 
 
 
@@ -60,15 +35,15 @@ and modern thinkers.  I also hope that as you explore how great men of the past 
 -----------------------------------------------------------------------
 Learning Outcome                        Assessment
 --------------------------------------- -------------------------------
-To gain an understanding of the primary Reading Quizzes
+To gain an understanding of the primary Reading Quizzes and Exams
 questions, terminology, and theories in
-ancient and medieval philosophy
+contemporary business ethics
 
 To learn to carefully read              Reading Quizzes
-philosophical texts
+written argument
 
-To gain the capacity to communicate     Midterm and Final Papers
-difficult philosophical thinking in
+To gain the capacity to communicate     Papers
+difficult ethical thinking in
 clear, concise prose.
 -----------------------------------------------------------------------
 
@@ -77,14 +52,14 @@ clear, concise prose.
 ## Grading ##
 
 ----------------- ----
-Reading Quizzes   40% 
-Midterm Paper     30% 
-Final Paper       30% 
+Reading Quizzes   20% 
+Midterm and Final 20%
+Three Papers      60% 
 ----------------- ----
 
 The first portion of your grade will come from regular (short) reading quizzes. These will be completed on Moodle and will typically consist of five multiple-choice questions on the reading for the day. These quizzes are due before class on the day when the corresponding reading assignment is due. There is a time limit on these quizzes and they can only be taken once, so it is advisable that you complete them just as soon as you complete your reading. You will not have enough time to search the reading for the answers if you have not read it, but you may keep the reading assignment open to aid in the completion of the quiz. You will quickly find that you really must do the reading and do it quite carefully to do well on these quizzes.
 
-At the middle and end of the semester, you will submit a short (1000--1500 words) paper on Moodle analyzing and reflecting upon one of the authors we have discussed in class.  This paper will consist of one section (at least 500 words) that analyzes an argument from the author and one section (at least 500 words) that presents your own argument on the same topic.  I will not accept papers that fail to meet these length requirements.  Instead, your paper will simply rack up deductions for lateness until you turn in a paper of sufficient length.  See [these instructions](http://www.dansheffler.com/phi201analysispaper/) for specific steps to getting an A and the specific rubric I use while grading.
+{==At the middle and end of the semester, you will submit a short (1000--1500 words) paper on Moodle analyzing and reflecting upon one of the authors we have discussed in class.  This paper will consist of one section (at least 500 words) that analyzes an argument from the author and one section (at least 500 words) that presents your own argument on the same topic.  I will not accept papers that fail to meet these length requirements.  Instead, your paper will simply rack up deductions for lateness until you turn in a paper of sufficient length.  See [these instructions](http://www.dansheffler.com/phi201analysispaper/) for specific steps to getting an A and the specific rubric I use while grading.==}
 
 **Grading Scale:**
 
@@ -148,5 +123,5 @@ If you are registered to receive accommodations for a disability, please discuss
 
 ## Schedule ##
 
-(See [separate document](http://dansheffler.com/phi201schedule/) for our projected schedule of topics and readings.)
+(See [separate document](http://dansheffler.com/phi325schedule/) for our projected schedule of topics and readings.)
 

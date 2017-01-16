@@ -8,5 +8,5 @@ permalink:  /phi151presentations/
 
 - [Introduction](http://dansheffler.com/presentations/PHI151Intro.html#/)
 - [Mill](http://dansheffler.com/presentations/Mill.html#/)
-- Kant
-- Aristotle
+- [Kant](http://dansheffler.com/presentations/Kant.html#/)
+- [Aristotle](http://dansheffler.com/presentations/AristotleEthics.html#/)

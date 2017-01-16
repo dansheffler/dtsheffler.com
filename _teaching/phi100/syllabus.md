@@ -1,7 +1,7 @@
 ---
 title:      PHI 100 Syllabus
 author:     Dan Sheffler
-date:       2016-08-26
+date:       2017-01-10
 permalink:  /phi100syllabus/
 ---
 
@@ -9,15 +9,15 @@ permalink:  /phi100syllabus/
 # Introduction to Philosophy #
 
 --------------- -------------------------------------------------------
-Sections        005 at 12:00 and 006 at 1:00 MWF
+Sections        004 at 2:00 and 007 at 12:00 MWF
 
-Locations       Section 005 in CP 345 and Section 005 in CB 246
+Locations       Section 004 in CB 209 and Section 007 in CB 341
 
 Instructor      Dan Sheffler
 
 E-mail          dansheffler@uky.edu
 
-Office Hours    MWF 11:00--12:00 PM POT 1406
+Office Hours    MWF 1:00--2:00 PM POT 1406
 
 Required Text   Nils Ch. Rauhut, *Ultimate Questions*, third
                 edition (Prentice Hall, 2011), ISBN 02573197X.
@@ -44,9 +44,9 @@ Ability to Articulate Position    Short Essays              30%
 
 ## Grading ##
 
-The first portion of your grade will come from regular (short) reading quizzes. These will be completed on Canvas and will typically consist of a few multiple-choice questions on the reading for the day. These quizzes are due before class on the day when the corresponding reading assignment is due. There is a time limit on these quizzes and they can only be taken once, so it is advisable that you complete them just as soon as you complete your reading. You will not have enough time to search the reading for the answers, but you may keep the reading assignment open to aid in the completion of the quiz.  I do not accept "my internet broke" excuses for resetting these quizzes.  In compensation, I drop the lowest quiz grade.  I recommend that you do not take these quizzes on your phone or at coffee shops with sketchy connections.  This solves most problems.
+The first portion of your grade will come from regular (short) reading quizzes. These will be completed on Canvas and will typically consist of a few multiple-choice questions on the reading for the day. These quizzes are due at midnight on the night before we have class. There is a time limit on these quizzes and they can only be taken once, so it is advisable that you complete them just as soon as you complete your reading. You will not have enough time to search the reading for the answers, but you may keep the reading assignment open to aid in the completion of the quiz.  I do not accept "my internet broke" excuses for resetting these quizzes.  In compensation, I drop the lowest quiz grade.  I recommend that you do not take these quizzes on your phone or at coffee shops with sketchy connections.  This solves most problems.
 
-Three times during the semester, you will submit a short (500--1000 words) paper on Canvas reflecting on one of the readings in the sections labeled "For Further Reading" at the end of the chapters.  You will select one reading from the lists in Chapters Two and Three, one from the lists in Chapters Four and Five, and one from the lists in Chapters Six and Seven.  If you select a book, you must read one chapter from this book.  If you select an article, you must read the whole article.  These papers consist of two sections, one analysis and one argumentative reflection, each consisting of at least 250 words.  Each of these papers is worth 10% of your final grade.  I do not accept papers that are short of the word count (even by a few words).  Late submissions will have points deducted for every day that the paper is late.  See the seperate handout "How to Write Your Analysis Paper" for more detailed instructions.
+Three times during the semester, you will submit a short (500--1000 words) paper on Canvas reflecting on two of the readings in the sections labeled "For Further Reading" at the end of the chapters.  You will select two readings from the lists in Chapters One and Three, two from the lists in Chapters Four and Five, and two from the lists in Chapters Six and Seven.  You must select your readings in such a way that you can identify a definite divergence in the views of the authors and the respective reasons that these authors have for their positions.  These papers consist of two sections, one analysis and one argumentative reflection, each consisting of at least 250 words.  In the first section you will analyze the disagreement and in the second section you will articulate your own position.  Each of these papers is worth 10% of your final grade.  I do not accept papers that are short of the word count (even by a few words).  Late submissions will have points deducted for every day that the paper is late.  See the seperate handout "How to Write Your Analysis Paper" for more detailed instructions.
 
 The midterm and the final will each comprise 15% of your grade (for a total of 30%) and will mainly consist of factually oriented multiple choice questions concerning the reading (hint: it is a good idea to review past reading quizzes), but there will also be a handful of reflective short-answer questions.  You will take both midterm and final on line (do not come to class that day; you will be sad).
 

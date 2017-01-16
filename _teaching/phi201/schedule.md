@@ -1,10 +1,10 @@
 ---
-title:      PHI 201 Fall 2016 Schedule
+title:      PHI 201 Spring 2017 Schedule
 permalink:  /phi201schedule/
 ---
 
 
-## PHI 201 Fall Schedule ##
+## PHI 201 Spring Schedule ##
 
 The following schedule is an estimation of the dates on which we will
 cover particular topics in this course. As such, it is subject to
@@ -15,42 +15,44 @@ Moodle *by the day listed*.
 
 Course meets TR 9:30--10:45 AM in Pawling Hall, 301
 
+
+
+
 Day           Topic         Reading
 ------------- ------------- -------------------------------------
-2016-08-23    Intro         
-2016-08-25                  *Republic* 514a--516c
-2016-08-30                  *Republic* 516c--520a
-2016-09-01    Presocratics  The Milesians (8--14)
-2016-09-06                  Pythagoreanism (15--20)
-2016-09-08                  Parmenides and Zeno (35--41, 59--63)
-2016-09-13                  Atomists (64--71)
-2016-09-15    Plato         *Phaedo* (229--242)
-2016-09-20                  *Phaedo* (243--255)
-2016-09-22                  *Phaedo* (256--268)
-2016-09-27                  *Phaedo* (269--281)
-2016-09-29                  *Timaeus* (614--629)
-2016-10-04                  *Timaeus* (630--644)
-2016-10-06    Aristotle     *Categories* (656--662; 1a--4b)
-2016-10-11                  *Metaphysics* XII {==Need Pages==}
-2016-10-13                  *Nichomachean Ethics* (TBD)\
+2017-01-17    Intro         
+2017-01-19                  *Republic* 514a--516c
+2017-01-24                  *Republic* 516c--520a
+2017-01-26    Presocratics  Thales, Anaximander, and Anaximenes
+2017-01-31                  The Pythagoreans
+2017-02-02                  Parmenides and Zeno
+2017-02-07                  Leucippus and Democritus
+2017-02-09    Plato         *Phaedo* 57a--72c
+2017-02-14                  *Phaedo* 72c--86e
+2017-02-16                  *Phaedo* 86e--102a
+2017-02-21                  *Phaedo* 102a--118a
+2017-02-23                  *Timaeus* 27e--45b
+2017-02-28                  *Timaeus* 45b--58c
+2017-03-02    Aristotle     *Categories* (1a--4b)
+2017-03-07                  *Metaphysics* XII (1071b--1075a)
+2017-03-09                  *Nichomachean Ethics* Book I (1094a–1103a)\
                             **Midterm Paper Due**
-2016-10-18                  **Fall Break**
-2016-10-20    Augustine     *Confessions* I
-2016-10-25                  *Confessions* III
-2016-10-27                  *Confessions* VII
-2016-11-01                  *Confessions* VIII
-2016-11-03    Boethius      *Consolation of Philosophy* Book I
-2016-11-08                  *Consolation of Philosophy* Book II
-2016-11-10                  *Consolation of Philosophy* Book III
-2016-11-15                  *Consolation of Philosophy* Book IV
-2016-11-17                  *Consolation of Philosophy* Book V
-2016-11-22    Anselm        *Monologion* (5--31)
-2016-11-24                  **Thanks Giving**
-2016-11-29                  *Monologion* (32--56)
-2016-12-01                  *Monologion* (57--81)
-2016-12-06    Aquinas       *Summa Theologica* QQ 2--4 (M)\
-                            **Final Paper Due**
-
+2017-03-14                  **Spring Break**
+2017-03-16                  **Spring Break**
+2017-03-21    Augustine     *Confessions* I
+2017-03-23                  *Confessions* III
+2017-03-28                  *Confessions* VII
+2017-03-30                  *Confessions* VIII
+2017-04-04    Boethius      *Consolation of Philosophy* Book I
+2017-04-06                  *Consolation of Philosophy* Book II
+2017-04-11                  *Consolation of Philosophy* Book III
+2017-04-13                  *Consolation of Philosophy* Book IV
+2017-04-18                  *Consolation of Philosophy* Book V
+2017-04-20    Anselm        *Monologion* (5--31)
+2017-04-25                  *Monologion* (32--56)
+2017-04-27                  *Monologion* (57--81)
+2017-05-02    Aquinas       *Summa Theologica* QQ 2--4 (M)
+2017-05-04                  **Final Paper Due**
 
 
 

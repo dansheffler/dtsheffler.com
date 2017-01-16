@@ -13,6 +13,6 @@ permalink:  /phi201presentations/
 - [The Timaeus](http://dansheffler.com/presentations/Timaeus.html#/)
 - [Aristotle](http://dansheffler.com/presentations/Aristotle.html#/)
 - [Augustine](http://dansheffler.com/presentations/Augustine.html#/)
-- Boethius
+- [Boethius](http://dansheffler.com/presentations/Boethius.html#/)
 - [Anselm](http://dansheffler.com/presentations/Anselm.html#/)
 - [Aquinas](http://dansheffler.com/presentations/Aquinas.html#/)

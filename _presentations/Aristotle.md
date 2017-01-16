@@ -189,3 +189,51 @@ What is most fundamental?
 
 </section>
 </section><!--End Metaphysics VIII-->
+<section><!--Begin Nicomachean Ethics-->
+<section>
+
+# Nicomachean Ethics #
+
+</section>
+<section>
+
+## The Good ##
+
+> Every craft and every investigation, and likewise every action
+> and decision, seems to aim at some good; hence the good has been
+> well described as that at which everything aims.
+> (1094a)
+
+</section>
+<section>
+
+## What is the Good? ##
+
+> As far as its name goes, most people virtually agree [about what
+> the good is], since both the many and the cultivated call it
+> happiness, and suppose that living well and doing well are the
+> same as being happy.  But they disagree about what happiness is,
+> and the many do not give the same answer as the wise.
+> (1095a)
+
+</section>
+<section>
+
+## The Function of a Human Being ##
+
+> Therefore the human good turns out to be the soul's activity that
+> expresses virtue.
+> (1098a)
+
+</section>
+<section>
+
+## Virtue versus the Exercise of Virtue ##
+
+</section>
+<section>
+
+## Virtues of Thought versus Virtues of Character ##
+
+</section>
+</section><!--End Nicomachean Ethics-->
