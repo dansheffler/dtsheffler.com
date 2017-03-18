@@ -79,7 +79,7 @@ Every couple chapters you will need to write an analysis paper on two of the sec
    narrate your personal reaction or thought process.  Instead,
    focus on an objective claim.  I call this "staying objective" in
    the rubric.  If you slip into subjective assessment of the
-   authors' style you will loose five points.
+   authors' style you will lose five points.
 6. **Craft an Argument**.  Think up at least three supporting
    pieces of evidence for why another rational human being should
    agree that the claim you just wrote in step 5 is the truth.  You

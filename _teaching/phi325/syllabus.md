@@ -19,13 +19,15 @@ Credit Hours            3
 
 
 
-## Course Description and Learning Outcomes ##
+## Course Description ##
 
 *From the Catalog*:  Introduction to both the moral issues involved in business management and the ethical concepts and analytical skills relevant to resolving those issues
 
 *From Me*:  Is it right for a CEO to give his granddaughter a major bonus when there are other, more deserving employees? Is it acceptable for a company to deceive consumers about the nature of their product although they don't lie outright? Should the government regulate the pollution companies produce on their own private property?
 
 All these questions concern the morality of actions taken by companies and their employees. In this course we will learn to evaluate such questions by using general ethical principles and theories. You will first learn the relevant theoretical principles, then you will be able to apply them to real life case studies. Finally you will be able to articulate your own position by written argument and in-class discussion.
+
+This course will have a focus on writing since this is the primary medium through which people communicate and grapple with ethical issues in the professional world.  The three argumentative papers in this course are designed to help you develop your skills as a writer, which holds value both as a professional skill, enabling you to communicate effectively with others, and as a personal skill, enabling you to think through the issues for yourself with clarity.  In completing these papers, we will have occasion to refer to the Skills Handbook in order to learn the fundamentals of writing a clear argument.
 
 
 
@@ -52,14 +54,24 @@ clear, concise prose.
 ## Grading ##
 
 ----------------- ----
-Reading Quizzes   20% 
+Reading Quizzes   35% 
 Midterm and Final 20%
-Three Papers      60% 
+Three Papers      45% 
 ----------------- ----
 
 The first portion of your grade will come from regular (short) reading quizzes. These will be completed on Moodle and will typically consist of five multiple-choice questions on the reading for the day. These quizzes are due before class on the day when the corresponding reading assignment is due. There is a time limit on these quizzes and they can only be taken once, so it is advisable that you complete them just as soon as you complete your reading. You will not have enough time to search the reading for the answers if you have not read it, but you may keep the reading assignment open to aid in the completion of the quiz. You will quickly find that you really must do the reading and do it quite carefully to do well on these quizzes.
 
-{==At the middle and end of the semester, you will submit a short (1000--1500 words) paper on Moodle analyzing and reflecting upon one of the authors we have discussed in class.  This paper will consist of one section (at least 500 words) that analyzes an argument from the author and one section (at least 500 words) that presents your own argument on the same topic.  I will not accept papers that fail to meet these length requirements.  Instead, your paper will simply rack up deductions for lateness until you turn in a paper of sufficient length.  See [these instructions](http://www.dansheffler.com/phi201analysispaper/) for specific steps to getting an A and the specific rubric I use while grading.==}
+The second portion of your grade will come from two exams, a midterm and a final.  Both will consist of (i) multiple choice factual questions taken from the reading and the lectures (pay particular attention to technical terms and concepts), and (ii) short answer questions that test your capacity to articulate your own position.
+
+The third portion of your grade will come from three argument papers (3 pages or 1,000 words each).  In writing these papers we will follow a three step drafting process.  First you will bring a prepared outline of your argument (1 page) to class and work with small groups of your peers to polish and expand this outline.  Second, you will deliver a polished draft of your essay (3 pages) to me and receive feedback on both style and substance.  Third you will revise your draft and turn in a final product (3 pages).  The grade on each paper will come from these three components with the following weights:
+
+------- ----------------------------------
+20%     Completion of outline
+40%     Draft
+40%     Final version.
+------- ----------------------------------
+
+Students must complete their Essential Proficiency Writing requirements before they can receive credit for a Flagged Writing class.  Students may receive writing credit for no more than one Writing Flag in any one semester.
 
 **Grading Scale:**
 
@@ -76,7 +88,7 @@ E   59--0%
 
 ## Attendance ##
 
-Although attendance does not compose its own segment of the grade, it is mandatory and failure to attend class will adversely impact your grade. Roll will be taken at the beginning of every class period. Perfect attendance will result in an extra credit of +2 percentage points. The first 2 unexcused absences will not count against you, but beginning with the 3rd absence, each absence will subtract 2 percentage points from your final grade. This goes to a **limit of 7 unexcused absences** at which point you can no longer pass the class. For your reference:
+Although attendance does not constitute its own segment of the grade, it is mandatory and failure to attend class will adversely impact your grade. Roll will be taken at the beginning of every class period. Perfect attendance will result in an extra credit of +2 percentage points. The first 2 unexcused absences will not count against you, but beginning with the 3rd absence, each absence will subtract 2 percentage points from your final grade. This goes to a **limit of 7 unexcused absences** at which point you can no longer pass the class. For your reference:
 
 Number of Absences  Percentage Change to Final Grade 
 ------------------- ---------------------------------
