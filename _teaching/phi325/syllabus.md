@@ -61,9 +61,9 @@ Three Papers      45%
 
 The first portion of your grade will come from regular (short) reading quizzes. These will be completed on Moodle and will typically consist of five multiple-choice questions on the reading for the day. These quizzes are due before class on the day when the corresponding reading assignment is due. There is a time limit on these quizzes and they can only be taken once, so it is advisable that you complete them just as soon as you complete your reading. You will not have enough time to search the reading for the answers if you have not read it, but you may keep the reading assignment open to aid in the completion of the quiz. You will quickly find that you really must do the reading and do it quite carefully to do well on these quizzes.
 
-The second portion of your grade will come from two exams, a midterm and a final.  Both will consist of (i) multiple choice factual questions taken from the reading and the lectures (pay particular attention to technical terms and concepts), and (ii) short answer questions that test your capacity to articulate your own position.
+The second portion of your grade will come from two exams, a midterm and a final.  Both will consist of (i) multiple choice factual questions taken from the reading and the lectures (pay particular attention to technical terms and concepts), and (ii) short answer questions that test your capacity to articulate your own position.  Each test contains four short answer questions that involve at least one fully developed paragraph apiece.
 
-The third portion of your grade will come from three argument papers (3 pages or 1,000 words each).  In writing these papers we will follow a three step drafting process.  First you will bring a prepared outline of your argument (1 page) to class and work with small groups of your peers to polish and expand this outline.  Second, you will deliver a polished draft of your essay (3 pages) to me and receive feedback on both style and substance.  Third you will revise your draft and turn in a final product (3 pages).  The grade on each paper will come from these three components with the following weights:
+The third portion of your grade will come from three argument papers (3 pages or 1,000 words each). In writing these papers we will follow a three step drafting process. First you will bring a prepared outline of your argument (1 page) to class and work with small groups of your peers to polish and expand this outline. Second, you will deliver a polished draft of your essay (3 pages) to me and receive extensive written feedback on both style and substance. Third, you will undertake a substantial revision of your draft based on this feedback and turn in a perfected final product (3 pages). The grade on each paper will come from these three components with the following weights:
 
 ------- ----------------------------------
 20%     Completion of outline
@@ -71,7 +71,7 @@ The third portion of your grade will come from three argument papers (3 pages or
 40%     Final version.
 ------- ----------------------------------
 
-Students must complete their Essential Proficiency Writing requirements before they can receive credit for a Flagged Writing class.  Students may receive writing credit for no more than one Writing Flag in any one semester.
+Students must complete their Essential Proficiency Writing requirements before they can receive credit for a Flagged Writing class.  Students may receive writing credit for no more than one Writing Flag in any one semester.  This course will aim to hone your writing skills by helping you to construct logically robust arguments in support of your ethical views and by helping you to present these arguments in a style that is polished and professional.  You will need to have the GC Skills Manual as a reference throughout this writing process.
 
 **Grading Scale:**
 

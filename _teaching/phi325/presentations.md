@@ -10,3 +10,4 @@ permalink:  /phi325presentations/
 - [Foundations](http://dansheffler.com/presentations/PHI325Foundations.html#/)
 - [Employees](http://dansheffler.com/presentations/PHI325Employees.html#/)
 - [Sales](http://dansheffler.com/presentations/PHI325Sales.html#/)
+- [Social Responsibility](http://dansheffler.com/presentations/PHI325Social.html/)

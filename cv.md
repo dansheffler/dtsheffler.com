@@ -5,12 +5,6 @@ permalink: /cv/
 
 ### Dan Sheffler - CV ###
 
-    Philosophy Dept.
-    1402 POT
-    University of Kentucky
-    Lexington, KY, 40508
-
-
 
 
 #### Specialization and Competence ####
@@ -19,12 +13,11 @@ permalink: /cv/
     Ancient Philosophy.
 
 **Competence**:
-    Philosophy of Religion, Contemporary Metaphysics (especially
-    metaphysics of free will and metaphysics of time), and Medieval Philosophy. 
+    Medieval Philosophy, Philosophy of Religion, and Contemporary Metaphysics (especially metaphysics of free will and metaphysics of time).
 
 #### Education ####
 
-PhD, Philosophy, University of Kentucky, (in progress, expected graduation in 2017).
+PhD, Philosophy, University of Kentucky, 2017.
 
 M.A., Philosophy, University of Kentucky, 2012.
 
@@ -33,18 +26,29 @@ M.A., Classics, University of Kentucky, 2010.
 B.A., Philosophy and Classics, University of Kentucky, 2010.
 
 
+#### Publications ####
+
+"The Metaphysics of Personhood in Plato's Dialogues" (doctoral dissertation, University of Kentucky, 2017), doi: 10.13023/ETD.2017.142.  Available [here](http://uknowledge.uky.edu/philosophy_etds/16/).
+
+"Worship Becomes Us," review of *Liturgy and Personality*, by Dietrich von Hildebrand, *Touchstone*, May/June 2017.  Available [here](http://www.touchstonemag.com/archives/article.php?id=30-03-055-b).
+
+
 #### Presentations ####
 
-"Why Molinism Does Not Help with the Rollback Argument," Society of Christian Philosophers, Trinity College, March 2014.
+"Why Molinism Does Not Help with the Rollback Argument," Society of Christian Philosophers, Trinity College, March 2014.  Available [here](http://dansheffler.com/pdfs/Molinism-and-Rollback.pdf).
 
-"The Sun and the Good: the Allegory of the Sun in *Republic* VI," Society for Ancient Greek Philosophy, Fordham University, October 2013.
+"The Sun and the Good: the Allegory of the Sun in *Republic* VI," Society for Ancient Greek Philosophy, Fordham University, October 2013.  Available [here](http://dansheffler.com/pdfs/The-Sun-and-the-Good.pdf).
 
-"A Complex Eternity," Society of Christian Philosophers, Georgetown University, April 2013.
+"A Complex Eternity," Society of Christian Philosophers, Georgetown University, April 2013.  Available [here](http://dansheffler.com/pdfs/A-Complex-Eternity.pdf).
 
 
 #### Awards ####
 
+Outstanding Teaching Award in University of Kentucky philosophy department, April 2016.
+
 Best graduate student paper ($500) awarded by Society of Christian Philosophers for "A Complex Eternity," April 2013.
+
+Greek student of the year in University of Kentucky classics department, May 2009.
 
 Accepted into University Scholars program at the University of Kentucky for classics, 2008--2010.
 
@@ -56,9 +60,11 @@ Research grant from University of Kentucky Eureka fund ($2,000), 2006.
 
 ###### Georgetown College ######
 
-Ancient and Medieval Philosophy, Spring 2016--Fall 2016
+Ancient and Medieval Philosophy, Spring 2016--Spring 2017.
 
-Ethics, Fall 2016
+Business Ethics, Spring 2017.
+
+Ethics, Fall 2016.
 
 
 ###### Asbury University ######
@@ -76,7 +82,7 @@ Introduction to Philosophy, Fall 2013--Fall 2014.
 
 ###### University of Kentucky ######
 
-Introduction to Philosophy, Fall 2013--Fall 2016.
+Introduction to Philosophy, Fall 2013--Spring 2017.
 
 Business Ethics, Spring 2013--Fall 2013.
 
@@ -91,9 +97,9 @@ Medical Terminology (on-line course), Summer 2010.
 
 ###### Mars Hill Christian Academy ######
 
-Traditional Logic, 2008--2016.
+Traditional Logic, 2008--2017.
 
-Latin years 3 and 4, 2009--2016.
+Latin years 3 and 4, 2009--2017.
 
 
 
