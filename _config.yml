@@ -7,6 +7,7 @@ baseurl:        ""
 url:            "http://www.dansheffler.com"
 paginate:       10
 paginate_path:  "/page:num"
+future:         false
 
 # lunr_search:
 #   excludes: [sitemap.xml,index.html,search,archive,papers,share,teaching]

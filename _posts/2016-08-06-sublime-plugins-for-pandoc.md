@@ -1,3 +1,12 @@
+---
+title: Sublime Plugins for Pandoc
+tags: [Note Taking, Sublime, Pandoc]
+sharing:
+  twitter: My recommendations for Sublime slugins for writers who use Pandoc.
+  facebook: My recommendations for Sublime slugins for writers who use Pandoc.
+---
+
+
 
 In the [last post](http://dansheffler.com/blog/2016-07-11-pandoc/), I gave a brief introduction to using Pandoc.  There are a few plugins for Sublime Text that I have installed that make it much easier to use Pandoc.  On any Sublime Text installation, the first plugin to add should be [Package Control](https://packagecontrol.io/).  This allows you to easily install more plugins from within Sublime Text with an easy-to-use interface.  While there are many plugins out there geared toward Markdown in general and Pandoc in particular, these are the ones that I use:
 
