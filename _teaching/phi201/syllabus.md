@@ -1,5 +1,5 @@
 ---
-title:      PHI 201 2017 Spring Syllabus
+title:      PHI 201 2017 Fall Syllabus
 permalink:  /phi201syllabus/
 ---
 
@@ -13,7 +13,7 @@ Email                   daniel_sheffler@georgetowncollege.edu
 Web                     <http://sage.georgetowncollege.edu/course/view.php?id=3007>
 Schedule                <http://dansheffler.com/phi201schedule/>
 Presentations           <http://dansheffler.com/phi201presentations/>
-Semester                Spring 2017
+Semester                Fall 2017
 Credit Hours            3
 ----------------------- -----------------------------------------------
 

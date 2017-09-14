@@ -62,6 +62,8 @@ Research grant from University of Kentucky Eureka fund ($2,000), 2006.
 
 Ancient and Medieval Philosophy, Spring 2016--Spring 2017.
 
+Latin I and III, Fall 2017.
+
 Business Ethics, Spring 2017.
 
 Ethics, Fall 2016.

@@ -21,14 +21,14 @@ For the midterm and the final you will need to write an analysis paper on one of
    helps.
 2. **Identify a Thesis**.  Find one specific claim in the reading
    that you want to focus on.  This must be an actual thesis rather
-   than merely a theme he discusses or question he raises.  Begin
-   your paper with an explicit statement of this thesis---literally
-   the first sentence of your paper must be this or you will have
-   points taken off. Here is a model sentence that you should use,
-   replacing the pieces as necessary: "In the *Nichomachean
-   Ethics*, Aristotle claims that happiness is the exercise of
-   virtue." Here are some examples of what does ***NOT*** count as
-   a thesis:
+   than merely a theme the author discusses or question he raises.
+   Begin your paper with an explicit statement of this thesis---
+   literally the first sentence of your paper must be this or you
+   will have points taken off. Here is a model sentence that you
+   should use, replacing the pieces as necessary: "In the
+   *Nichomachean Ethics*, Aristotle claims that happiness is the
+   exercise of virtue." Here are some examples of what does
+   ***NOT*** count as a thesis:
    (i)   "In the *Nichomachean Ethics*, Aristotle discusses the
          important idea of virtue."
    (ii)  "In the *Nichomachean Ethics*, Aristotle wonders what
