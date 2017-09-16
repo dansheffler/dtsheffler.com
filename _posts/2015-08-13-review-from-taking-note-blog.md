@@ -1,5 +1,7 @@
 ---
 title: Review from Taking Note Blog
+tags: [Link, Notetaking]
+summary: A link to some comments on the Taking Note blog regarding my setup.
 ---
 
 

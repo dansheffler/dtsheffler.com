@@ -1,5 +1,7 @@
 ---
 title: Zettelkasten Goes to Use
+tags: [Link, Notetaking, Zettlekasten]
+summary: A link to Shawn Graham who is using my zettlekasten set up.
 ---
 
 After a few tweaks, I'm glad to see that Shawn Graham has my

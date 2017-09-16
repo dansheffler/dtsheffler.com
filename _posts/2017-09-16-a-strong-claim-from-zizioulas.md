@@ -1,6 +1,7 @@
 ---
 title: A Strong Claim from Zizioulas
 tags: [Quote, Plato and Personalism]
+summary: Metropolitan John Zizioulas puts in a particularly striking way the historical claim that I am working on in my current book project.
 sharing:
   twitter: Zizioulas makes the historical claim that I am working on in my current book project.
   facebook: Metropolitan John Zizioulas puts in a particularly striking way the historical claim that I am working on in my current book project.

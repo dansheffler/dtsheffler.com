@@ -1,6 +1,7 @@
 ---
 title: Simplicity Leads to Despotism
 tags: [Quote, Conservatism]
+summary: Russell Kirk explains the connection between ideological simplicity and despotism.
 sharing:
   twitter: Russell Kirk explains the connection between ideological simplicity and despotism.
   facebook: Russell Kirk explains the connection between ideological simplicity and despotism.

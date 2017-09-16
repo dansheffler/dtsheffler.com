@@ -1,6 +1,7 @@
 ---
 title: Sublime Plugins for Pandoc
 tags: [Note Taking, Sublime, Pandoc]
+summary: My recommendations for Sublime slugins for writers who use Pandoc.
 sharing:
   twitter: My recommendations for Sublime slugins for writers who use Pandoc.
   facebook: My recommendations for Sublime slugins for writers who use Pandoc.

@@ -1,5 +1,7 @@
 ---
 title: Levels of Reading
+tags: [Reading]
+summary: Thoughts on distinguishing different depths of reading and adjusting your habits accordingly.
 ---
 
 In a previous post I mentioned that I like to take marginal notes

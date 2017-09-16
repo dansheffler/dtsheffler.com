@@ -1,5 +1,7 @@
 ---
 title: One Thought Per Note
+tags: [Notetaking, Writing]
+summary: The advantages of making many small notes with one thought in each.
 ---
 
 When using the Zettelkasten Method to organize my notes, I have

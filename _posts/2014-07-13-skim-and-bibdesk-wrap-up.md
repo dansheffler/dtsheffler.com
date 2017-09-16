@@ -1,5 +1,7 @@
 ---
 title: Skim and BibDesk Wrap-up
+tags: [Skim, BibDesk]
+summary: All my posts on Skim and BibDesk organized in one place.
 ---
 
 Over the last few weeks, I have posted several snippets of code and

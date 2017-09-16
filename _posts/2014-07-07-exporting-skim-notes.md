@@ -1,3 +1,10 @@
+---
+title: Exporting Skim Notes
+tags: [Skim, markdown]
+summary: A little script I wrote for getting all your Skim notes into a single nicely formated markdown file.
+---
+
+
 After I have entered marginal and anchored notes in [Skim], I need
 some way to export those notes and format them nicely for reading.
 Skim has some built-in tools for exporting notes, but I wanted (i)

@@ -1,6 +1,7 @@
 ---
 title: Culture of Repudiation
 tags: [Quote, Conservatism]
+summary: Roger Scruton identifies a feature of academic life that has become singularly disagreeable to me.
 sharing:
   twitter: Roger Scruton identifies a feature of academic life that has become singularly disagreeable to me.
   facebook: Roger Scruton identifies a feature of academic life that has become singularly disagreeable to me.

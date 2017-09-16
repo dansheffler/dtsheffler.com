@@ -1,3 +1,10 @@
+---
+title: Why I Use Skim
+tags: [Skim, Reading]
+summary: The advantages of this wonderful PDF reader form OSX.
+---
+
+
 In the last several posts, I have been talking about a program
 called [Skim].  This is the only program I use to read on my
 desktop, and seeing as how I spend many hours a day reading, I have

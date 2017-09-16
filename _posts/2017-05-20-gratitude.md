@@ -1,6 +1,7 @@
 ---
 title: Gratitude
 tags: [Talk, Classical Education]
+summary: My address at the 2017 Mars Hill graduation.
 sharing:
   twitter: My address at the 2017 Mars Hill graduation.
   facebook: My address at the 2017 Mars Hill graduation.

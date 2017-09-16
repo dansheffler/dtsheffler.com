@@ -1,5 +1,7 @@
 ---
-title: The Zettelkasten Method date: 2015-05-05
+title: The Zettelkasten Method
+tags: [Notetaking, Zettlekasten]
+Summary: An overview of the zettlekasten method for taking notes.
 ---
 
 

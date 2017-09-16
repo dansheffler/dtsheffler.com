@@ -1,3 +1,9 @@
+---
+title: Notebook Annotation
+tags: [Notetaking]
+summary: A description of the way that I go back and annotate my notebooks.
+---
+
 As I outlined in my last post, I split my note taking between
 engagement notes and memory notes---the former with a notebook and
 pen and the latter with a computer.  A typical page in my notebook

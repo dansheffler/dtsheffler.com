@@ -1,5 +1,7 @@
 ---
 title: Git for Zettelkasten
+tags: [Zettlekasten, Notetaking, Sublime]
+summary: Using Git with my zettlekasten
 ---
 
 TheClearHorizon asked an interesting question in a [comment

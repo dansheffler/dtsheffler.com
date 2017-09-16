@@ -1,5 +1,7 @@
 ---
 title: Search BibDesk
+tags: [BibDesk]
+summary: A script I wrote to seach BibDesk with a hotkey from anywhere.
 ---
 
 Often I want to just do a quick check of whether I have a book in

@@ -1,5 +1,7 @@
 ---
 title: Reading Notes
+tags: [Notetaking, Writing]
+Summary: Tips on taking notes from Umberto Eco.
 ---
 
 In his *How to Write a Thesis* ([Amazon][]), Umberto Eco suggests

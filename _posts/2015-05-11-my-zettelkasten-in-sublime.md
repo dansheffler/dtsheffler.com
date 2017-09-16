@@ -1,6 +1,7 @@
 ---
 title: My Zettelkasten in Sublime
-date: 2015-05-11
+tags: [Notetaking, Zettlekasten, Sublime]
+summary: The way that I have my Zettlekasten set up in Sublime.
 ---
 
 

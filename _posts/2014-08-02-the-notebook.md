@@ -1,3 +1,11 @@
+---
+title: The Notebook
+tags: [Notetaking]
+summary: Pictures and description of the notebook and manual system I use.
+---
+
+
+
 As you can probably guess, I am very particular about my notebook
 and the kind of paper I use.  I carry my notebook with me
 everywhere I go so I like to have it protected in a durable way,

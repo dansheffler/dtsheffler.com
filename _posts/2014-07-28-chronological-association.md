@@ -1,3 +1,9 @@
+---
+title: Chronological Association
+tags: [Notetaking, Writing]
+summary: The use of being able to place your notes within the chronological stream of your thoughts.
+---
+
 Insights develop from connections between ideas.  Because my
 computer notes are arranged topically I generate many content-
 driven connections between ideas, but one important type of

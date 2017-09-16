@@ -1,5 +1,7 @@
 ---
 title: Custom Skim URLs
+tags: [Skim, BibDesk]
+summary: Describes how to set up system-wide OSX urls for each PDF based on bibliographic info.
 ---
 
 I wanted to be able to link to any page of a PDF in my Markdown

@@ -1,6 +1,7 @@
 ---
 title: Sincerity Formulated into Dogma
-tags: [Quote, Political Philosophy]
+tags: [Quote, Conservatism]
+summary: James Russell Lowell explains that passion and sincerity are not enough.
 sharing:
   twitter: James Russell Lowell explains that passion and sincerity are not enough.
   facebook: James Russell Lowell explains that passion and sincerity are not enough.

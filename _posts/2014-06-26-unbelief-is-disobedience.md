@@ -1,5 +1,7 @@
 ---
 title: Unbelief is Disobedience
+tags: [Quote]
+summary: Leslie Newbigin explains the connection between faith and obedience.
 ---
 
 > The worldviews differ in respect to the roles of seeing and

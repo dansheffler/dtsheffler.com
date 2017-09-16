@@ -1,5 +1,7 @@
 ---
 title: Gilson on Deism
+tags: [Quote]
+summary: Gilson describes the 'ghost of the Christian God' found in Deism.
 ---
 
 > For almost two centuries...the ghost of the Christian God has

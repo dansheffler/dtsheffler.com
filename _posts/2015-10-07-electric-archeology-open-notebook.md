@@ -1,5 +1,7 @@
 ---
 title: Electric Archeology Open Notebook
+tags: [Link]
+summary: Link to Shawn Graham at Electric Archeology.
 ---
 
 I'm really impressed with what Shawn Graham over at Electric

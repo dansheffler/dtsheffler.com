@@ -1,6 +1,7 @@
 ---
 title: Spirit vs. Flesh in Romans 8
 tags: [Church, Talk]
+summary: Here is the presentation for the sermon at the CF churches this weekend.
 sharing:
   twitter: Here is the presentation for the sermon at the CF churches this weekend.
   facebook: Here is the presentation for the sermon at the CF churches this weekend.

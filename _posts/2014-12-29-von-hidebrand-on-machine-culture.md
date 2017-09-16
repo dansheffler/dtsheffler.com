@@ -1,3 +1,10 @@
+---
+title: Von Hildebrand on Machine Culture
+tags: [Quote, Personalism]
+summary: Dietrich von Hildebrand objects to the mechanization of the person.
+---
+
+
 > [The true Christian] must firmly refuse to let himself be dragged
 > into a whirlpool of activities in which he is driven incessantly
 > from one task to another, purpose succeeding purpose, without a

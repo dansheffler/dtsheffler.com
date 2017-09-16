@@ -1,6 +1,7 @@
 ---
 title: Description of Early Christians to Diognetus
 tags: [Quote, Patristics]
+summary: I ran across this beautiful description of the early Christians in the Letter to Diognetus while reading the first volume of the Ante-Nicene Fathers.  If only we could be true to this description, how much better salted would the world be by our presence?
 sharing:
   twitter: If only we could be true to this beautiful description of the early Christians.
   facebook: I ran across this beautiful description of the early Christians in the Letter to Diognetus while reading the first volume of the Ante-Nicene Fathers.  If only we could be true to this description, how much better salted would the world be by our presence?

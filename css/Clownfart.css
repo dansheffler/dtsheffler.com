@@ -172,6 +172,30 @@ div.post{ margin-bottom: 15em; }
 
 
 div.source { font-size: 0.7em; color: #999; margin-top:-1.2em; margin-bottom: 4em}
+div.tags { font-size: 0.7em; color: #999;}
+
+ul.tags {
+  padding: 0;
+  margin: 0;
+  display: inline;
+}
+
+li.tags {
+  display: inline;
+}
+
+li.tags + li.tags:before {
+    content: ", ";
+}
+
+
+ul.archive {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
+
+
 
 
 a{ color: red; text-decoration:none;}
@@ -192,6 +216,13 @@ a.previous { float: right; }
 p{
 margin:1em 0;
 text-align: left;
+}
+
+p.summary {
+    font-size: 0.7em;
+    line-height: 1.3em;
+    color: #666;
+    margin: 0;
 }
 
 img{
@@ -375,6 +406,10 @@ sub { bottom: -0.25em; }
 
 ul, ol { margin: 1em 0; padding: 0 0 0 2em; }
 li p:last-child { margin:0 }
+
+li.archive {
+  margin-bottom: 1em;
+}
 
 img { border: 0; -ms-interpolation-mode: bicubic; vertical-align: middle; }
 

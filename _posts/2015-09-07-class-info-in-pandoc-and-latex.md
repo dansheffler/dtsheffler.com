@@ -1,5 +1,7 @@
 ---
 title: Class Info in Pandoc and LaTeX
+tags: [LaTeX, markdown]
+summary: How to get typical student info into your LaTeX output using Pandoc's metadata.
 ---
 
 

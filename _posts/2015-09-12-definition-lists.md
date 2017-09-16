@@ -1,5 +1,7 @@
 ---
 title: Definition Lists
+tags: [LaTeX, markdown]
+summary: Using markdown's definition lists in LaTeX output.
 ---
 
 After telling someone that they should use definition lists, I

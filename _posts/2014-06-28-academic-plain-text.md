@@ -1,3 +1,10 @@
+---
+title: Academic Plain Text
+tags: [Sublime, markdown, Link]
+summary: A link to a very good introduction for getting up and running with using markdown for academic writing.
+---
+
+
 Many of my colleagues ask how I set up my system for authoring in
 Markdown with its automatically formated citations and easy output
 to PDF, DOCX, and HTML, but the learning curve can be quite steep

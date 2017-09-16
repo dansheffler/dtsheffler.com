@@ -1,5 +1,7 @@
 ---
 title: Sublime Syntax Definition
+tags: [Sublime, markdown, Writing, Zettlekasten]
+summary: My own Sublime syntax definition that includes zettlekasten linmks.
 ---
 
 I have just created a syntax definition for Sublime Text 3 that

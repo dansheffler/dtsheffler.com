@@ -1,5 +1,7 @@
 ---
 title: BibDesk and LaTeX Citations
+tags: [BibDesk, LaTeX]
+summary: Using BibDesk to keep all your bibliographic info for automatically generated footnotes in LaTeX.
 ---
 
 [Yesterday], I promised to address [LaTeX] citations using

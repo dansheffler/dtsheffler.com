@@ -1,5 +1,7 @@
 ---
 Title: Going from Reading to Notes
+tags: [Reading, Notetaking, Zettlekasten]
+summary: My process of taking reading notes and getting them into my zettlekasten.
 ---
 
 

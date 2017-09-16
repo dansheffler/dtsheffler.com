@@ -1,3 +1,11 @@
+---
+title: Merton on Theology
+tags: [Quote]
+summary: Thomas Merton claims that theology must be based in personal relationship.
+---
+
+
+
 > By faith the person...not only hears *about* God but enters into
 > a personal relationship of obedient love with God his Father.
 

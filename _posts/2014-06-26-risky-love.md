@@ -1,3 +1,10 @@
+---
+title: Risky Love
+tags: [Quote]
+summary: Vladimir Lossky describes the risk involved in God's love.
+---
+
+
 > If the God of the philosophers and the learned is only a First
 > Necessity who ordains the chain of cause and effect and
 > corrects automatically every chance deviation which introduces

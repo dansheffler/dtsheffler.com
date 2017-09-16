@@ -1,5 +1,7 @@
 ---
 title: Intro to BibDesk
+tags: [BibDesk]
+summary: An introductory description of BibDesk, a program that allows you to store all your bibliographic info.
 ---
 
 In several of the scripts I use to interact with [Skim], I have

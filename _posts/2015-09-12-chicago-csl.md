@@ -1,5 +1,7 @@
 ---
 title: Chicago CSL
+tags: [LaTeX, markdown]
+summary: How to get nicely styled Chicago footnotes in your LaTeX output with Pandoc.
 ---
 
 Yesterday, I was helping another colleague get set up with markdown

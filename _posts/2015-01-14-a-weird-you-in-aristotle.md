@@ -1,6 +1,7 @@
 ---
 title: A Weird "You" in Aristotle
-date: 2015-01-14
+tags: [Quote]
+summary: An odd switch to the second person in a juicy Aristotle quote.
 ---
 
 > The essence of a thing is what the thing is said to be in its own

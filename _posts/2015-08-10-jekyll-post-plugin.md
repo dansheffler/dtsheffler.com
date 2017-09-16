@@ -1,5 +1,7 @@
 ---
 title: Jekyll Post Plugin
+tags: [Jekyll, Sublime]
+summary: A little plugin I wrote for using Jekyll with Sublime.
 ---
 
 

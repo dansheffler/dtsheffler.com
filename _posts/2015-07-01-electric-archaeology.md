@@ -1,5 +1,7 @@
 ---
 title: Electric Archaeology
+tags: [Link, Reading, Markdown]
+summary: A link to Shawn Graham who is using my Skim to Markdown scripts.
 ---
 
 Shawn Graham just put up a nice [post][] over at [Electric

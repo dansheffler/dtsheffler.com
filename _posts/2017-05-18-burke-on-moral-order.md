@@ -1,6 +1,7 @@
 ---
 title: Burke on Moral Order
 tags: [Quote, Conservatism]
+summary: The awful Author of our being is the author of our place in the order of existence...
 sharing:
   twitter: "The awful Author of our being is the author of our place in the order of existence..."
   facebook: "The awful Author of our being is the author of our place in the order of existence..."

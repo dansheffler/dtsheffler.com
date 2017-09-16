@@ -1,6 +1,7 @@
 ---
 title: Whittaker Chambers on Writing and Inertia
 tags: [Quote, Writing]
+summary: By simply picking up a pen, things can be done, if we have the will to overcome inertia.
 sharing:
   twitter: "By simply picking up a pen, things can be done, if we have the will to overcome inertia."
   facebook: "By simply picking up a pen, things can be done, if we have the will to overcome inertia."

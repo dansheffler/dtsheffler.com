@@ -1,3 +1,11 @@
+---
+title: Skim Links
+tags: [Skim, Pandoc]
+summary: A script I wrote that for generating a Pandoc-style citation with an automatically generated link to the right page in Skim.
+---
+
+
+
 In the last post, I shared my little script for opening URLs that
 look like this: `sk://mccabe94#57`. It is a little irritating,
 however, to remember the citekey for a book and look for the page
