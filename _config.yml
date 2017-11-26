@@ -43,9 +43,9 @@ defaults:
   -
     scope:
       path: ""
-      type: "post"
+      type: "posts"
     values:
-      layout: "post" # overrides previous default layout
+      layout: "posts" # overrides previous default layout
   -
     scope:
       path: ""

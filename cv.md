@@ -33,7 +33,11 @@ B.A., Philosophy and Classics, University of Kentucky, 2010.
 "Worship Becomes Us," review of *Liturgy and Personality*, by Dietrich von Hildebrand, *Touchstone*, May/June 2017.  Available [here](http://www.touchstonemag.com/archives/article.php?id=30-03-055-b).
 
 
-#### Presentations ####
+#### Presentations and Professional Activity ####
+
+Director of Christian Training School at Lexington Christian Fellowship (an eleven-week intensive summer program for college-age students) 2011, 2013, 2015, 2016, 2017.  Website [here](http://www.ucfky.com/cts/).
+
+Participant in the Hildebrand Project Summer Seminar, 2015--2017.
 
 "Why Molinism Does Not Help with the Rollback Argument," Society of Christian Philosophers, Trinity College, March 2014.  Available [here](http://dansheffler.com/pdfs/Molinism-and-Rollback.pdf).
 
@@ -60,7 +64,7 @@ Research grant from University of Kentucky Eureka fund ($2,000), 2006.
 
 ###### Georgetown College ######
 
-Ancient and Medieval Philosophy, Spring 2016--Spring 2017.
+Ancient and Medieval Philosophy, Spring 2016--Fall 2017.
 
 Latin I and III, Fall 2017.
 

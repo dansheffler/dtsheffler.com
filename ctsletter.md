@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: posts
 title: Christian Training School 2015
 permalink: /ctsletter/
 ---
