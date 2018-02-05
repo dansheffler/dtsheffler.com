@@ -8,6 +8,7 @@ url:            "http://www.dansheffler.com"
 paginate:       10
 paginate_path:  "/page:num"
 future:         false
+excerpt_separator: <!--more-->
 
 # lunr_search:
 #   excludes: [sitemap.xml,index.html,search,archive,papers,share,teaching]

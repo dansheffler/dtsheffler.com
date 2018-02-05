@@ -1,18 +1,18 @@
 ---
-title:      PHI 201 2018 Spring Syllabus
-permalink:  /phi201syllabus/
+title:      PHI 435 2018 Spring Syllabus
+permalink:  /phi435syllabus/
 ---
 
-## PHI 201 Syllabus - History of Philosophy I ##
+## PHI 435 Syllabus - History of Philosophy I ##
 
 
 ----------------------- -----------------------------------------------
-Location                Chapel, 006
+Location                Pawling Hall, 105
 Instructor              Dan Sheffler
 Email                   daniel_sheffler@georgetowncollege.edu
-Web                     <https://sage.georgetowncollege.edu/course/view.php?id=3720>
-Schedule                <http://dansheffler.com/phi201schedule/>
-Presentations           <http://dansheffler.com/phi201presentations/>
+Web                     <https://sage.georgetowncollege.edu/course/view.php?id=3721>
+Schedule                <http://dansheffler.com/phi435schedule/>
+Presentations           <http://dansheffler.com/phi435presentations/>
 Semester                Spring 2018
 Credit Hours            3
 ----------------------- -----------------------------------------------
@@ -21,36 +21,15 @@ Credit Hours            3
 
 ## Required Texts ##
 
-- *Readings in Ancient Greek Philosophy*, ed. S. Marc Cohen,
-  Patricia Curd, and C.D.C. Reeve, (Hackett, 2005), ISBN: 0872207692.
-- Augustine, *Confessions*, trans. Henry Chadwick, (Oxford, 1991)
-  ISBN: 9780199537822.
-- Boethius, *The Consolation of Philosophy*, trans. Victor Watts,
-  (Penguin, 1999).
-- Anselm, *The Major Works*, ed. Brian Davies and G.R. Evans,
-  (Oxford, 1998), ISBN: 0192825259.
+All texts will be made available on Sage.
 
 
 
 ## Course Description and Learning Outcomes ##
 
-*From the Catalog*:  Survey of the development of Western
-philosophical thought within its cultural contexts from ancient
-Greece through the Middle Ages. Exploration of foundational
-approaches to questions of reality, virtue, knowledge, God, faith,
-and reason.
+*From the Catalog*:  A survey of leading 20th century philosophers. Russell, Wittgenstein, Heidegger, Husserl, Moore, Davidson, Merleau-Ponty, and Derrida represent some of the figures to be considered. Prerequisite: one course in philosophy. Even Springs
 
-*From Me*:  In this course we will read major philosophers from the
-ancient and medieval periods including Plato, Aristotle, Augustine,
-Boethius, Anselm, and Aquinas.  For each author, we will try to
-come to grips with his worldview, that is, how he conceives the
-structure of reality as a whole.  Where does this author think that
-the universe comes from?  What does he think is most real?  Does he
-believe in God?  How does he conceive of God?  What does he think
-it means to be human?  I hope that asking these questions will open
-our eyes to the high degree of agreement amongst ancient and
-medieval thinkers and the high degree of difference between them
-and modern thinkers.  I also hope that as you explore how great men of the past have answered these questions, you will begin to develop answers of your own.
+*From Me*:  In this course we will be examining the spirit of modern philosophy in the nineteenth and twentieth centuries.  In order to capture the unique character of this period we will focus on "the inward turn" that began in the Enlightenment but became dominant during the nineteenth and twentieth centuries.  We will begin with some stage-setting by reading some contemporary commentary on the broad trajectory of Western thought and reading some Descartes and Pascal.  We will then examine thinkers such as Hegel, Kierkegaard, and Nietzsche in the nineteenth century and thinkers such as Russell, Heidegger, Wittgenstein, and Lewis.  At the end of the course we will examine the divergence between analytic and continental philosophy in the contemporary literature.  We will examine this "inward turn" critically, asking such questions as, "Was it necessary?" and "Was it good?"
 
 
 
@@ -60,15 +39,16 @@ and modern thinkers.  I also hope that as you explore how great men of the past 
 -----------------------------------------------------------------------
 Learning Outcome                        Assessment
 --------------------------------------- -------------------------------
-To gain an understanding of the primary Reading Quizzes
+To gain an understanding of the primary Reading Quizzes, Defenses
 questions, terminology, and theories in
-ancient and medieval philosophy
+nineteenth and twentieth century
+philosophy
 
-To learn to carefully read              Reading Quizzes
+To learn to carefully read              Reading Quizzes, Defenses
 philosophical texts
 
-To gain the capacity to communicate     Midterm and Final Papers
-difficult philosophical thinking in
+To gain the capacity to communicate     Final Paper,
+difficult philosophical thinking in     Defenses
 clear, concise prose.
 -----------------------------------------------------------------------
 
@@ -77,14 +57,16 @@ clear, concise prose.
 ## Grading ##
 
 ----------------- ----
-Reading Quizzes   40% 
-Midterm Paper     30% 
+Reading Quizzes   30% 
+Defenses          40% 
 Final Paper       30% 
 ----------------- ----
 
 The first portion of your grade will come from regular (short) reading quizzes. These will be completed on Moodle and will typically consist of five multiple-choice questions on the reading for the day. These quizzes are due before class on the day when the corresponding reading assignment is due. There is a time limit on these quizzes and they can only be taken once, so it is advisable that you complete them just as soon as you complete your reading. You will not have enough time to search the reading for the answers if you have not read it, but you may keep the reading assignment open to aid in the completion of the quiz. You will quickly find that you really must do the reading and do it quite carefully to do well on these quizzes.
 
-At the middle and end of the semester, you will submit a short (1000--1500 words) paper on Moodle analyzing and reflecting upon one of the authors we have discussed in class.  This paper will consist of one section (at least 500 words) that analyzes an argument from the author and one section (at least 500 words) that presents your own argument on the same topic.  I will not accept papers that fail to meet these length requirements.  Instead, your paper will simply rack up deductions for lateness until you turn in a paper of sufficient length.  See [these instructions](http://www.dansheffler.com/phi201analysispaper/) for specific steps to getting an A and the specific rubric I use while grading.
+The second and largest portion of your grade will come from a series of "defenses" that you will make in class throughout the semester.  For each class, one student will have chosen the day's reading to "defend."  Once every student has defended once we will pick the next round of readings and cycle through again.  This cycle will repeat until the end of the semester.  When it is your day to defend, you will need to come to class with a 500 word minimum interpretation of the day's reading.  In this interpretation, you will need to take a stand on what the author is saying and whether you agree with it or not and *argue* for this stand both with reference to the text and with reference to reality.  Further, every class, two students will be assigned as "questioners" for the day.  When it is your day to defend, these questioners will begin the class by asking you tough questions about how we should understand the reading and you will need to both present your view and defend that view against cross examination.  If other students or I have questions for you during this time we are also free to ask.  I will allow this process to run its course for approximately 30 minutes before we use the day's defense as a launch pad for a more free seminar-style discussion.   Defense days will be tough and this process is designed to force you to engage the text we are reading at an extremely deep level.  (When I went through a similar process as an undergraduate and graduate student, I came to understand texts more thoroughly than I ever had before.)  After each defense, you will receive a simple letter grade and some brief feedback from me.
+
+At end of the semester, you will submit a final research and argument paper (3000 words) on Moodle building upon one of the defenses that you have made in the semester that also incorporates research into the secondary literature on the text you have chosen.  You will need to provide a draft of this paper at the beginning of April and we will have a peer review and discussion of this draft.  (By the way, 3000 words is a typical length for a conference presentation, and if you are interested in going further in philosophy, I would be more than happy to work with you to craft this semester paper into a suitable conference submission and find a conference to submit it to.)
 
 **Grading Scale:**
 
@@ -148,5 +130,5 @@ If you are registered to receive accommodations for a disability, please discuss
 
 ## Schedule ##
 
-(See [separate document](http://dansheffler.com/phi201schedule/) for our projected schedule of topics and readings.)
+(See [separate document](http://dansheffler.com/phi435schedule/) for our projected schedule of topics and readings.)
 
