@@ -25,24 +25,24 @@ Day           Topic         Reading
 2018-02-01                  Hegel, *Phenomenology of Spirit*
 2018-02-06                  Schopenhauer, *World as Will...*
 2018-02-08                  Marx, *German Ideology*
-2018-02-13                  Nietzsche, *Geneology of Morals*
-2018-02-15                  Nietzsche, *Geneology of Morals*
+2018-02-13                  Nietzsche, *Thus Spoke Zarathustra*
+2018-02-15                  Nietzsche, *Thus Spoke Zarathustra*
 2018-02-20                  Nietzsche, *Thus Spoke Zarathustra*
 2018-02-22                  Kierkegaard, *Works of Love*
 2018-02-27                  Kierkegaard, *Works of Love*
-2018-03-01                  Kierkegaard, *Either/Or*
+2018-03-01                  Kierkegaard, *Sickness Unto Death*
 2018-03-06                  Emerson, "Nature"
 2018-03-08                  James, "Will to Believe"
 2018-03-13                  **Spring Break**
 2018-03-15                  **Spring Break**
-2018-03-20                  Martin Buber, *I and Thou*
-2018-03-22                  Gabriel Marcel, *Mystery and Being*
-2018-03-27                  Heidegger, *Being and Time*
-2018-03-29                  Levinas, *Nine Talmudic Stories*
-2018-04-03                  Russell, "What I Believe"
-2018-04-05                  Wittgenstein, *Philosophical Investigations*
-2018-04-10                  TBD
-2018-04-12                  TBD
+2018-03-20                  Gabriel Marcel, *Mystery and Being*
+2018-03-22                  
+2018-03-27                  Martin Buber, *I and Thou*
+2018-03-29                  Heidegger, *The Way Back...*
+2018-04-03                  Levinas, *Toward the Other*
+2018-04-05                  Russell, "What I Believe"
+2018-04-10                  Wittgenstein, *Philosophical Investigations*
+2018-04-12                  Quine, *Two Dogmas of Empriricism*
 2018-04-17                  TBD
 2018-04-19                  TBD
 2018-04-24                  TBD

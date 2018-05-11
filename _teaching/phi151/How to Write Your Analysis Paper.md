@@ -14,7 +14,7 @@ After each of our three units you will need to write an analysis paper connectin
    30 pages of the stuff the way you read a novel or a blog.  You
    will need to read most paragraphs at least twice before you
    understand them, usually more.  When I read philosophy, I
-   usually budget about one hour for every ten pages.  Make sure
+   usually budget about two hours for every ten pages.  Make sure
    that you take notes on the flow of the argument.  Identify
    specific truth claims in the text and which logical moves are
    being made to support them.  Diagramming the argument often

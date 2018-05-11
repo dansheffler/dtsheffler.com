@@ -13,7 +13,7 @@ permalink: /cv/
     Ancient Philosophy.
 
 **Competence**:
-    Medieval Philosophy, Philosophy of Religion, and Contemporary Metaphysics (especially metaphysics of free will and metaphysics of time).
+    Medieval Philosophy, Philosophy of Religion, and Contemporary Metaphysics (especially metaphysics of free will and metaphysics of time), Ethics, Political Philosophy.
 
 #### Education ####
 
@@ -33,11 +33,29 @@ B.A., Philosophy and Classics, University of Kentucky, 2010.
 "Worship Becomes Us," review of *Liturgy and Personality*, by Dietrich von Hildebrand, *Touchstone*, May/June 2017.  Available [here](http://www.touchstonemag.com/archives/article.php?id=30-03-055-b).
 
 
+#### Invited Talks ####
+
+"Platonic versus Christian Conceptions of the Self," Athens and Jerusalem Conference, Lawrenceburg KY, April 2018.
+
+"Overview of the Gospel of John," Jessamine Christian Fellowship, Wilmore KY, January 2018.  [Audio](http://jcfky.com/sermons/dan-sheffler-on-the-book-of-john/).
+
+"The Suffering of Job," Lexington Christian Fellowship, Lexington KY, December 2017.  [Audio](http://lcf.cfchurches.com/sermons/job/) and [Text](http://dansheffler.com/blog/2018-02-05-job-teaching/).
+
+"Gratitude," Mars Hill Christian Academcy Graduation Address,  Lexington KY, May 2017.  [Text](http://www.dansheffler.com/blog/2017-05-20-gratitude/).
+
+"Living Latin at the University of Kentucky,"  Immaculata Classical Academy, Louisville KY, November 2016.
+
+"The Book of James,"  St. Andrew's Anglican Church, Versailles KY, 8 week series September through November 2016.  [Audio](http://standrewsky.org/?page_id=3234).
+
+"CS Lewis and Imagination,"  Jessamine Christian Fellowship, Wilmore KY, May 2014.  [Video](https://www.youtube.com/watch?v=GsJtA9E7FcE).
+
+
+
 #### Presentations and Professional Activity ####
 
 Director of Christian Training School at Lexington Christian Fellowship (an eleven-week intensive summer program for college-age students) 2011, 2013, 2015, 2016, 2017.  Website [here](http://www.ucfky.com/cts/).
 
-Participant in the Hildebrand Project Summer Seminar, 2015--2017.
+Participant in the Hildebrand Project Summer Seminar, 2015--2017.  Section discussion coordinator for 2017 Summer Seminar.
 
 "Why Molinism Does Not Help with the Rollback Argument," Society of Christian Philosophers, Trinity College, March 2014.  Available [here](http://dansheffler.com/pdfs/Molinism-and-Rollback.pdf).
 
@@ -64,7 +82,11 @@ Research grant from University of Kentucky Eureka fund ($2,000), 2006.
 
 ###### Georgetown College ######
 
-Ancient and Medieval Philosophy, Spring 2016--Fall 2017.
+Ancient and Medieval Philosophy, Spring 2016--Fall 2018.
+
+Nineteenth and Twentieth Century Philosophy, Fall 2018.
+
+Ethics (on-line course), Spring 2018.
 
 Latin I and III, Fall 2017.
 
@@ -103,9 +125,9 @@ Medical Terminology (on-line course), Summer 2010.
 
 ###### Mars Hill Christian Academy ######
 
-Traditional Logic, 2008--2017.
+Traditional Logic, 2008--2018.
 
-Latin years 3 and 4, 2009--2017.
+Latin years 3 and 4, 2009--2018.
 
 
 

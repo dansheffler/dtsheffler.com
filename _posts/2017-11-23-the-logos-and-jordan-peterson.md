@@ -1,5 +1,5 @@
 ---
-title: The Logos and Jordan Peterson
+title: 'The Logos and Jordan Peterson'
 tags: [Philosophy]
 summary: 'Reflection on the difference between my own understanding of the λόγος and Jordan Peterson's.'
 sharing:

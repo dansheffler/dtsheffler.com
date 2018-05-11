@@ -4,7 +4,7 @@ permalink:  /phi201schedule/
 ---
 
 
-## PHI 201 Fall Schedule ##
+## PHI 201 Spring Schedule ##
 
 The following schedule is an estimation of the dates on which we will
 cover particular topics in this course. As such, it is subject to
