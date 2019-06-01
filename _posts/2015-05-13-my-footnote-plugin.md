@@ -22,6 +22,6 @@ footnote.
 
 Here it is in a Gist:
 
-{% gist dansheffler/46fd6d6c71d5d9d4fe6a %}
+{% gist 46fd6d6c71d5d9d4fe6a %}
 
 [^2X]: Thanks to Wolph's answer [here](http://stackoverflow.com/a/2549514).  (I just made this footnote using my new plugin!)

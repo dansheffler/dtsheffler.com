@@ -1,0 +1,16 @@
+o: ActiveSupport::Cache::Entry	:@valueI"–\usepackage[shortlabels]{enumitem}
+\setlist[description]{%
+    labelindent=0.5in,%
+    leftmargin=0.5in,%
+    rightmargin=0.5in,%
+    itemsep=12pt%
+}
+
+% Put a colon after description labels
+\renewcommand{\descriptionlabel}[1]{%
+  \hspace\labelsep \upshape\textbf{#1}:%
+}
+
+% Get rid of the explicit \itemsep declaration in Pandoc's
+% \tightlist command
+\providecommand{\tightlist}{\setlength{\parskip}{0pt}}:ET:@version0:@created_atf1547934137.893288:@expires_in0

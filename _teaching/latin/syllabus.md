@@ -1,26 +1,16 @@
 ---
-title:  MH Latin Syllabus
-author: Dan Sheffler
-date:   2015-09-10
-permalink: /latinsyllabus/
+title:      MH Latin Syllabus
+author:     Dan Sheffler - daniel_sheffler@georgetowncollege.edu
+date:       2018-07-30
+permalink:  /latinsyllabus/
 ---
-
-
-# MH Latin Syllabus #
-
-
-Instructor
-:   Dan Sheffler
-
-Contact
-:   dansheffler@uky.edu
 
 
 ## Course Summary ##
 
 In Latin 3 and 4 we will be reading out of *Wheelock's Latin Reader*.  This will be an opportunity to use all of the grammar skills you acquired in Latin 1 and 2 and finally apply them to real Latin texts.  We will also try to coordinate with the history and English classes as much as possible.
 
-I rotate the texts we read on a two year cycle so that the Latin 4 students will not be reading the texts from last year. Latin 3 focuses on acquiring the skills necessary to read primary texts in Latin and discuss them with intelligence. Latin 4 focuses on adding to this skill-set the capacity to compose sentences in Latin. Latin 3 and 4 students are therefore expected to keep up with the same reading passages every week, but the assignments for the two groups of students will differ.
+I rotate the texts we read on a two-year cycle so that the Latin 4 students will not be reading the texts from last year. Latin 3 focuses on acquiring the skills necessary to read primary texts in Latin and discuss them with intelligence. Latin 4 focuses on adding to this skill-set the capacity to compose sentences in Latin. Latin 3 and 4 students are therefore expected to keep up with the same reading passages every week, but the assignments for the two groups of students will differ.
 
 
 ## Course Requirements ##
@@ -37,7 +27,7 @@ Participation     20%
 ----------------- ----
 
 
-You will be expected to complete short homework assignments to be submitted on-line at [dansheffler.com/latin](http://www.dansheffler.com/latin). These will mostly consist of short, timed, multiple choice quizzes as a brief way to keep the students accountable to do the reading thoroughly. The expectation is that you will read the assigned passage for the week, parse all the grammar, and comprehend the basic meaning of what is being said. *After* you have thus prepared, you should log onto the course on my website and answer the handful of questions about the passage. An example question might be:
+You will be expected to complete short homework assignments to be submitted on-line at [canvas.instructure.com](https://canvas.instructure.com). These will mostly consist of short, timed, multiple choice quizzes as a brief way to keep you accountable to do the reading thoroughly. The expectation is that you will read the assigned passage for the week, parse all the grammar, and comprehend the basic meaning of what is being said. *After* you have thus prepared, you should log onto the course on my website and answer the handful of questions about the passage. An example question might be:
 
 > What case is *colono* in line 304?
 > 
@@ -46,11 +36,11 @@ You will be expected to complete short homework assignments to be submitted on-l
 > 3. Dative
 > 4. Ablative
 
-You will be expected to *already* know that (3) is the answer from studying the passage and will not have the time to go back and parse the grammar then and there. I may also ask comprehension questions like "What does Scaevola compare friendship to in the passage?" I recommend that you do the parsing and understanding stage with your classmates then take the quiz on your own.  You may reference the reading and the notes in the book while doing the quiz, but you may not use outside help (e.g. William Whittaker's Words).
+You will be expected to *already* know that (3) is the answer from studying the passage and will not have the time to go back and parse the grammar then and there. I may also ask comprehension questions like "To what does Scaevola compare friendship in the passage?" I recommend that you do the parsing and understanding stage with your classmates then take the quiz on your own.  You may reference the reading and the notes in the book while doing the quiz, but you may not use outside help.
 
 In addition, the first quarter homework will focus on review of grammar from Latin 1 and 2.
 
-Another 20% of the grade will come from in-class evaluation.  This grade will be based both on participation (freely volunteering answers) and on accuracy (having the right answers).  The expectation is that you will come to class not only having read the weekly assignment, but have also looked up unfamiliar words in the dictionary, investigated unfamiliar grammatical forms, and re-read the passage a few times drilling in the meaning. You may *not* bring written translations or glosses to class. You should have the passaged prepared well enough that you can read the Latin directly in class and answer questions about its content. I keep track of the quality of participation on my attendance cards on a class-by-class basis.
+Another 20% of the grade will come from in-class evaluation.  This grade will be based both on participation (freely volunteering answers) and on accuracy (having the right answers).  The expectation is that you will come to class not only having read the weekly assignment, but also having looked up unfamiliar words in the dictionary, investigated unfamiliar grammatical forms, and re-read the passage a few times drilling in the meaning. You may *not* bring written translations or glosses to class. You should have the passaged prepared well enough that you can read the Latin directly in class and answer questions about its content. I keep track of the quality of participation on my attendance cards on a class-by-class basis.
 
 The remaining 20% will come from quarterly take-home translation exams.  This will involve translating a brief passage of Latin that we have already read into English and answering a few grammatical questions about the text.
 
@@ -63,3 +53,8 @@ You will need to purchase, *Wheelock's Latin Reader* (second edition), ISBN 978-
 You will also need access to a good Latin dictionary.  My favorite is Lexidium for the iPhone or iPod touch (this is just a digital version of Lewis and Short's Latin Dictionary).  The Harper Collins dictionary edited by John Traupman is also good.  You may also use William Whittaker's Words online.
 
 You may also find a reference grammar helpful, but not necessary.  The standard is Allen and Greenough's.
+
+
+## Mars Hill Excellence ##
+
+In unison with all other classes at Mars Hill, students are to be clean, neat, and presentable, ready for class to start on time.  They should stand when the tutor enters the room, cease conversation, and wait expectantly to be addressed.  Once the tutor has begun the class with, "Good morning class" (Lat. "Salvete discipuli"), students are to respond with, "Good morning Dr. Sheffler" (Lat. "Salvus sis Doctor Sheffler").  (This little ritual is a matter of training respect, discipline, and clarity concerning the beginning of class time rather than merely being a cute game.)

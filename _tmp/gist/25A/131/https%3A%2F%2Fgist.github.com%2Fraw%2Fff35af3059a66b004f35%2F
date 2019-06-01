@@ -1,0 +1,43 @@
+o: ActiveSupport::Cache::Entry	:@valueI"Ùon open location skimmerURL
+	
+	set oldDelims to AppleScript's text item delimiters
+	set newDelims to {"sk://", "#"}
+	set AppleScript's text item delimiters to newDelims
+	
+	set bibKey to item 2 of the text items of skimmerURL
+	set pdfPage to item -1 of the text items of skimmerURL as integer
+	
+	set AppleScript's text item delimiters to oldDelims
+	
+	tell application "BibDesk"
+		repeat with currentPub in publications of front document
+			if cite key of currentPub is bibKey then
+				set pdfPath to the first item of linked file of currentPub
+			end if
+		end repeat
+	end tell
+	
+	tell application "Skim"
+		activate
+		open file pdfPath
+		go document 1 to page pdfPage of document 1
+	end tell
+	
+end open location
+
+on open filelist
+	repeat with i in filelist
+		set filecount to 1
+		set filename to POSIX path of i
+		set quotedname to quoted form of filename
+		
+		tell application "Skim"
+			activate
+			open file i
+		end tell
+	end repeat
+end open
+
+tell application "Skim"
+	activate
+end tell:ET:@version0:@created_atf1547934110.259274:@expires_in0

@@ -19,7 +19,7 @@ while the page *index* goes into the link URL.
 
  [Pandoc]: http://johnmacfarlane.net/pandoc/
 
-{% gist dansheffler/77d53e6a4b281bb2f534 %}
+{% gist 77d53e6a4b281bb2f534 %}
 
 By saving this script into `~/Library/Application\
 Support/Skim/Scripts` you can access it right from inside [Skim].
@@ -33,7 +33,7 @@ chose `^⎇C`.
 Sometimes, I just want the URL, though, without the rest.  For this
 I have another script based on the same concept:
 
-{% gist dansheffler/3f1f74ccc883186c0b75 %}
+{% gist 3f1f74ccc883186c0b75 %}
 
 I also put this in Skim's script folder and assigned it the
 shortcut `^⌘C`.  This way I can quickly grab either a complete

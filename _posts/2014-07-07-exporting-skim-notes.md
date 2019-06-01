@@ -19,7 +19,7 @@ iterating through all the pages of the PDF to get the note text,
 and third concatenating all the notes into a nicely formated
 markdown document with track-back links.
 
-{% gist dansheffler/a552f6ee1558079a2067 %}
+{% gist a552f6ee1558079a2067 %}
 
 As a bonus, the script used [PDFtk] to find bookmarks in the PDF
 (which are usually used for a table of contents) and uses these to
@@ -28,7 +28,7 @@ PDFtk, you could simply comment out this portion of the script.
 Finally, the script writes the output to a temp file and opens that
 file in [Marked].  The final output looks like this:
 
-{% gist dansheffler/03cbb182632b622b6610 %}
+{% gist 03cbb182632b622b6610 %}
 
 In Marked it ends up looking like this:
 

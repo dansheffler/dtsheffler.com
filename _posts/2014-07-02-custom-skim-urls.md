@@ -18,13 +18,13 @@ BibDesk and open that PDF in Skim to the right page index.
   [Skim]: http://skim-app.sourceforge.net
   [BibDesk]: http://bibdesk.sourceforge.net
 
-{% gist dansheffler/ff35af3059a66b004f35 %}
+{% gist ff35af3059a66b004f35 %}
 
 To get this to work I need to save this using Apple's Script Editor
 as an independent App called `Skimmer`. Then in the `info.plist`
 for this App, I put this:
 
-{% gist dansheffler/a82305c57695f91eafc0 %}
+{% gist a82305c57695f91eafc0 %}
 
 This makes OS X recognize that URLs starting with `sk://` are
 Skimmer URLs.
@@ -49,10 +49,4 @@ while the page with the label "4" has the index 20.  URLs to
 specific pages always use the index because these are unambiguous,
 but when people refer to the "page number" in a book, they usually
 mean the page *label*.
-
-I originally got the idea for this from  [drosophiliac](http://webc
-ache.googleusercontent.com/search?q=cache:GajblYFF3VQJ:drosophiliac
-.com/2012/09/creating-a-custom-url-scheme-via-applescript-and-
-python.html), which now appears to only be available through Google
-cache.
 

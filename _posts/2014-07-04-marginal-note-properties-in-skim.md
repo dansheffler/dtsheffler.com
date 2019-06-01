@@ -32,7 +32,7 @@ script.  This grabs the values I want from this note, sets them as
 Skim's defaults, and restarts Skim to the PDF and page where I left
 off.
 
-{% gist dansheffler/4f8e7ee2c91c5f6ddbe6 %}
+{% gist 4f8e7ee2c91c5f6ddbe6 %}
 
 Now every new note that I create will be uniform and fit nicely in
 the margin.  Remember that putting this in `~/Library/Application\

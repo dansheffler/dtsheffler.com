@@ -1,0 +1,11 @@
+o: ActiveSupport::Cache::Entry	:@valueI"î<key>CFBundleURLTypes</key>
+<array>
+    <dict>
+        <key>CFBundleURLName</key>
+        <string>Skimmer</string>
+        <key>CFBundleURLSchemes</key>
+        <array>
+            <string>sk</string>
+        </array>
+    </dict>
+</array>:ET:@version0:@created_atf1547934110.696001:@expires_in0

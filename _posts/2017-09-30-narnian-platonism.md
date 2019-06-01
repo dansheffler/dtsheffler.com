@@ -7,7 +7,7 @@ sharing:
   facebook: I just finished reading all the Narnia books to my kids and ran across this wonderful bit about Plato...
 ---
 
-![Me and the kids reading Narnia](http://www.dansheffler.com/images/NarniaAndKids.jpg)
+![](/images/NarniaAndKids.jpg)
 
 I just finished reading all the Narnia books to my kids and ran across this little bit from the professor Digory Kirk---my lifelong role model---towards the end of *The Last Battle*:
 

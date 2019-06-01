@@ -1,0 +1,33 @@
+o: ActiveSupport::Cache::Entry	:@valueI"U# Open BibDesk and clear any search or group selection
+tell application "BibDesk"
+	do shell script "open -a bibdesk"
+	set libGroups to the library groups of the front document
+	set group selection of front document to libGroups
+	set filter field of front document to ""
+end tell
+
+# Bring the main BibDesk window to the front
+set theTitle to "mybib.bib"
+tell application "System Events"
+	tell process "BibDesk"
+		set frontmost to true
+		perform action "AXRaise" of (windows whose title is theTitle)
+	end tell
+end tell
+
+# Put the cursor in the search box.
+tell application "System Events"
+	tell process "BibDesk"
+		tell menu bar 1
+			tell menu bar item "Edit"
+				tell menu "Edit"
+					tell menu item "Find"
+						tell menu "Find"
+							click menu item "Database Search"
+						end tell
+					end tell
+				end tell
+			end tell
+		end tell
+	end tell
+end tell:ET:@version0:@created_atf1547934119.023967:@expires_in0

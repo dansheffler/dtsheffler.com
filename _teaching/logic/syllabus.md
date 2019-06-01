@@ -1,20 +1,14 @@
 ---
-title: Syllabus
-author: Dan Sheffler
-date: 2014-09-01
-layout: noheader
+title:      MH Logic Syllabus
+author:     Dan Sheffler - daniel_sheffler@georgetowncollege.edu
+date:       2018-07-30
+permalink:  /logicsyllabus/
 ---
-
-Instructor
-:   Dan Sheffler
-Contact
-:   dansheffler@uky.edu\
-
 
 
 ## Course Summary ##
 
-Traditional logic is a course that is designed to train the student in the basic principles of rational thought.  The emphasis rests on the form of sensible intellectual discourse rather than its content.  This course begins with a technical mastery of the basic syllogism and moves through increasingly more complicated structures so that the student can apply logical structure with facility to any subject matter.
+Traditional logic is a course that is designed to train the student in the basic principles of rational thought.  The emphasis rests on the form of sensible intellectual discourse rather than its content.  This course begins with a technical mastery of the basic syllogism and moves through increasingly more complicated structures so that the student can apply logical inference with facility to any subject matter.
 
 
 ## Objectives ##
@@ -32,7 +26,7 @@ Traditional logic is a course that is designed to train the student in the basic
 
 The biggest portion of you grade (40%) will come from regular homework assignments to be turned in.  These may take the form of exercises from the book, a brief worksheet or a brief prose or outline writing assignment.
 
-The remaining 30% will come from quarterly final projects. In the first three quarters, this will take the form of take home exams. These exams are open book, open note, but may *not* be done with other students.  In the third quarter this will take the form of an argument paper which will be prepared in stages.  In the fourth quarter this will take the form of an oral defense.  This also will be prepared in stages, first through spontaneous disputation, then through group debates.
+The remaining 30% will come from quarterly final projects. In the first three quarters, this will take the form of take-home exams. These exams are open book, open note, but may *not* be done with other students.  In the fourth quarter, this will take the form of an oral defense.  This will be prepared in stages, first through spontaneous disputation, then through group debates.
 
 ------------------- ----
 Participation       30%
@@ -45,3 +39,7 @@ Final               30%
 
 The only books required for this course is Martin Cothran's *Traditional Logic Book I*  and *Traditional Logic Book II* available from Memoria Press.
 
+
+## Mars Hill Excellence ##
+
+In unison with all other classes at Mars Hill, students are to be clean, neat, and presentable, ready for class to start on time.  They should stand when the tutor enters the room, cease conversation, and wait expectantly to be addressed.  Once the tutor has begun the class with, "Good morning class," students are to respond with, "Good morning Dr. Sheffler."  (This little ritual is a matter of training respect, discipline, and clarity concerning the beginning of class time rather than merely being a cute game.)

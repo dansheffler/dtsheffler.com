@@ -9,20 +9,21 @@ paginate:       10
 paginate_path:  "/page:num"
 future:         false
 excerpt_separator: <!--more-->
+plugins:        [jekyll-paginate, jekyll-pandoc, jekyll-gist]
 
 # lunr_search:
 #   excludes: [sitemap.xml,index.html,search,archive,papers,share,teaching]
 
 # Build settings
-markdown:       pandoc
+markdown:       Pandoc
 pandoc:
     extensions:
-        - smart
-        - bibliography="C:\\Users\\Dan\\Dropbox\\Jabref\\mybib.bib"
-        - csl="C:\\Users\\Dan\\Dropbox\\Pandoc\\default.csl"
+        - from: markdown+smart
+        - bibliography: $BIBLIO
+        - csl: $CSL
         - mathjax
 markdown_ext:   markdown,mkdown,mkdn,mkd,md
-permalink:      /blog/:year-:month-:day-:title
+permalink:      /blog/:year-:month-:day-:title/
 encoding:       utf-8
 
 collections:

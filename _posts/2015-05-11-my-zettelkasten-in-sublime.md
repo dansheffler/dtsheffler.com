@@ -34,7 +34,7 @@ note with a more specific title like `Frankfurt-Style
 Counterexamples.md`.  Here is a sample of what the contents of a
 note look like:
 
-{% gist dansheffler/94e4838fc0176ff11c19 %}
+{% gist 94e4838fc0176ff11c19 %}
 
 You will notice that I have surrounded some text in double brackets
 like this: `[[Free Will Thesis]]`.  These are standard wiki-style

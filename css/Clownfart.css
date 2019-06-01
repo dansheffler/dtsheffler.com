@@ -167,7 +167,7 @@ header.site-header .wrap {
 .site-nav .trigger a{ color: #333; }
 .site-nav .trigger a:hover{ color: red; }
 .site-title:hover{ color: crimson; }
-.post-date {margin-top: -1.7em; font-size: 0.9em; color: #999;}
+.post-date {margin-top: -1.3em; font-size: 0.9em; color: #999;}
 div.post{ margin-bottom: 5em; }
 
 
@@ -243,19 +243,25 @@ h4 a:hover { color: crimson; }
 
 
 h1,h2,h3,h4,h5,h6{
-font-weight:normal;
+font-weight: normal;
 color:#111;
 line-height:1em;
+margin-top: 2em;
 }
-h4,h5,h6{ font-weight: bold; }
 h1{ font-size:2.1em; }
 h2{ font-size:1.9em; }
-h3{ font-size:1.5em; }
-h4{
-  font-size:1.2em;
-  padding-top: 3.5em;
+h2{ font-size:1.3em; }
+h5{
+    font-size: 1em;
+    display: inline;
+    font-weight: bold;
+    clear: left;
+    float: left;
+    line-height: 1.5em;
+    -webkit-margin-before: 0;
+    -webkit-margin-after: 0;
+    margin-right: 1em;
 }
-h5{ font-size:1em; }
 h6{
   font-size:1em;
   margin-top: 2em;
@@ -263,6 +269,7 @@ h6{
 }
 
 h4.paper { margin-bottom: 0; }
+h4 { display: none; }
 
 div.tagline { font-size: 0.9em }
 div.tagline p { margin-top: 0.2em }

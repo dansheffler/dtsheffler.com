@@ -1,0 +1,14 @@
+o: ActiveSupport::Cache::Entry	:@valueI"Ximport sublime, sublime_plugin, time
+
+class MyJekyllCommand(sublime_plugin.TextCommand):
+    def run(self, edit):
+        self.view.window().show_input_panel("Name of New Post", "", self.create_post, None, None)
+
+    def create_post(self, theTitle):
+        date = time.strftime("%Y-%m-%d-")
+        safeTitle = date + theTitle.lower().replace(" ","-")
+        path = "/Users/dansheffler/Dropbox/dansheffler/_posts/" + safeTitle + ".md"
+        newFile = open(path, "w")
+        newFile.write("---\nTitle: " + theTitle + "\n---\n\n")
+        newFile.close()
+        self.view.window().open_file(path):ET:@version0:@created_atf1547934131.433346:@expires_in0

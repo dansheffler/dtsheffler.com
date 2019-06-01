@@ -1,5 +1,5 @@
 ---
-title:      PHI 201 Spring 2018 Schedule
+title:      PHI 201 Spring 2019 Schedule
 permalink:  /phi201schedule/
 ---
 
@@ -8,48 +8,47 @@ permalink:  /phi201schedule/
 
 The following schedule is an estimation of the dates on which we will
 cover particular topics in this course. As such, it is subject to
-change. Readings marked (M) are available as PDFs on Moodle.  For the full syllabus, see [here](http://dansheffler.com/phi201syllabus/).
+change.
 
 For each reading a reading quiz must be completed on
 Moodle *by the day listed*.
 
-Course meets TR 9:30--10:45 AM in Chapel, 006
+Course meets TR 9:30--10:45 AM in Chapel 001
 
 Day           Topic         Reading
 ------------- ------------- -------------------------------------
-2018-01-16    Intro         
-2018-01-18                  *Republic* 514a--516c
-2018-01-23                  *Republic* 516c--520a8
-2018-01-25    Presocratics  Thales, Anaximander, and Anaximenes
-2018-01-30                  The Pythagoreans
-2018-02-01                  Parmenides and Zeno
-2018-02-06                  Leucippus and Democritus
-2018-02-08    Plato         *Phaedo* 57a--72c
-2018-02-13                  *Phaedo* 72c--86e
-2018-02-15                  *Phaedo* 86e--102a
-2018-02-20                  *Phaedo* 102a--118a
-2018-02-22                  *Timaeus* 27e--45b
-2018-02-27                  *Timaeus* 45b--58c
-2018-03-01    Aristotle     *Categories* (1a--4b)
-2018-03-06                  *Metaphysics* XII (1071b--1075a)
-2018-03-08                  *Nichomachean Ethics* Book I (1094a–1103a)\
-                            **Midterm Paper Due**
-2018-03-13                  **Spring Break**
-2018-03-15                  **Spring Break**
-2018-03-20    Augustine     *Confessions* I
-2018-03-22                  *Confessions* III
-2018-03-27                  *Confessions* VII
-2018-03-29                  *Confessions* VIII
-2018-04-03    Boethius      *Consolation of Philosophy* Book I
-2018-04-05                  *Consolation of Philosophy* Book II
-2018-04-10                  *Consolation of Philosophy* Book III
-2018-04-12                  *Consolation of Philosophy* Book IV
-2018-04-17                  *Consolation of Philosophy* Book V
-2018-04-19    Anselm        *Monologion* (5--31)
-2018-04-24                  *Monologion* (32--56)
-2018-04-26                  *Monologion* (57--81)
-2018-05-01    Aquinas       *Summa Theologica* QQ 2--4 (M)
-Exam Date                   **Final Paper Due**
+2019-01-15    Intro         
+2019-01-17                  *Republic* 514a--516c
+2019-01-22                  *Republic* 516c--520a8
+2019-01-24    Presocratics  Thales, Anaximander, and Anaximenes
+2019-01-29                  The Pythagoreans
+2019-01-31                  Parmenides and Zeno
+2019-02-05                  Leucippus and Democritus
+2019-02-07    Plato         *Phaedo* 57a--72c
+2019-02-12                  *Phaedo* 72c--86e
+2019-02-14                  *Phaedo* 86e--102a
+2019-02-19                  *Phaedo* 102a--118a
+2019-02-21                  *Timaeus* 27e--45b
+2019-02-26                  *Timaeus* 45b--58c
+2019-02-28    Aristotle     *Metaphysics* XII (1071b--1075a)
+2019-03-05                  *Nichomachean Ethics* Book I (1094a–1103a)
+2019-03-07                  **Midterm Paper Due**
+2019-03-12                  **Spring Break**
+2019-03-14    Augustine     **Spring Break**     
+2019-03-19                  *Confessions* I
+2019-03-26                  *Confessions* III
+2019-03-28                  *Confessions* VII
+2019-04-02    Boethius      *Confessions* VIII
+2019-04-04                  *Consolation of Philosophy* Book I
+2019-04-09                  *Consolation of Philosophy* Book II
+2019-04-11                  *Consolation of Philosophy* Book III
+2019-04-16                  *Consolation of Philosophy* Book IV
+2019-04-18    Anselm        *Consolation of Philosophy* Book V
+2019-04-23                  *Monologion* (5--31)
+2019-04-25                  *Monologion* (32--56)
+2019-04-30                  *Monologion* (57--81), **Final Paper Due**
+
+2019-05-07                   **Final Exam**
 
 
 *Symposium* for extra credit before midterm

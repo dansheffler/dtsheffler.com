@@ -17,11 +17,11 @@ output [here](http://dansheffler.com/pdfs/Molinism-and-Rollback.pdf), and the HT
 
 To get the PDF output to style nicely, I added this to the header of the LaTeX template that I use for Pandoc:
 
-{% gist dansheffler/d32dbbaede6150b087e1 %}
+{% gist d32dbbaede6150b087e1 %}
 
 To get the HTML output for this site to style nicely, I used this CSS:
 
-{% gist dansheffler/c5714b4a1e9d3dc7b35e %}
+{% gist c5714b4a1e9d3dc7b35e %}
 
 Hope this helps!
 

@@ -1,21 +1,18 @@
 ---
-title: CV
+title: Dan Sheffler -- CV
 permalink: /cv/
 ---
 
-### Dan Sheffler - CV ###
 
-
-
-#### Specialization and Competence ####
+## Specialization and Competence ###
 
 **Specialization**:
     Ancient Philosophy.
 
 **Competence**:
-    Medieval Philosophy, Philosophy of Religion, and Contemporary Metaphysics (especially metaphysics of free will and metaphysics of time), Ethics, Political Philosophy.
+    Medieval Philosophy, Philosophy of Religion, History of Ideas, Contemporary Metaphysics (especially metaphysics of free will and metaphysics of time), Ethics, and Political Philosophy.
 
-#### Education ####
+## Education ###
 
 PhD, Philosophy, University of Kentucky, 2017.
 
@@ -26,14 +23,16 @@ M.A., Classics, University of Kentucky, 2010.
 B.A., Philosophy and Classics, University of Kentucky, 2010.
 
 
-#### Publications ####
+## Publications ###
 
 "The Metaphysics of Personhood in Plato's Dialogues" (doctoral dissertation, University of Kentucky, 2017), doi: 10.13023/ETD.2017.142.  Available [here](http://uknowledge.uky.edu/philosophy_etds/16/).
 
 "Worship Becomes Us," review of *Liturgy and Personality*, by Dietrich von Hildebrand, *Touchstone*, May/June 2017.  Available [here](http://www.touchstonemag.com/archives/article.php?id=30-03-055-b).
 
+"Bite-Sized Philosophy," review of *The Art of Living*, by Dietrich von Hildebrand, *Touchstone*, June/July 2018. Available [here](https://www.touchstonemag.com/archives/article.php?id=31-04-046-b).
 
-#### Invited Talks ####
+
+## Invited Talks ###
 
 "Platonic versus Christian Conceptions of the Self," Athens and Jerusalem Conference, Lawrenceburg KY, April 2018.
 
@@ -51,7 +50,9 @@ B.A., Philosophy and Classics, University of Kentucky, 2010.
 
 
 
-#### Presentations and Professional Activity ####
+## Presentations and Professional Activity ###
+
+"Is the True Self God at Alcibiades 133c?," *Alcibiades* Symposium, Cambridge, September 2018.  Program [here](http://rationalselfgovernment.se/alcibiades/).
 
 Director of Christian Training School at Lexington Christian Fellowship (an eleven-week intensive summer program for college-age students) 2011, 2013, 2015, 2016, 2017.  Website [here](http://www.ucfky.com/cts/).
 
@@ -64,7 +65,7 @@ Participant in the Hildebrand Project Summer Seminar, 2015--2017.  Section discu
 "A Complex Eternity," Society of Christian Philosophers, Georgetown University, April 2013.  Available [here](http://dansheffler.com/pdfs/A-Complex-Eternity.pdf).
 
 
-#### Awards ####
+## Awards ###
 
 Outstanding Teaching Award in University of Kentucky philosophy department, April 2016.
 
@@ -78,13 +79,15 @@ Research grant from University of Kentucky Eureka fund ($2,000), 2006.
 
 
 
-#### Teaching ####
+## Teaching ###
 
-###### Georgetown College ######
+### Georgetown College ######
 
-Ancient and Medieval Philosophy, Spring 2016--Fall 2018.
+Ancient and Medieval Philosophy, Spring 2016--Spring 2019.
 
-Nineteenth and Twentieth Century Philosophy, Fall 2018.
+Logic, Fall 2018.
+
+Nineteenth and Twentieth Century Philosophy, Spring 2018.
 
 Ethics (on-line course), Spring 2018.
 
@@ -95,7 +98,7 @@ Business Ethics, Spring 2017.
 Ethics, Fall 2016.
 
 
-###### Asbury University ######
+### Asbury University ######
 
 Introduction to Philosophy (on-line course), Fall 2015.
 
@@ -108,7 +111,7 @@ Social and Political Philosophy, Fall 2012, Fall 2014.
 Introduction to Philosophy, Fall 2013--Fall 2014.
 
 
-###### University of Kentucky ######
+### University of Kentucky ######
 
 Introduction to Philosophy, Fall 2013--Spring 2017.
 
@@ -123,15 +126,24 @@ Latin 1 and 2, Fall 2009--Spring 2010.
 Medical Terminology (on-line course), Summer 2010.
 
 
-###### Mars Hill Christian Academy ######
+### Immaculata Classical Academy ######
 
-Traditional Logic, 2008--2018.
+Writing and Composition, 2018--2019.
 
-Latin years 3 and 4, 2009--2018.
+Latin 4, 2018--2019.
+
+19th and 20th Century History, 2018--2019.
+
+
+### Mars Hill Christian Academy ######
+
+Traditional Logic, 2008--2019.
+
+Latin years 3 and 4, 2009--2019.
 
 
 
-#### Language ####
+## Language ###
 
 Advanced ability in Greek with extensive reading experience in Homeric, Attic, Ionic, Hellenistic, Koine, Late Antique, and Patristic authors.
 

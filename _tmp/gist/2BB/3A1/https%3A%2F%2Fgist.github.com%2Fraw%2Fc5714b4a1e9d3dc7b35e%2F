@@ -1,0 +1,27 @@
+o: ActiveSupport::Cache::Entry	:@valueI"dl {
+  padding: 0;
+  margin: 1.5em 0;
+}
+
+dt {
+  float: left;
+  clear: left;
+  font-weight: bold;
+  margin-right: 1em;
+}
+
+dt::after {
+  content: ": ";
+}
+
+dd {
+  margin: 0 0 1.5em 0;
+  padding: 0;
+}
+
+dd p {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  clear: right;
+}:ET:@version0:@created_atf1547934138.3051782:@expires_in0

@@ -1,19 +1,18 @@
 ---
-title:      PHI 201 2018 Spring Syllabus
+title:      PHI 201 Spring 2019 Syllabus
 permalink:  /phi201syllabus/
 ---
 
-## PHI 201 Syllabus - History of Philosophy I ##
 
 
 ----------------------- -----------------------------------------------
-Location                Chapel, 006
+Location                Chapel 001
 Instructor              Dan Sheffler
 Email                   daniel_sheffler@georgetowncollege.edu
-Web                     <https://sage.georgetowncollege.edu/course/view.php?id=3720>
+Web                     <https://sage.georgetowncollege.edu/course/view.php?id=4053>
 Schedule                <http://dansheffler.com/phi201schedule/>
 Presentations           <http://dansheffler.com/phi201presentations/>
-Semester                Spring 2018
+Semester                Spring 2019
 Credit Hours            3
 ----------------------- -----------------------------------------------
 
@@ -60,8 +59,8 @@ and modern thinkers.  I also hope that as you explore how great men of the past 
 -----------------------------------------------------------------------
 Learning Outcome                        Assessment
 --------------------------------------- -------------------------------
-To gain an understanding of the primary Reading Quizzes
-questions, terminology, and theories in
+To gain an understanding of the primary Reading and Lecture Quizzes
+questions, terminology, and theories in Final
 ancient and medieval philosophy
 
 To learn to carefully read              Reading Quizzes
@@ -77,14 +76,20 @@ clear, concise prose.
 ## Grading ##
 
 ----------------- ----
-Reading Quizzes   40% 
-Midterm Paper     30% 
-Final Paper       30% 
+Reading Quizzes   20%
+Lecture Quizzes   20% 
+Midterm Paper     20% 
+Final Paper       20%
+Final Exam        20%
 ----------------- ----
 
 The first portion of your grade will come from regular (short) reading quizzes. These will be completed on Moodle and will typically consist of five multiple-choice questions on the reading for the day. These quizzes are due before class on the day when the corresponding reading assignment is due. There is a time limit on these quizzes and they can only be taken once, so it is advisable that you complete them just as soon as you complete your reading. You will not have enough time to search the reading for the answers if you have not read it, but you may keep the reading assignment open to aid in the completion of the quiz. You will quickly find that you really must do the reading and do it quite carefully to do well on these quizzes.
 
+The next portion of your grade will come from open-note lecture quizzes that I sometimes give at the end of class to test how well you are taking notes in our discussions.
+
 At the middle and end of the semester, you will submit a short (1000--1500 words) paper on Moodle analyzing and reflecting upon one of the authors we have discussed in class.  This paper will consist of one section (at least 500 words) that analyzes an argument from the author and one section (at least 500 words) that presents your own argument on the same topic.  I will not accept papers that fail to meet these length requirements.  Instead, your paper will simply rack up deductions for lateness until you turn in a paper of sufficient length.  See [these instructions](http://www.dansheffler.com/phi201analysispaper/) for specific steps to getting an A and the specific rubric I use while grading.
+
+At the end of the semester we will have a final exam that will test your factual knowledge of the names, time periods, and terms that we have learned throughout the semester.
 
 **Grading Scale:**
 
@@ -145,8 +150,4 @@ Cheating robs other students of a fair grade. If it is determined that a student
 
 If you are registered to receive accommodations for a disability, please discuss them with me during the first week of class.  You will need official documentation from Lloyd Clark in the Wellness Center (x7074).
 
-
-## Schedule ##
-
-(See [separate document](http://dansheffler.com/phi201schedule/) for our projected schedule of topics and readings.)
 

@@ -15,7 +15,7 @@ clears all search limitations, and (iii) puts the cursor in the
 search field:
 
 
-{% gist dansheffler/d7d862546cff0c95918e %}
+{% gist d7d862546cff0c95918e %}
 
 Notice that you will need to change `mybib.bib` after `theTitle` to
 the name of your `.bib` file.
