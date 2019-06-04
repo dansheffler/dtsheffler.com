@@ -6,10 +6,16 @@ permalink: /papers/
 {% for paper in site.papers %}
 <h3 class="paper"><a class="post-link" href="{{ paper.url | prepend: site.baseurl }}">{{ paper.title }}</a></h3>
 <div class="tagline">{{ paper.tagline | markdownify }}</div>
-    Paper version: 
-    <a class="pdf-link" href="{{ paper.name | prepend: '/pdfs/' | remove: '.md' | append: '.pdf' }}"> pdf
+<div class="source">
+	Source: 
+	<a class="source-link" href="{{ paper.path | remove: 'C:/Users/Dan/Dropbox/dansheffler/' | prepend: 'https://raw.githubusercontent.com/dansheffler/dansheffler.com/master/' }}">
+	    md
+	</a>
+	{% if paper.pdf %}
+    | Paper version: 
+    <a class="pdf-link" href="{{ paper.pdf }}"> pdf
     </a>
-    | Permalink: 
+    | {% endif %}Permalink: 
     <a class="permalink" href="{{ paper.url | prepend: site.baseurl }}">
         html
     </a>

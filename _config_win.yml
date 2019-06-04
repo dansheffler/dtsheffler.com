@@ -1,0 +1,8 @@
+# Build settings
+markdown:       Pandoc
+pandoc:
+    extensions:
+        - from: markdown+smart
+        - bibliography: C:\Users\dansh\Dropbox\Jabref\mybib.bib
+        - csl: C:\Users\dansh\Dropbox\Pandoc\default.csl
+        - mathjax

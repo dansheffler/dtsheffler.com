@@ -5,11 +5,9 @@ email:          ""
 description:    "The personal website of Dan Sheffler"
 baseurl:        ""
 url:            "http://www.dansheffler.com"
-paginate:       10
-paginate_path:  "/page:num"
 future:         false
 excerpt_separator: <!--more-->
-plugins:        [jekyll-paginate, jekyll-pandoc, jekyll-gist]
+plugins:        [jekyll-pandoc, jekyll-gist]
 
 # lunr_search:
 #   excludes: [sitemap.xml,index.html,search,archive,papers,share,teaching]
@@ -25,6 +23,8 @@ pandoc:
 markdown_ext:   markdown,mkdown,mkdn,mkd,md
 permalink:      /blog/:year-:month-:day-:title/
 encoding:       utf-8
+
+incremental: true
 
 collections:
   papers:

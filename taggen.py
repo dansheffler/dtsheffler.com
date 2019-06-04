@@ -18,7 +18,7 @@ filenames = glob.glob(post_dir + '*md')
 
 total_tags = []
 for filename in filenames:
-    f = open(filename, 'r')
+    f = open(filename, 'r', encoding="utf8")
     crawl = False
     for line in f:
         if crawl:
@@ -49,8 +49,8 @@ if not os.path.exists(tag_dir):
 for tag in total_tags:
     tag = tag.strip("[]")
     tag_filename = tag_dir + tag + '.md'
-    f = open(tag_filename, 'a')
-    write_str = '---\nlayout: tag_index\ntitle: \"Tag: ' + tag + '\"\ntag: ' + tag + '\n---\n'
+    f = open(tag_filename, 'a', encoding="utf8")
+    write_str = '---\nlayout: tag_index\nregenerate: true\ntitle: \"Tag: ' + tag + '\"\ntag: ' + tag + '\n---\n'
     f.write(write_str)
     f.close()
 print("Tags generated, count", total_tags.__len__())
