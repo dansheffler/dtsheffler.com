@@ -6,6 +6,11 @@
     {% include header.html %}
 
     <div class="post">
+        {% if page.banner %}
+        <div class="banner">
+          <img class="bannerimg" src="{{ site.baseurl }}/banners/{{ page.banner }}">
+        </div>
+        {% endif %}
         <header class="post-header">
             <h2>{{ page.title }}</h2>
         </header>

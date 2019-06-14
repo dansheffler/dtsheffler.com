@@ -2,12 +2,8 @@
 title: 'The Logos and Jordan Peterson'
 tags: [Philosophy]
 summary: 'Reflection on the difference between my own understanding of the logos and Jordan Petersons.'
-sharing:
-  twitter: 'Reflection on the difference between my own understanding of the logos and Jordan Petersons.'
-  facebook: 'I have been listening to a bunch of Jordan Petersons podcasts recently and asking myself, How is it possible that I can encounter in this man such profound insights that harmonize with everything I know about reality while at the same time I encounter profound disagreements that reflect a chasm between my worldview and his?  For one thing, he is not an ideologue.  His intellectual honesty leads him to reflect deeply upon the actual data of human experience and this cannot but lead to genuine insight.  At another level, however, I think that both the contact and the gap between his understanding of the world and my own comes from a difference in the way we understand the idea of logos.'
+banner: jordanpeterson.jpg
 ---
-
-![Jordan Peterson](http://dansheffler.com/images/jordanpeterson.jpg)
 
 I have been listening to a bunch of Jordan Peterson's podcasts recently and asking myself, "How is it possible that I can encounter in this man such profound insights that harmonize with everything I know about reality while at the same time I encounter profound disagreements that reflect a chasm between my worldview and his?"  For one thing, he is not an ideologue.  His intellectual honesty leads him to reflect deeply upon the actual data of human experience and this cannot but lead to genuine insight.  At another level, however, I think that both the contact and the gap between his understanding of the world and my own comes from a difference in the way we understand the idea of λόγος.
 

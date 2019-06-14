@@ -9,9 +9,20 @@
     {% elsif post.excerpt %}
         <meta name="description" content="{{ post.excerpt | strip_html | strip | strip_newlines | truncate: 155 }}">
     {% else %}
-        <meta name="description" content="{{ site.description }}">
+        <meta name="description" content="{% if page.summary %}{{ page.summary }}{% else %}{{ site.description }}{% endif %}">
     {% endif %}
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+
+    {% if page.banner %}
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image:src" content="{{ site.baseurl }}/banners/{{ page.banner }}">
+    {% else %}
+    <meta name="twitter:card" content="summary">
+    {% endif %}
+    <meta name="twitter:site" content="@DanSheffler">
+    <meta name="twitter:creator" content="@DanSheffler">
+    <meta name="twitter:title" content="{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}">
+    <meta name="twitter:description" content="{% if page.summary %}{{ page.summary }}{% else %}{{ site.description }}{% endif %}">
 
     <!-- Mathjax -->
     <script type="text/javascript" src="http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>

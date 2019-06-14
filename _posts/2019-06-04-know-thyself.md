@@ -2,9 +2,8 @@
 title: Know Thyself
 tags: [Philosophy, Theology]
 summary: The Christian notion of self-knowledge is a long way off from New Age self-realization and not quite the same as the pagan Greek original either.
+banner: dureranthony.jpg
 ---
-
-![](/images/dureranthony.jpg)
 
 When people today speak of self-knowledge, I suspect they have in mind something from the cult of self-*realization*.  It would seem that coming to know oneself involves some kind of inner spiritual journey, a process of awakening which ideally leads to being comfortable in one's own skin.  I further suspect, however, that the effort to become comfortable with oneself really boils down to an effort to become comfortable with one's misconduct, and our conscience makes this a sticky business---hence the journey.
 

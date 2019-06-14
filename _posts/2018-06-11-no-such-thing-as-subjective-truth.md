@@ -2,13 +2,8 @@
 title: No Such Thing As Subjective Truth
 tags: [Philosophy]
 summary: Just some casual reflections that I had after a friendly discussion resulted in my arguing that "subjective truth" was an oxymoron.
-sharing:
-  twitter: Just some casual reflections that I had after a friendly discussion resulted in my arguing that "subjective truth" was an oxymoron.
-  facebook: Just some casual reflections that I had after a friendly discussion resulted in my arguing that "subjective truth" was an oxymoron.
+banner: unicorn.jpg
 ---
-
-
-![](/images/unicorn.jpg)
 
 The phrase "subjective truth" is an oxymoron.  If something is a truth, then it is simply true and we can leave out the word "subjective."  If we have a string of words that do not express a truth (e.g. "Oh yum!"), then we may want to use the word "subjective" but we can leave out the word "truth."  Consider ordinary cases where someone might say that a truth is "subjective":
 

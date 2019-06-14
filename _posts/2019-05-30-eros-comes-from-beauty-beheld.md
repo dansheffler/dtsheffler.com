@@ -2,9 +2,8 @@
 title: Eros Comes from Beauty Beheld
 tags: [Theology, Philosophy, Imagination]
 summary: I often encounter Christians who feel guilty because they seem to lack a certain fire or zeal in their pursuit of what they know to be true.  I argue they can remedy this by recognizing a link between the psychology of eros and the time they spend imaginatively beholding the beauty of God.
+banner: twoangels.jpg
 ---
-
-![](http://dansheffler.com/images/twoangels.jpg)
 
 I often encounter Christians who feel guilty because they seem to lack a certain fire or zeal in their pursuit of what they know to be true.  Many sermons can be preached on why you must continue to do your duty even when the feelings fade, and certainly we must obey Christ because he is our Lord and not because we feel especially fuzzy today about loving our enemies.  Nevertheless, we are commanded also to have zeal and we see in the saints throughout history an admirable shining heart of love.  Here I do not mean love in the ordinary Christian sense, since Christians are right to point out quickly that love in the New Testament is not a feeling, and what I want to talk about *is* a feeling.  The shining heart we see in the saints comes from a yearning, longing, delighting gaze upon God, and we can best describe it with the Greek word ἔρως, which is usually translated simply as "desire."
 

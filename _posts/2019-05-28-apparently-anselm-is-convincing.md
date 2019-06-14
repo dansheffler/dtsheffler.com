@@ -2,9 +2,8 @@
 title: Apparently Anselm is Convincing
 tags: [Philosophy, Teaching, Cultural Commentary]
 summary: Teaching Anselm recently, I discovered that many of my students found the ontological argument very convincing.  I think this has to do with the way older authors are presented.
+banner: anselm.jpg
 ---
-
-![](/images/anselm.jpg)
 
 I've often heard that even if the ontological argument is sound it is not rhetorically convincing because it comes off as just a word game.  I think this depends heavily, however, on how the argument is presented.  If the professor stands up and tells the students that people find the argument unconvincing for a full ten minutes before dismissively presenting the argument in two, then the students are likely to find it unconvincing.  The triumphalism of much modernist philosophy works like this:  they go on and on about the historical defeat of moral realism or belief in the soul, presenting the historical arguments for these beliefs in a superficial way, then they use students' responses as implicit evidence that these positions really have been defeated and that only ignorant rubes think that way any more.  I suppose this often happens because the professors themselves have only a cursory knowledge of the authors they take themselves to be refuting---perhaps because they were taught in the same way a generation ago.  They conveniently ignore the fact that the overwhelming majority of people on Planet Earth today still believe in God, morality, and the soul, just not in the little enclaves these philosophers create for themselves.
 

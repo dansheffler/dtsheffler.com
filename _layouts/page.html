@@ -2,6 +2,11 @@
 layout: default
 ---
 <div class="page">
+  {% if page.banner %}
+  <div class="banner">
+    <img class="bannerimg" src="{{ site.baseurl }}/banners/{{ page.banner }}">
+  </div>
+  {% endif %}
   <article class="post-content">
   {{ content }}
   </article>

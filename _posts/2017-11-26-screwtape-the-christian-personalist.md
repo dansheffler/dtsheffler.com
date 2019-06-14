@@ -2,13 +2,8 @@
 title: Screwtape the Christian Personalist
 tags: [CS Lewis, Quote, Personalism]
 summary: Uncle Screwtape reveals a deeply personalistic understanding of good and evil.
-sharing:
-  twitter: Uncle Screwtape reveals a deeply personalistic understanding of good and evil.
-  facebook: In our discussion group last week, we spent some time over this remarkable passage in which Uncle Screwtape reveals a deeply personalistic understanding of good and evil.  Let me explain...
+banner: Paris_Gargoyle.jpg
 ---
-
-
-![Screwtape](http://dansheffler.com/images/Paris_Gargoyle.jpg)
 
 During one of our discussion groups over the *Screwtape Letters*, I was arrested by a passage where Uncle Screwtape appears to be quite the Christian personalist:
 

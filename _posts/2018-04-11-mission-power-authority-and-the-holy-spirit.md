@@ -2,12 +2,8 @@
 title: Mission, Power, Authority, and the Holy Spirit
 tags: [Talk, Church]
 summary: Here is the text of the sermon I preached at LCF and JCF this weekend on four themes in the book of Acts.
-sharing:
-  twitter: Here is the text of the sermon I preached at LCF and JCF this weekend on four themes in the book of Acts.
-  facebook: Here is the text of the sermon I preached at LCF and JCF this weekend on four themes in the book of Acts.
+banner: pentecostTitian.jpg
 ---
-
-![Pentecost Titian](/images/pentecostTitian.jpg)
 
 This weekend I preached a sermon introducing the book of Acts at Lexington Christian Fellowship and Jessamine Christian Fellowship.  I focused on four themes that all have to do with the extension of Jesus's redemptive mission through his disciples.  See below for the text I used (you can find the audio [here](http://lcf.cfchurches.com/sermons/the-book-of-acts/)).<!--more-->
 

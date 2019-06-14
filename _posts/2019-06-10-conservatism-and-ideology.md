@@ -2,9 +2,10 @@
 title: Conservatism and Ideology
 tags: [Conservatism, Philosophy, Politics, Cultural Commentary]
 summary: Ideologies are overly simplistic views of the world, which support themselves through slogans.  While slogans may be practically indispensable in a democracy, conservatism is something more.
+banner: entrancetolearning.jpg
 ---
 
-![](/images/entrancetolearning.jpg)
+
 
 Describing the political landscape in terms of "left" and "right" certainly has its conveniences and perhaps even some real advantages, but it also encourages us to think of these views as symmetrical and spread out along just one dimension.  People sometimes try to overcome this by creating a familiar four-quadrant diagram with two dimensions.  This doesn't help much, however, because it merely expands the the discussion from one dimension to two, and this relies on simplistic answers given to a few questions.  Even if we expand this further to a more sophisticated statistical model and a larger survey, we are still approaching political affiliation as essentially a propositional affair.
 

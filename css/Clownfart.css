@@ -140,7 +140,7 @@ header.site-header {
   background: #fdfdfd;
   z-index: 10;
   height: 2em;
-  border-bottom: 2px solid red;
+  border-bottom: 2px solid #d81111;
   width: 100%;
 }
 
@@ -165,8 +165,15 @@ header.site-header .wrap {
 }
 
 .site-nav .trigger a{ color: #333; }
-.site-nav .trigger a:hover{ color: red; }
+.site-nav .trigger a:hover{ color: #d81111; }
 .site-title:hover{ color: crimson; }
+
+
+div.banner {
+  padding-bottom: 0.8em;
+  border-bottom: 2px solid #d81111;
+}
+
 .post-date {margin-top: -1.3em; font-size: 0.9em; color: #999;}
 div.post{ margin-bottom: 5em; }
 
@@ -198,7 +205,7 @@ ul.archive {
 
 
 
-a{ color: red; text-decoration:none;}
+a{ color: #d81111; text-decoration:none;}
 a:visited{ color: crimson; }
 a:hover{ color: crimson; }
 a:active{ color:#0645ad; }
@@ -246,7 +253,7 @@ h1,h2,h3,h4,h5,h6{
 font-weight: normal;
 color:#111;
 line-height:1em;
-margin-top: 2em;
+margin-top: 1em;
 }
 h1{ font-size:2.1em; }
 h2{ font-size:1.9em; }

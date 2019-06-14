@@ -2,12 +2,8 @@
 title: Justin Martyr on the Trinity
 tags: [Patristics, Trinity]
 summary: Justin Martyr has a surprisingly developed understanding of Trinitarian doctrine for someone writing in the first half of the second century.
-sharing:
-  twitter: Justin Martyr has a surprisingly developed understanding of Trinitarian doctrine for someone writing in the first half of the second century.
-  facebook: Justin Martyr has a surprisingly developed understanding of Trinitarian doctrine for someone writing in the first half of the second century.
+banner: Justin_Martyr.jpg
 ---
-
-![](/images/Justin_Martyr.jpg)
 
 I always chuckle inside when I hear someone saying that the doctrine of the Trinity originated in 325 AD at Nicea.  Sometimes they even suggest that it was only after Christianity fell under the sway of evil emperor Constantine that anyone ever thought that Jesus was God and that the whole thing was politically motivated.  While it is true that some of the more developed Trinitarian language and technical distinctions were worked out much later, after centuries of careful reflection and debate, the basic outlines of Trinitarian doctrine are in the pages of the New Testament.  Scripture set the axioms, and as Christians talked, the logical requirements of these axioms became clearer and the theological language necessary to express these requirements began to develop.
 
