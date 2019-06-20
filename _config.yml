@@ -3,7 +3,7 @@ title:          "dansheffler.com"
 author:         "Dan Sheffler"
 email:          ""
 description:    "The personal website of Dan Sheffler"
-baseurl:        ""
+baseurl:        "http://www.dansheffler.com"
 url:            "http://www.dansheffler.com"
 future:         false
 excerpt_separator: <!--more-->
@@ -24,7 +24,7 @@ markdown_ext:   markdown,mkdown,mkdn,mkd,md
 permalink:      /blog/:year-:month-:day-:title/
 encoding:       utf-8
 
-# incremental: true
+incremental: true
 
 collections:
   papers:
