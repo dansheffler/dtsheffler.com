@@ -13,3 +13,5 @@ I created this site using [Jekyll](https://jekyllrb.com/) so that I could have c
 
 You can contact me at daniel_sheffler at georgetowncollege dot edu.
 
+Follow me on Twitter ([@DanSheffler](http://twitter.com/DanSheffler)) or friend me on [Facebook](https://www.facebook.com/profile.php?id=100017237433601).
+

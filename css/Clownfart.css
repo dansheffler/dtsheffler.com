@@ -3,7 +3,7 @@ html { font-size: 100%; overflow-y: scroll; -webkit-text-size-adjust: 100%; -ms-
 body{
 color:#333;
 font-family: 'Minion Pro', Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;
-font-size:1.75em;
+font-size:1.5em;
 line-height:1.5em;
 background:#fdfdfd;
 text-rendering: optimizeLegibility;
@@ -138,10 +138,14 @@ header.site-header {
   top: 0px;
   left: 0px;
   background: #fdfdfd;
-  z-index: 10;
+  z-index: 10 8px;
   height: 2em;
   border-bottom: 2px solid #d81111;
-  width: 100%;
+  width: -webkit-calc(100% - 16px);
+  width:    -moz-calc(100% - 16px);
+  width:         calc(100% - 16px);
+  margin-left: 8px;
+  margin-right: 8px;
 }
 
 header.site-header .wrap {
@@ -162,6 +166,10 @@ header.site-header .wrap {
     float: right;
     padding: 0 0.5em;
     color: #333;
+}
+
+.site-nav .trigger:first-child {
+  padding-right: 0;
 }
 
 .site-nav .trigger a{ color: #333; }
