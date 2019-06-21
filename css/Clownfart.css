@@ -10,6 +10,16 @@ text-rendering: optimizeLegibility;
 -webkit-font-smoothing: antialiased;
 }
 
+
+/*Drop Caps*/
+
+.post-content > p:first-child:first-letter {
+    font-size: 3.5em;
+    float: left;
+    margin-top: .18em;
+    margin-right: 0.1em;
+}
+
 #content-wrapper {
 margin:4em auto;
 max-width:33em;
@@ -212,6 +222,12 @@ ul.archive {
     padding: 0;
 }
 
+.archive .date {
+    display: block;
+    float: left;
+    width: 9em;
+}
+
 
 
 
@@ -236,7 +252,7 @@ text-align: left;
 }
 
 p.summary {
-    font-size: 0.7em;
+    font-size: 0.9em;
     line-height: 1.3em;
     color: #666;
     margin: 0;
@@ -265,9 +281,8 @@ color:#111;
 line-height:1em;
 margin-top: 1em;
 }
-h1{ font-size:2.1em; }
-h2{ font-size:1.9em; }
-h2{ font-size:1.3em; }
+h1{ font-size:2.2em; }
+h2{ font-size:2em; }
 h5{
     font-size: 1em;
     display: inline;
