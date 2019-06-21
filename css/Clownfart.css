@@ -186,7 +186,9 @@ div.banner {
 div.post{ margin-bottom: 5em; }
 
 
-div.source { font-size: 0.7em; color: #999; margin-top:-1.2em; margin-bottom: 4em}
+div.source { font-size: 0.7em; color: #999; margin-top:-1.2em; margin-bottom: 0.2em}
+.a2a_svg, .a2a_count { border-radius: 0 !important; }
+.a2a_kit{ displat: inline; }
 div.tags { font-size: 0.7em; color: #999;}
 
 ul.tags {

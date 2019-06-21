@@ -45,6 +45,14 @@ regenerate: true
         {% endfor %}
         </ul>
     </div>
+    <!-- AddToAny BEGIN -->
+    <div class="a2a_kit a2a_default_style" data-a2a-url="{{ post.url | prepend: site.baseurl }}" data-a2a-title="{{ post.title }}">
+    <a class="a2a_dd" href="{{ post.url | prepend: site.baseurl }}"></a>
+    <a class="a2a_button_facebook"></a>
+    <a class="a2a_button_twitter"></a>
+    <a class="a2a_button_email"></a>
+    </div>
+    <!-- AddToAny END -->
 </div>
 
 {% endfor %}
