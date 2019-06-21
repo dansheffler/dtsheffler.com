@@ -184,7 +184,7 @@ header.site-header .wrap {
 
 .site-nav .trigger a{ color: #333; }
 .site-nav .trigger a:hover{ color: #d81111; }
-.site-title:hover{ color: crimson; }
+.site-title:hover{ color: #d81111; }
 
 
 div.banner {
@@ -232,9 +232,9 @@ ul.archive {
 
 
 a{ color: #d81111; text-decoration:none;}
-a:visited{ color: crimson; }
-a:hover{ color: crimson; }
-a:active{ color:#0645ad; }
+a:visited{ color: #d81111; }
+a:hover{ color: #d81111; }
+a:active{ color:#d81111; }
 a:focus{ outline: thin dotted; }
 a:hover, a:active{ outline: 0; }
 
@@ -266,13 +266,13 @@ figure {margin:0;}
 figcaption {display:none;}
 
 h1 a, h1 a:visited {color:#333 }
-h1 a:hover { color: crimson; }
+h1 a:hover { color: #d81111; }
 h2 a, h2 a:visited {color:#333 }
-h2 a:hover { color: crimson; }
+h2 a:hover { color: #d81111; }
 h3 a, h3 a:visited {color:#333 }
-h3 a:hover { color: crimson; }
+h3 a:hover { color: #d81111; }
 h4 a, h4 a:visited {color:#333 }
-h4 a:hover { color: crimson; }
+h4 a:hover { color: #d81111; }
 
 
 h1,h2,h3,h4,h5,h6{
