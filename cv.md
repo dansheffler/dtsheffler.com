@@ -10,7 +10,7 @@ permalink: /cv/
     Ancient Philosophy.
 
 **Competence**:
-    Medieval Philosophy, Philosophy of Religion, History of Ideas, Contemporary Metaphysics (especially metaphysics of free will and metaphysics of time), Ethics, and Political Philosophy.
+    Medieval Philosophy, Philosophy of Religion, History of Ideas, Ethics, and Political Philosophy.
 
 ## Education ###
 
@@ -54,15 +54,15 @@ B.A., Philosophy and Classics, University of Kentucky, 2010.
 
 "Is the True Self God at Alcibiades 133c?," *Alcibiades* Symposium, Cambridge, September 2018.  Program [here](http://rationalselfgovernment.se/alcibiades/).
 
-Director of Christian Training School at Lexington Christian Fellowship (an eleven-week intensive summer program for college-age students) 2011, 2013, 2015, 2016, 2017.  Website [here](http://www.ucfky.com/cts/).
+Director of Christian Training School at Lexington Christian Fellowship (an eleven-week intensive summer program for college-age students) 2011, 2013, 2015, 2016, 2017, 2018, 2019.  Website [here](http://www.ucfky.com/cts/).
 
-Participant in the Hildebrand Project Summer Seminar, 2015--2017.  Section discussion coordinator for 2017 Summer Seminar.
+Participant in the Hildebrand Project Summer Seminar, 2015--2017, 2019.  Section discussion coordinator for 2017 Summer Seminar.
 
 "Why Molinism Does Not Help with the Rollback Argument," Society of Christian Philosophers, Trinity College, March 2014.  Available [here](http://dansheffler.com/pdfs/Molinism-and-Rollback.pdf).
 
 "The Sun and the Good: the Allegory of the Sun in *Republic* VI," Society for Ancient Greek Philosophy, Fordham University, October 2013.  Available [here](http://dansheffler.com/pdfs/The-Sun-and-the-Good.pdf).
 
-"A Complex Eternity," Society of Christian Philosophers, Georgetown University, April 2013.  Available [here](http://dansheffler.com/pdfs/A-Complex-Eternity.pdf).
+"A Complex Eternity," Society of Christian Philosophers, Georgetown College, April 2013.  Available [here](http://dansheffler.com/pdfs/A-Complex-Eternity.pdf).
 
 
 ## Awards ###
@@ -83,9 +83,9 @@ Research grant from University of Kentucky Eureka fund ($2,000), 2006.
 
 ### Georgetown College ######
 
-Ancient and Medieval Philosophy, Spring 2016--Spring 2019.
+Ancient and Medieval Philosophy, Spring 2016--Fall 2019.
 
-Logic, Fall 2018.
+Logic, Fall 2018--Fall 2019.
 
 Nineteenth and Twentieth Century Philosophy, Spring 2018.
 
