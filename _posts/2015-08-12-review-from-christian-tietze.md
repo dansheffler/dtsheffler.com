@@ -1,6 +1,6 @@
 ---
 title: Review from Christian Tietze
-tags: [Link, Notetaking, Zettlekasten]
+tags: [Link, Note-taking, Zettlekasten]
 summary: A link to Christian Tietze's helpful blog about Zettlekasten.
 ---
 

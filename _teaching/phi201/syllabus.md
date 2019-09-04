@@ -1,18 +1,18 @@
 ---
-title:      PHI 201 Spring 2019 Syllabus
+title:      PHI 201 Fall 2019 Syllabus
 permalink:  /phi201syllabus/
 ---
 
 
 
 ----------------------- -----------------------------------------------
-Location                Chapel 001
+Location                Pawling 201
 Instructor              Dan Sheffler
 Email                   daniel_sheffler@georgetowncollege.edu
-Web                     <https://sage.georgetowncollege.edu/course/view.php?id=4053>
+Web                     Canvas
 Schedule                <http://dansheffler.com/phi201schedule/>
 Presentations           <http://dansheffler.com/phi201presentations/>
-Semester                Spring 2019
+Semester                Fall 2019
 Credit Hours            3
 ----------------------- -----------------------------------------------
 
@@ -72,6 +72,7 @@ clear, concise prose.
 -----------------------------------------------------------------------
 
 
+\newpage
 
 ## Grading ##
 
@@ -83,11 +84,11 @@ Final Paper       20%
 Final Exam        20%
 ----------------- ----
 
-The first portion of your grade will come from regular (short) reading quizzes. These will be completed on Moodle and will typically consist of five multiple-choice questions on the reading for the day. These quizzes are due before class on the day when the corresponding reading assignment is due. There is a time limit on these quizzes and they can only be taken once, so it is advisable that you complete them just as soon as you complete your reading. You will not have enough time to search the reading for the answers if you have not read it, but you may keep the reading assignment open to aid in the completion of the quiz. You will quickly find that you really must do the reading and do it quite carefully to do well on these quizzes.
+The first portion of your grade will come from regular (short) reading quizzes. These will be completed on Canvas and will typically consist of five multiple-choice questions on the reading for the day. These quizzes are due before class on the day when the corresponding reading assignment is due. There is a time limit on these quizzes and they can only be taken once, so it is advisable that you complete them just as soon as you complete your reading. You will not have enough time to search the reading for the answers if you have not read it, but you may keep the reading assignment open to aid in the completion of the quiz. You will quickly find that you really must do the reading and do it quite carefully to do well on these quizzes.
 
 The next portion of your grade will come from open-note lecture quizzes that I sometimes give at the end of class to test how well you are taking notes in our discussions.
 
-At the middle and end of the semester, you will submit a short (1000--1500 words) paper on Moodle analyzing and reflecting upon one of the authors we have discussed in class.  This paper will consist of one section (at least 500 words) that analyzes an argument from the author and one section (at least 500 words) that presents your own argument on the same topic.  I will not accept papers that fail to meet these length requirements.  Instead, your paper will simply rack up deductions for lateness until you turn in a paper of sufficient length.  See [these instructions](http://www.dansheffler.com/phi201analysispaper/) for specific steps to getting an A and the specific rubric I use while grading.
+At the middle and end of the semester, you will submit a short (1000--1500 words) paper on Canvas analyzing and reflecting upon one of the authors we have discussed in class.  This paper will consist of one section (at least 500 words) that analyzes an argument from the author and one section (at least 500 words) that presents your own argument on the same topic.  I will not accept papers that fail to meet these length requirements.  Instead, your paper will simply rack up deductions for lateness until you turn in a paper of sufficient length.  See [these instructions](http://www.dansheffler.com/phi201analysispaper/) for specific steps to getting an A.
 
 At the end of the semester we will have a final exam that will test your factual knowledge of the names, time periods, and terms that we have learned throughout the semester.
 
@@ -107,6 +108,8 @@ E   59--0%
 ## Attendance ##
 
 Although attendance does not compose its own segment of the grade, it is mandatory and failure to attend class will adversely impact your grade. Roll will be taken at the beginning of every class period. Perfect attendance will result in an extra credit of +2 percentage points. The first 2 unexcused absences will not count against you, but beginning with the 3rd absence, each absence will subtract 2 percentage points from your final grade. This goes to a **limit of 7 unexcused absences** at which point you can no longer pass the class. For your reference:
+
+\newpage
 
 Number of Absences  Percentage Change to Final Grade 
 ------------------- ---------------------------------
@@ -130,7 +133,7 @@ Students missing class or an exam due to an excused absence (e.g. for sickness) 
 
 You are expected to have an active e-mail account that you check regularly. Section related announcements will be made via e-mail (e.g. if I am sick, pointers for home work, change in due dates). Also, e-mail is the best way for contacting me outside of class.
 
-You are expected to have access to a stable internet connection as reading quizzes are carried out through Moodle.  I will not reset quizzes because of internet trouble (doing so is simply too easy to abuse and has been in the past).  Instead, I will be dropping the lowest reading quiz score for everyone.
+You are expected to have access to a stable internet connection as reading quizzes are carried out through Canvas.  I will not reset quizzes because of internet trouble (doing so is simply too easy to abuse and has been in the past).  Instead, I will be dropping the lowest reading quiz score for everyone.
 
 
 

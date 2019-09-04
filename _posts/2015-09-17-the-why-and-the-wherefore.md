@@ -1,6 +1,6 @@
 ---
 title: The Why and the Wherefore
-tags: [Notetaking, Zettlekasten, Sublime]
+tags: [Note-taking, Zettlekasten, Sublime]
 summary: Chronological association of notes by using Git.
 ---
 

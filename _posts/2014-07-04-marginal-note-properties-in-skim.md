@@ -1,6 +1,6 @@
 ---
 title: Marginal Note Properties in Skim
-tags: [Skim, Notetaking]
+tags: [Skim, Note-taking]
 summary: A script I wrote for adjusting the width of marginal text notes in Skim.
 ---
 

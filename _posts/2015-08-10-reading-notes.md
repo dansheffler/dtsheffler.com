@@ -1,6 +1,6 @@
 ---
 title: Reading Notes
-tags: [Notetaking, Writing]
+tags: [Note-taking, Writing]
 Summary: Tips on taking notes from Umberto Eco.
 ---
 

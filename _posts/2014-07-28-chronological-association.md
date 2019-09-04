@@ -1,6 +1,6 @@
 ---
 title: Chronological Association
-tags: [Notetaking, Writing]
+tags: [Note-taking, Writing]
 summary: The use of being able to place your notes within the chronological stream of your thoughts.
 ---
 

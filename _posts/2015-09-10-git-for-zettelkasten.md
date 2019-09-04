@@ -1,6 +1,6 @@
 ---
 title: Git for Zettelkasten
-tags: [Zettlekasten, Notetaking, Sublime]
+tags: [Zettlekasten, Note-taking, Sublime]
 summary: Using Git with my zettlekasten
 ---
 

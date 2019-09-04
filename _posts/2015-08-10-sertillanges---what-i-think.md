@@ -1,6 +1,6 @@
 ---
 title: Sertillanges - What I Think
-tags: [Quote, Notetaking, Reading, Writing]
+tags: [Quote, Note-taking, Reading, Writing]
 summary: "'I read, and I write while reading; but...'"
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Notebook Annotation
-tags: [Notetaking]
+tags: [Note-taking]
 summary: A description of the way that I go back and annotate my notebooks.
 ---
 

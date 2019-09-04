@@ -1,6 +1,6 @@
 ---
 title: The Zettelkasten Method
-tags: [Notetaking, Zettlekasten]
+tags: [Note-taking, Zettlekasten]
 Summary: An overview of the zettlekasten method for taking notes.
 ---
 

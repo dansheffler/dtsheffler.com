@@ -89,7 +89,7 @@ For the midterm and the final you will need to write an analysis paper on one of
    of your paper to office hours and I will read it over with you.
 
 
-Below you will find the rubric I use in grading these papers.  On some parts, you can get partial credit for what I judge to be a solid effort.  On the grammar part, I simply take one point off for every error I see to a limit of 20.
+<!-- Below you will find the rubric I use in grading these papers.  On some parts, you can get partial credit for what I judge to be a solid effort.  On the grammar part, I simply take one point off for every error I see to a limit of 20.
 
 --------------------------------------------------- -------------------
 Analysis starts with a thesis                       10 Points
@@ -103,4 +103,4 @@ Sections are labeled                                5 Points
 Names and titles correct                            5 Points
 No "summarizing" at all (see step #3)               5 Points
 Stays "objective" (see step #5)                     5 Points
---------------------------------------------------- -------------------
+--------------------------------------------------- ------------------- -->

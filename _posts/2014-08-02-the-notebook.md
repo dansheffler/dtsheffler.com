@@ -1,6 +1,6 @@
 ---
 title: The Notebook
-tags: [Notetaking]
+tags: [Note-taking]
 summary: Pictures and description of the notebook and manual system I use.
 ---
 

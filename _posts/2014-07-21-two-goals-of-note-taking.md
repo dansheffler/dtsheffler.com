@@ -1,6 +1,6 @@
 ---
-title: Two Goals of Note Taking
-tags: [Notetaking]
+title: Two Goals of Note-taking
+tags: [Note-taking]
 summary: I argue that we should separate out what I call engagement notes from memory notes.
 ---
 

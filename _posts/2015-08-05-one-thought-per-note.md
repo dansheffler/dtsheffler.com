@@ -1,6 +1,6 @@
 ---
 title: One Thought Per Note
-tags: [Notetaking, Writing]
+tags: [Note-taking, Writing]
 summary: The advantages of making many small notes with one thought in each.
 ---
 

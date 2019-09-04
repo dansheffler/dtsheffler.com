@@ -1,17 +1,16 @@
 ---
-title:      PHI 152 2019 Spring Syllabus
+title:      PHI 152 2019 Fall Syllabus
 permalink:  /phi152syllabus/
 ---
 
 
 ----------------------- -----------------------------------------------
-Location                Chapel 001
+Location                Pawling 301
 Instructor              Dan Sheffler
 Email                   daniel_sheffler@georgetowncollege.edu
-Web                     <https://sage.georgetowncollege.edu/course/view.php?id=4052>
 Schedule                <http://dansheffler.com/phi152schedule/>
 Presentations           <http://dansheffler.com/phi152presentations/>
-Semester                Spring 2019
+Semester                Fall 2019
 Credit Hours            3
 ----------------------- -----------------------------------------------
 
@@ -79,6 +78,8 @@ E   59--0%
 
 Although attendance does not compose its own segment of the grade, it is mandatory and failure to attend class will adversely impact your grade. Roll will be taken at the beginning of every class period. Perfect attendance will result in an extra credit of +2 percentage points. The first 2 unexcused absences will not count against you, but beginning with the 3rd absence, each absence will subtract 2 percentage points from your final grade. This goes to a **limit of 7 unexcused absences** at which point you can no longer pass the class. For your reference:
 
+\newpage
+
 Number of Absences  Percentage Change to Final Grade 
 ------------------- ---------------------------------
 0                   $+2$
@@ -101,7 +102,7 @@ Students missing class or an exam due to an excused absence (e.g. for sickness) 
 
 You are expected to have an active e-mail account that you check regularly. Section related announcements will be made via e-mail (e.g. if I am sick, pointers for home work, change in due dates). Also, e-mail is the best way for contacting me outside of class.
 
-You are expected to have access to a stable internet connection as reading quizzes are carried out through Moodle.  I will not reset quizzes because of internet trouble (doing so is simply too easy to abuse and has been in the past).  Instead, I will be dropping the lowest reading quiz score for everyone.
+You are expected to have access to a stable internet connection as reading quizzes are carried out through Canvas.  I will not reset quizzes because of internet trouble (doing so is simply too easy to abuse and has been in the past).  Instead, I will be dropping the lowest reading quiz score for everyone.
 
 
 
