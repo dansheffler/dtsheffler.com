@@ -1,17 +1,16 @@
 ---
-title:      PHI 152 2019 Fall Syllabus
+title:      PHI 152 2020 Spring Syllabus
 permalink:  /phi152syllabus/
 ---
 
 
 ----------------------- -----------------------------------------------
-Location                Pawling 301
+Location                Learning Resource Center, 304
 Instructor              Dan Sheffler
 Email                   daniel_sheffler@georgetowncollege.edu
-Schedule                <http://dansheffler.com/phi152schedule/>
-Presentations           <http://dansheffler.com/phi152presentations/>
-Semester                Fall 2019
+Semester                2020 Spring
 Credit Hours            3
+Office Hours            TR 11:00--12:45 Pawling 310
 ----------------------- -----------------------------------------------
 
 

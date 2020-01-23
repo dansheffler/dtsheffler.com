@@ -25,14 +25,22 @@ B.A., Philosophy and Classics, University of Kentucky, 2010.
 
 ## Publications ###
 
-"The Metaphysics of Personhood in Plato's Dialogues" (doctoral dissertation, University of Kentucky, 2017), doi: 10.13023/ETD.2017.142.  Available [here](http://uknowledge.uky.edu/philosophy_etds/16/).
+"A Vocabulary for Worship," *Touchstone*, January/February 2019.  Available [here](https://www.touchstonemag.com/archives/article.php?id=33-01-022-v).
 
-"Worship Becomes Us," review of *Liturgy and Personality*, by Dietrich von Hildebrand, *Touchstone*, May/June 2017.  Available [here](http://www.touchstonemag.com/archives/article.php?id=30-03-055-b).
+"Raising Statesmen," *Voegelin View*, August 2019.  Available [here](https://voegelinview.com/raising-statesmen/).
+
+"Community in the Wasteland," *The Imaginative Conservative*, July 2019. Available [here](https://theimaginativeconservative.org/2019/07/community-wasteland-dan-sheffler.html).
 
 "Bite-Sized Philosophy," review of *The Art of Living*, by Dietrich von Hildebrand, *Touchstone*, June/July 2018. Available [here](https://www.touchstonemag.com/archives/article.php?id=31-04-046-b).
 
+"Worship Becomes Us," review of *Liturgy and Personality*, by Dietrich von Hildebrand, *Touchstone*, May/June 2017.  Available [here](http://www.touchstonemag.com/archives/article.php?id=30-03-055-b).
+
+"The Metaphysics of Personhood in Plato's Dialogues" (doctoral dissertation, University of Kentucky, 2017), doi: 10.13023/ETD.2017.142.  Available [here](http://uknowledge.uky.edu/philosophy_etds/16/).
+
 
 ## Invited Talks ###
+
+"Jesus as Lord," Lexington Christian Fellowship, Lexington KY, September 2019.  [Audio](http://lcf.cfchurches.com/sermons/jesus-as-lord/)
 
 "Platonic versus Christian Conceptions of the Self," Athens and Jerusalem Conference, Lawrenceburg KY, April 2018.
 
@@ -83,9 +91,9 @@ Research grant from University of Kentucky Eureka fund ($2,000), 2006.
 
 ### Georgetown College ######
 
-Ancient and Medieval Philosophy, Spring 2016--Fall 2019.
+Ancient and Medieval Philosophy, Spring 2016--Spring 2020.
 
-Logic, Fall 2018--Fall 2019.
+Logic, Fall 2018--Spring 2020.
 
 Nineteenth and Twentieth Century Philosophy, Spring 2018.
 

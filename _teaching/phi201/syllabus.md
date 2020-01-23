@@ -1,19 +1,17 @@
 ---
-title:      PHI 201 Fall 2019 Syllabus
+title:      PHI 201 2020 Spring Syllabus
 permalink:  /phi201syllabus/
 ---
 
 
 
 ----------------------- -----------------------------------------------
-Location                Pawling 201
+Location                Pawling Hall, 106
 Instructor              Dan Sheffler
 Email                   daniel_sheffler@georgetowncollege.edu
-Web                     Canvas
-Schedule                <http://dansheffler.com/phi201schedule/>
-Presentations           <http://dansheffler.com/phi201presentations/>
-Semester                Fall 2019
+Semester                2020 Spring
 Credit Hours            3
+Office Hours            TR 11:00--12:45 Pawling 310
 ----------------------- -----------------------------------------------
 
 
@@ -22,6 +20,7 @@ Credit Hours            3
 
 - *Readings in Ancient Greek Philosophy*, ed. S. Marc Cohen,
   Patricia Curd, and C.D.C. Reeve, (Hackett, 2005), ISBN: 0872207692.
+- Marcus Aurelius, *The Meditations*, trans. Gregory Hays, ISBN: 0915145790.
 - Augustine, *Confessions*, trans. Henry Chadwick, (Oxford, 1991)
   ISBN: 9780199537822.
 - Boethius, *The Consolation of Philosophy*, trans. Victor Watts,
