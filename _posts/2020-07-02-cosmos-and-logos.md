@@ -5,9 +5,6 @@ summary: In this post I explore the interesting interplay between the concepts o
 banner: globe.jpg
 ---
 
----
-title: Logos and Cosmos
----
 
 When I was a child I used to tell people that I wanted to be a cosmologist, but they frequently took me to be saying "cosmetologist."  The link between such disparate fields as astrophysics and hairdressing only became clear when I took Greek as a college student and learned that the verb κοσμεῖν means "to arrange."  It applies to the person arranging hair and makeup and to the Demiurge arranging the stars in the heavens.  In both cases specific parts are given order in relation to one another in such a way that they form a beautiful whole.<!--more-->
 
