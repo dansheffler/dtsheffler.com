@@ -1,6 +1,6 @@
 ---
 title: Exporting Skim Notes
-tags: [Skim, markdown]
+tags: [Skim, Markdown]
 summary: A little script I wrote for getting all your Skim notes into a single nicely formated markdown file.
 ---
 

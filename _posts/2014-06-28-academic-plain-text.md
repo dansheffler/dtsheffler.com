@@ -1,6 +1,6 @@
 ---
 title: Academic Plain Text
-tags: [Sublime, markdown, Link]
+tags: [Sublime, Markdown, Link]
 summary: A link to a very good introduction for getting up and running with using markdown for academic writing.
 ---
 

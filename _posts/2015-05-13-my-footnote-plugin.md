@@ -1,6 +1,6 @@
 ---
 title: My Footnote Plugin
-tags: [Sublime, Writing, LaTeX, markdown]
+tags: [Sublime, Writing, LaTeX, Markdown]
 summary: A plugin I wrote for Sublime that makes unique footnote references across multiple files.
 ---
 

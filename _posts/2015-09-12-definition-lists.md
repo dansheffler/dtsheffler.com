@@ -1,6 +1,6 @@
 ---
 title: Definition Lists
-tags: [LaTeX, markdown]
+tags: [LaTeX, Markdown]
 summary: Using markdown's definition lists in LaTeX output.
 ---
 

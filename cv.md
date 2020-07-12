@@ -25,6 +25,10 @@ B.A., Philosophy and Classics, University of Kentucky, 2010.
 
 ## Publications ###
 
+"Introduction" to a special issue of Quaestiones Disputatae on the philosophy of Dietrich von Hildebrand (forthcoming).
+
+"Hildebrand, Hypostasis, and the Irreducibility of Personal Existence," Quaestiones Disputatae (forthcoming).
+
 "A Vocabulary for Worship," *Touchstone*, January/February 2019.  Available [here](https://www.touchstonemag.com/archives/article.php?id=33-01-022-v).
 
 "Raising Statesmen," *Voegelin View*, August 2019.  Available [here](https://voegelinview.com/raising-statesmen/).
@@ -59,6 +63,8 @@ B.A., Philosophy and Classics, University of Kentucky, 2010.
 
 
 ## Presentations and Professional Activity ###
+
+"Hildebrand's Free Personal Center," Hildebrand Project Summer Residency (2019).
 
 "Is the True Self God at Alcibiades 133c?," *Alcibiades* Symposium, Cambridge, September 2018.  Program [here](http://rationalselfgovernment.se/alcibiades/).
 
@@ -145,9 +151,9 @@ Latin 4, 2018--2019.
 
 ### Mars Hill Christian Academy ######
 
-Traditional Logic, 2008--2019.
+Traditional Logic, 2008--2020.
 
-Latin years 3 and 4, 2009--2019.
+Latin years 3 and 4, 2009--2020.
 
 
 

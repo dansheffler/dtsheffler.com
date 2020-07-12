@@ -1,0 +1,26 @@
+---
+title: Different Meanings of Substance
+tags: [Philosophy]
+summary: We should hold carefully apart two meanings of the philosophical term substance.  (i) the essence or whatness of a thing and (ii) the real distinct subsistence of a thing.
+banner: dureranthony.jpg
+---
+
+The term "substance" functions as a key element in a number of important philosophical and theological arguments.  At first glance, it appears to be a rather simple word that we use all the time, but this disguises several layers of complexity that often lead to confusion.  "Substance" can have quite different senses in different philosophical contexts, sometimes directly at odds with each other.  It will be helpful, then, to untangle a few of these different meanings so that we can keep our future discussions clear.
+
+Right away, we can set to one side a couple meanings peculiar to the way that the word "substance" is used in English.  Perhaps the most common is the use of "substance" to mean "stuff."  For example, we can imagine Star Trek characters finding a "strange substance" on the surface of a planet, which appears as a thick black goop.  Philosophers will instead prefer the terms "matter" and "material" for this.
+
+We can also set aside another sense of the English term that does not have a direct bearing on philosophy: in older English, "substance" can mean "wealth" or "livelihood."  One can read in Jane Austen, for example, someone described as a "man of substance," meaning that he is rich.
+
+Next, philosophers often use "substance" as a standard translation for Aristotle's term οὐσία.  This is not the place to give a full account of Aristotle's philosophy of substance, but we can note briefly the way he uses the term in the *Categories* and the *Metaphysics*.  In the *Categories*, Aristotle distinguishes between "primary" and "secondary" substance.  Primary substance refers to a particular entity as the bearer of properties.  Secondary substance refers to the species or genera to which these primary substances belong.  For example, primary substance would refer to Socrates, while secondary substance would refer to Man or Animal.  This simple distinction becomes much more complex in the *Metaphysics*, and there is scholarly dispute regarding how we are ultimately to interpret Aristotle's view of substance in this work.  We can gloss over these nuances for now, however, and say broadly that Aristotle comes to conceive of substance here as *that which is most real*.<!--more-->
+
+In much ancient philosophy, the use of οὐσία comes to focus especially on the sense of secondary substance in Aristotle's *Categories*.  "Substance" in this context, often refers to the essence of something considered as a kind of thing.  When we ask the question, "What is that?" and receive the answer, "Horse," we are giving the most essential type to which this particular belongs.  In medieval philosophy, this kind of answer is referred to as *quiditas* (also frequently spelled *quidditas*) or "whatness" of a thing, explaining *what it means to be this kind of thing*.  Importantly, whatness is always general, at least in principle, because it can belong equally to multiple instances.  One horse is no more of a horse than another.
+
+There are, however, other Greek words that are translated by "substance," or into Latin versions as *substantia*.  Most confusingly, perhaps, is ὑπόστασις, which can have a wide range of meanings in non-philosophical Greek, such as the "foundation" of a building or the "sediment" that gathers at the bottom of a wine barrel.[^dL]  In philosophical Greek, it usually emphasizes the *reality* or *real existence* of something as opposed to mere appearance, fantasy, or conceptual abstraction.  With this coloring, it is often used as a synonym for οὐσία alongside Aristotle's use of οὐσία in the *Metaphysics*.
+
+  [^dL]: See [@ramelli12], for an extremely good overview with a large number of passages.
+
+With this history in the background, "substance" can also be used in English to emphasize real existence.  For example, we might hear a lawyer ask, "Do these accusations have any substance?" meaning "basis in actual fact rather than mere conjecture or malicious rumor."
+
+When we turn to the real existence of a particular thing, however, and keep in mind Aristotle's "primary" substance, we begin to think about the metaphysical basis for *individual* real existence, which cannot be the general whatness of the thing since this is, in principle, shared by other individuals.  Medieval philosophers distinguished the *suppositum* as the individual existent subject to which this essential "what," such as horse, belongs together with accidental properties, such as "bay," or "smelly."  Sometimes "substance" refers to this *suppositum* or individual subsistent subject.  In a related but distinct sense, later Greek writers begin to use ὑπόστασις to refer to the concretization of a general nature into a determinate, individual entity, in which accidents subsist.
+
+Hence, we should hold apart these two meanings of the philosophical term: (i) the essence or *whatness* of a thing and (ii) the real distinct subsistence of a thing.  And both these meanings should be distinguished from the something's material composition.
