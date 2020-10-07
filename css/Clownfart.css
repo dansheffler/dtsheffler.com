@@ -215,7 +215,11 @@ div.banner {
 .post-date {margin-top: -1.3em; font-size: 0.9em; color: #999;}
 div.post{ margin-bottom: 5em; }
 
-div.source { font-size: 0.7em; color: #999; margin-top:-1.2em; margin-bottom: 0.2em}
+p:last-child {
+  margin-bottom: 0;
+}
+
+div.source { font-size: 0.7em; color: #999; margin-bottom: 0.2em}
 
 /* Share Buttons */
 .a2a_svg, .a2a_count { border-radius: 0 !important; }

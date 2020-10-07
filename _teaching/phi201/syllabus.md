@@ -6,12 +6,12 @@ permalink:  /phi201syllabus/
 
 
 ----------------------- -----------------------------------------------
-Location                Pawling Hall, 106
+Location                TBD
 Instructor              Dan Sheffler
 Email                   daniel_sheffler@georgetowncollege.edu
-Semester                2020 Spring
+Semester                2021 Spring
 Credit Hours            3
-Office Hours            TR 11:00--12:45 Pawling 310
+Office Hours            TR 11:00--12:45 via Zoom
 ----------------------- -----------------------------------------------
 
 
@@ -56,7 +56,7 @@ and modern thinkers.  I also hope that as you explore how great men of the past 
 ## Learning Outcomes ##
 
 -----------------------------------------------------------------------
-Learning Outcome                        Assessment
+Departmental Outcomes                   Assessment
 --------------------------------------- -------------------------------
 To gain an understanding of the primary Reading and Lecture Quizzes
 questions, terminology, and theories in Final
@@ -65,11 +65,47 @@ ancient and medieval philosophy
 To learn to carefully read              Reading Quizzes
 philosophical texts
 
-To gain the capacity to communicate     Midterm and Final Papers
+To gain the capacity to communicate     Final Paper
 difficult philosophical thinking in
 clear, concise prose.
 -----------------------------------------------------------------------
 
+
+-----------------------------------------------------------------------
+Foundations Outcomes                    Assessment
+--------------------------------------- -------------------------------
+**READ** (that is, to examine carefully Reading Quizzes, Final Exam
+and evaluatively) written and other
+kinds of texts for content and meaning
+and, to some degree, to attend to
+questions of structure and form as
+they impact and/or shape meaning.
+
+**COMPOSE** logical, original, and      Final Paper
+critical (that is, objective,
+evaluative, and analytical) responses
+to texts, problems, and questions.  
+
+**ARGUE** coherently and persuasively,  Final Paper, Final Exam
+displaying knowledge of the elements
+and inner workings of argument—that
+is, using logical organization,
+adequate support, independent
+thought, and sound reasoning, as
+modeled in many of the arguments
+in course readings.
+
+**ENGAGE**, deeply and meaningfully,    Final Paper
+with course material—including texts,
+problems, and questions—and with
+others in critical discussions of
+that material, both in the sense of
+participating in college-level class
+discussions, and in the sense of
+entering into written and other kinds
+of larger cultural discourses at a
+pre-disciplinary level.
+-----------------------------------------------------------------------
 
 \newpage
 
@@ -78,8 +114,7 @@ clear, concise prose.
 ----------------- ----
 Reading Quizzes   20%
 Lecture Quizzes   20% 
-Midterm Paper     20% 
-Final Paper       20%
+Final Paper       40%
 Final Exam        20%
 ----------------- ----
 
@@ -87,7 +122,7 @@ The first portion of your grade will come from regular (short) reading quizzes. 
 
 The next portion of your grade will come from open-note lecture quizzes that I sometimes give at the end of class to test how well you are taking notes in our discussions.
 
-At the middle and end of the semester, you will submit a short (1000--1500 words) paper on Canvas analyzing and reflecting upon one of the authors we have discussed in class.  This paper will consist of one section (at least 500 words) that analyzes an argument from the author and one section (at least 500 words) that presents your own argument on the same topic.  I will not accept papers that fail to meet these length requirements.  Instead, your paper will simply rack up deductions for lateness until you turn in a paper of sufficient length.  See [these instructions](http://www.dansheffler.com/phi201analysispaper/) for specific steps to getting an A.
+The largest portion of your grade will come from a Thesis-Driven Essay project that is similar to what you did during your Foundations 111 class.  This time, however, we will be focusing on specifically philosophical argumentation and engagement with the tradition of ancient and medieval philosophy.  This Thesis-Driven Essay project will be completed in stages so that you have time to refine your ideas, learn the skills of writing a good argument, and receive feedback from me and your peers.  This process will include, (1) selection of a specific topic and exploration of the material, (2) a draft outline in which you come up with more ideas than you will use, (3) a rough draft that we will work on in class and will receive feedback from both your peers and me, and finally (4) a final draft.  The first three components of the process will form 60% of the grade for the whole assignment and the final draft will constitute the remaining 40%.
 
 At the end of the semester we will have a final exam that will test your factual knowledge of the names, time periods, and terms that we have learned throughout the semester.
 
