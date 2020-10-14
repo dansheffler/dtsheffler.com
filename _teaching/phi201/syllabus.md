@@ -38,18 +38,7 @@ Greece through the Middle Ages. Exploration of foundational
 approaches to questions of reality, virtue, knowledge, God, faith,
 and reason.
 
-*From Me*:  In this course we will read major philosophers from the
-ancient and medieval periods including Plato, Aristotle, Augustine,
-Boethius, Anselm, and Aquinas.  For each author, we will try to
-come to grips with his worldview, that is, how he conceives the
-structure of reality as a whole.  Where does this author think that
-the universe comes from?  What does he think is most real?  Does he
-believe in God?  How does he conceive of God?  What does he think
-it means to be human?  I hope that asking these questions will open
-our eyes to the high degree of agreement amongst ancient and
-medieval thinkers and the high degree of difference between them
-and modern thinkers.  I also hope that as you explore how great men of the past have answered these questions, you will begin to develop answers of your own.
-
+*From Me*:  In this course we will read major philosophers from the ancient and medieval periods including Plato, Aristotle, Marcus Aurelius, Augustine, Boethius, Anselm, and Aquinas.  For each author, we will try to come to grips with his worldview, that is, how he conceives the structure of reality as a whole.  Where does this author think that the universe comes from?  What does he think is most real?  Does he believe in God?  How does he conceive of God?  What does he think it means to be human?  I hope that asking these questions will open our eyes to the high degree of agreement amongst ancient and medieval thinkers and the high degree of difference between them and modern thinkers.  I also hope that as you explore how great men of the past have answered these questions, you will begin to develop answers of your own.
 
 
 
