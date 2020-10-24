@@ -1,8 +1,13 @@
 ---
-title: Dan Sheffler -- CV
+title: DT Sheffler
 permalink: /cv/
 ---
 
+## DT Sheffler ##
+
+- Georgetown College
+- Memoria College
+- Associated Scholar, Hildebrand Project
 
 ## Specialization and Competence ###
 
@@ -14,20 +19,19 @@ permalink: /cv/
 
 ## Education ###
 
-PhD, Philosophy, University of Kentucky, 2017.
-
-M.A., Philosophy, University of Kentucky, 2012.
-
-M.A., Classics, University of Kentucky, 2010.
-
-B.A., Philosophy and Classics, University of Kentucky, 2010.
+- PhD, Philosophy, University of Kentucky, 2017.
+- M.A., Philosophy, University of Kentucky, 2012.
+- M.A., Classics, University of Kentucky, 2010.
+- B.A., Philosophy and Classics, University of Kentucky, 2010.
 
 
 ## Publications ###
 
-"Introduction" to a special issue of Quaestiones Disputatae on the philosophy of Dietrich von Hildebrand (forthcoming).
+"Morality and Situation Ethics, by Dietrich von Hildebrand, and Graven Images, by Dietrich von Hildebrand" (double review), *American Catholic Philosophical Quarterly*, Volume 94, Issue 4, Fall 2020. [https://doi.org/10.5840/acpq2020944213](https://doi.org/10.5840/acpq2020944213)
 
-"Hildebrand, Hypostasis, and the Irreducibility of Personal Existence," Quaestiones Disputatae (forthcoming).
+"Editor's Introduction" to *Contemporary Engagement with the Philosophy of Dietrich von Hildebrand*, a special issue of *Quaestiones Disputatae*, Volume 10, Number 1, Fall 2019.  Available [here](https://muse.jhu.edu/issue/43043).
+
+"Hildebrand, Hypostasis, and the Irreducibility of Personal Existence," *Quaestiones Disputatae*, Vol 10, Number 1, Fall 2019.  Available [here](https://muse.jhu.edu/article/766787).
 
 "A Vocabulary for Worship," *Touchstone*, January/February 2019.  Available [here](https://www.touchstonemag.com/archives/article.php?id=33-01-022-v).
 
