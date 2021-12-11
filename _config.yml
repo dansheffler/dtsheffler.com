@@ -1,13 +1,16 @@
 # Site settings
-title:          "dansheffler.com"
-author:         "Dan Sheffler"
+title:          "dtsheffler.com"
+author:         "D.T. Sheffler"
 email:          ""
-description:    "The personal website of Dan Sheffler"
-baseurl:        "http://www.dansheffler.com"
-url:            "http://www.dansheffler.com"
+description:    "The personal website of D.T. Sheffler"
+baseurl:        "https://www.dtsheffler.com"
+url:            "https://www.dtsheffler.com"
 future:         false
 excerpt_separator: <!--more-->
-plugins:        [jekyll-pandoc, jekyll-gist]
+
+plugins:
+  - jekyll-gist
+  - jekyll-pandoc-multiple-formats
 
 # lunr_search:
 #   excludes: [sitemap.xml,index.html,search,archive,papers,share,teaching]
@@ -15,16 +18,19 @@ plugins:        [jekyll-pandoc, jekyll-gist]
 # Build settings
 markdown:       Pandoc
 pandoc:
-    extensions:
-        - from: markdown+smart
-        - bibliography: $BIBLIO
-        - csl: $CSL
-        - mathjax
+    skip:
+      full: false
+      posts: false
+      categories: false
+    imposition: false
+    binder: false
+    flags: '-f markdown+smart --citeproc --bibliography=C:\\Users\\daniel.sheffler\\OneDrive\\Jabref\\mybib.bib --csl=C:\\Users\\daniel.sheffler\\OneDrive\\Pandoc\\default.csl'
+    site-flags: '-f markdown+smart --citeproc --bibliography=C:\\Users\\daniel.sheffler\\OneDrive\\Jabref\\mybib.bib --csl=C:\\Users\\daniel.sheffler\\OneDrive\\Pandoc\\default.csl'
 markdown_ext:   markdown,mkdown,mkdn,mkd,md
 permalink:      /blog/:year-:month-:day-:title/
 encoding:       utf-8
 
-incremental: true
+incremental: false
 
 collections:
   papers:

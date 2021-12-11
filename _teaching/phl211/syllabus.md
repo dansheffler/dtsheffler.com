@@ -18,7 +18,7 @@ Web
 :   [Discovery][disc]: http://discovery.asbury.edu/course/view.php?id=7275
 
 Schedule
-:    [Here](http://dansheffler.com/phl211schedule/)
+:    [Here](http://dtsheffler.com/phl211schedule/)
 
 [disc]: http://discovery.asbury.edu/course/view.php?id=7275
 

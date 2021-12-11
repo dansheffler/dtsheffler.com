@@ -7,7 +7,7 @@ summary: Chronological association of notes by using Git.
 
 [Sascha Fast said](https://twitter.com/SaschaFast/status/644437872737693696)
 that I should write up a blog post explaining why I find my
-[association of notes through Git](http://dansheffler.com/blog/2015-09-10-git-for-zettelkasten/)
+[association of notes through Git](http://dtsheffler.com/blog/2015-09-10-git-for-zettelkasten/)
 useful.  Admittedly, I only use this kind of association rarely.
 When I do, however, it proves to be just what I need.
 

@@ -1,18 +1,17 @@
 ---
-title: DT Sheffler
+title: D.T. Sheffler
 permalink: /cv/
 ---
 
-## DT Sheffler ##
+## D.T. Sheffler ##
 
-- Georgetown College
-- Memoria College
-- Associated Scholar, Hildebrand Project
+- Professor of Philosophy, Memoria College.
+- Associated Scholar, Hildebrand Project.
 
 ## Specialization and Competence ###
 
 **Specialization**:
-    Ancient Philosophy.
+    Ancient Philosophy and Catholic Personalism.
 
 **Competence**:
     Medieval Philosophy, Philosophy of Religion, History of Ideas, Ethics, and Political Philosophy.
@@ -26,6 +25,14 @@ permalink: /cv/
 
 
 ## Publications ###
+
+"Curing the Disease of the Soul," *The Classical Teacher*, Late Summer 2021.
+
+"On Vulcans and Androids," *The Classical Teacher*, Summer 2021.
+
+"Reading for Wisdom," *The Classical Teacher*, Spring 2021.
+
+"The Surprising Logic of the World," *The Classical Teacher*, Winter 2021.
 
 "Morality and Situation Ethics, by Dietrich von Hildebrand, and Graven Images, by Dietrich von Hildebrand" (double review), *American Catholic Philosophical Quarterly*, Volume 94, Issue 4, Fall 2020. [https://doi.org/10.5840/acpq2020944213](https://doi.org/10.5840/acpq2020944213)
 
@@ -48,15 +55,19 @@ permalink: /cv/
 
 ## Invited Talks ###
 
+"Growing Up in Church: Development of the Person in the Presence of the Holy," Hildebrand Colloquium on the Sacred, Catholic University of America, 2021.
+
+"Latin Orders Language," *Sodalitas*, Louisville KY, July 2021.
+
 "Jesus as Lord," Lexington Christian Fellowship, Lexington KY, September 2019.  [Audio](http://lcf.cfchurches.com/sermons/jesus-as-lord/)
 
 "Platonic versus Christian Conceptions of the Self," Athens and Jerusalem Conference, Lawrenceburg KY, April 2018.
 
 "Overview of the Gospel of John," Jessamine Christian Fellowship, Wilmore KY, January 2018.  [Audio](http://jcfky.com/sermons/dan-sheffler-on-the-book-of-john/).
 
-"The Suffering of Job," Lexington Christian Fellowship, Lexington KY, December 2017.  [Audio](http://lcf.cfchurches.com/sermons/job/) and [Text](http://dansheffler.com/blog/2018-02-05-job-teaching/).
+"The Suffering of Job," Lexington Christian Fellowship, Lexington KY, December 2017.  [Audio](http://lcf.cfchurches.com/sermons/job/) and [Text](http://dtsheffler.com/blog/2018-02-05-job-teaching/).
 
-"Gratitude," Mars Hill Christian Academcy Graduation Address,  Lexington KY, May 2017.  [Text](http://www.dansheffler.com/blog/2017-05-20-gratitude/).
+"Gratitude," Mars Hill Christian Academcy Graduation Address,  Lexington KY, May 2017.  [Text](http://www.dtsheffler.com/blog/2017-05-20-gratitude/).
 
 "Living Latin at the University of Kentucky,"  Immaculata Classical Academy, Louisville KY, November 2016.
 
@@ -76,11 +87,11 @@ Director of Christian Training School at Lexington Christian Fellowship (an elev
 
 Participant in the Hildebrand Project Summer Seminar, 2015--2017, 2019.  Section discussion coordinator for 2017 Summer Seminar.
 
-"Why Molinism Does Not Help with the Rollback Argument," Society of Christian Philosophers, Trinity College, March 2014.  Available [here](http://dansheffler.com/pdfs/Molinism-and-Rollback.pdf).
+"Why Molinism Does Not Help with the Rollback Argument," Society of Christian Philosophers, Trinity College, March 2014.  Available [here](http://dtsheffler.com/pdfs/Molinism-and-Rollback.pdf).
 
-"The Sun and the Good: the Allegory of the Sun in *Republic* VI," Society for Ancient Greek Philosophy, Fordham University, October 2013.  Available [here](http://dansheffler.com/pdfs/The-Sun-and-the-Good.pdf).
+"The Sun and the Good: the Allegory of the Sun in *Republic* VI," Society for Ancient Greek Philosophy, Fordham University, October 2013.  Available [here](http://dtsheffler.com/pdfs/The-Sun-and-the-Good.pdf).
 
-"A Complex Eternity," Society of Christian Philosophers, Georgetown College, April 2013.  Available [here](http://dansheffler.com/pdfs/A-Complex-Eternity.pdf).
+"A Complex Eternity," Society of Christian Philosophers, Georgetown College, April 2013.  Available [here](http://dtsheffler.com/pdfs/A-Complex-Eternity.pdf).
 
 
 ## Awards ###
@@ -98,6 +109,19 @@ Research grant from University of Kentucky Eureka fund ($2,000), 2006.
 
 
 ## Teaching ###
+
+### Memoria College ###
+
+Ethics, Spring 2022.
+
+Introduction to the Liberal Arts, Fall 2020, 2021.
+
+Introduction to the Great Books, Summer 2021.
+
+Political Philosophy, Spring 2021.
+
+Church Fathers five-Week intensive, Spring 2021.
+
 
 ### Georgetown College ######
 
@@ -142,6 +166,18 @@ Symbolic Logic, Fall 2010--Fall 2011.
 Latin 1 and 2, Fall 2009--Spring 2010.
 
 Medical Terminology (on-line course), Summer 2010.
+
+
+### Memoria Press Online Academy ####
+
+Christian Latin (reading course). 2021--2022.
+
+Latin I and II.  2021--2022.
+
+Classical Studies.  2021--2022.
+
+
+
 
 
 ### Immaculata Classical Academy ######

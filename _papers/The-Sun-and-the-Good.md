@@ -4,7 +4,7 @@ tagline: An examination of the claim that the Good is "beyond being" in *Republi
 author: Dan Sheffler
 date: 2013-10-08
 layout: paper
-pdf: http://dansheffler.com/pdfs/The-Sun-and-the-Good.pdf
+pdf: http://dtsheffler.com/pdfs/The-Sun-and-the-Good.pdf
 ---
 
 # The Sun and the Good #

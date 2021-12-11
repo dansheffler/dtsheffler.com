@@ -6,10 +6,15 @@ git_source(:github) {|repo_name| "https://github.com/#{repo_name}" }
 
 # gem "rails"
 
-gem "jekyll", "~> 3.8"
+gem "jekyll", "~> 3.7"
 
 gem "jekyll-paginate", "~> 1.1"
 
 gem "jekyll-gist", "~> 1.5"
 
 gem "jekyll-pandoc", "~> 2.0"
+
+group :plugins do
+    gem 'jekyll-pandoc-multiple-formats', github: 'edsl/jekyll-pandoc-multiple-formats', branch: 'develop'
+end
+

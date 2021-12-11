@@ -15,9 +15,9 @@ title: PHI 100 Introduction
 
 ## What You Came Here to Get: ##
 
-- [Syllabus](http://dansheffler.com/phi100syllabus/) (dansheffler.com/phi100syllabus)
-- [Schedule](http://dansheffler.com/phi100schedule/) (dansheffler.com/phi100schedule)
-- [Presentations](http://dansheffler.com/phi100presentations/) (dansheffler.com/phi100presentations)
+- [Syllabus](http://dtsheffler.com/phi100syllabus/) (dtsheffler.com/phi100syllabus)
+- [Schedule](http://dtsheffler.com/phi100schedule/) (dtsheffler.com/phi100schedule)
+- [Presentations](http://dtsheffler.com/phi100presentations/) (dtsheffler.com/phi100presentations)
 
 (You should bookmark these and refer to the often)
 

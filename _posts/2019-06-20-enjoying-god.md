@@ -5,7 +5,7 @@ summary: Gloomy Christianity develops because people learn to associate enjoymen
 banner: puttiarch.jpg
 ---
 
-A few weeks ago, I examined the problem of gloomy Christianity and suggested the imagination as a helpful remedy in the post [Eros Comes from Beauty Beheld](http://www.dansheffler.com/blog/2019-05-30-eros-comes-from-beauty-beheld/).  This started me thinking about other sources of gloomy Christianity and other remedies for it.
+A few weeks ago, I examined the problem of gloomy Christianity and suggested the imagination as a helpful remedy in the post [Eros Comes from Beauty Beheld](http://www.dtsheffler.com/blog/2019-05-30-eros-comes-from-beauty-beheld/).  This started me thinking about other sources of gloomy Christianity and other remedies for it.
 
 I want to be clear about what I mean by gloomy Christianity.  I certainly do not have in mind people who have substantive reasons to grieve, such as those with illness, loss, addictions, or other areas of real brokenness.  There is no Christianity without the Cross, and one great strength of Christian theology is the realism with which the gospel addresses concrete suffering.  I also hope no one will interpret me as saying that Christians must always be chipper, or that those who have a more quiet, less type-A personality are not fully walking in the joy of the Lord.
 

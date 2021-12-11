@@ -42,6 +42,6 @@ script menu.
 
 [Marked]:       http://markedapp.com
 [pdftk]:        http://www.pdflabs.com/tools/pdftk-the-pdf-toolkit/
-[Skim URLs]:    http://www.dansheffler.com/blog/2014-07-02-custom-skim-urls/
+[Skim URLs]:    http://www.dtsheffler.com/blog/2014-07-02-custom-skim-urls/
 [Skim]:          http://skim-app.sourceforge.net
 [BibDesk]:       http://bibdesk.sourceforge.net

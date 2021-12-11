@@ -11,8 +11,8 @@ Location                Chapel 003
 Instructor              Dan Sheffler
 Email                   daniel_sheffler@georgetowncollege.edu
 Web                     <http://sage.georgetowncollege.edu/course/view.php?id=3008>
-Schedule                <http://dansheffler.com/phi325schedule/>
-Presentations           <http://dansheffler.com/phi325presentations/>
+Schedule                <http://dtsheffler.com/phi325schedule/>
+Presentations           <http://dtsheffler.com/phi325presentations/>
 Semester                Spring 2017
 Credit Hours            3
 ----------------------- -----------------------------------------------
@@ -135,5 +135,5 @@ If you are registered to receive accommodations for a disability, please discuss
 
 ## Schedule ##
 
-(See [separate document](http://dansheffler.com/phi325schedule/) for our projected schedule of topics and readings.)
+(See [separate document](http://dtsheffler.com/phi325schedule/) for our projected schedule of topics and readings.)
 

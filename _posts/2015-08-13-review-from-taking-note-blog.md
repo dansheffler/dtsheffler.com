@@ -8,7 +8,7 @@ summary: A link to some comments on the Taking Note blog regarding my setup.
 
 MK over at the [Taking Note
 Blog](http://takingnotenow.blogspot.com/) just commented on [my
-recent post](http://www.dansheffler.com/blog/2015-08-05-one-
+recent post](http://www.dtsheffler.com/blog/2015-08-05-one-
 thought-per-note/) about one thought per note.  He helpfully adds
 several more links on the same idea and mentions that this is "one
 of the most basic features" of his note-taking.

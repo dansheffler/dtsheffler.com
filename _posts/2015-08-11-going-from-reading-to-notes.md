@@ -10,7 +10,7 @@ computer.  I make a distinction between the low-friction
 handwritten notes that I create for the purpose of engaging with my
 reading or a lecture and those more organized and polished notes
 that help me actually remember material years down the road.  See
-[here](http://dansheffler.com/blog/2014-07-21-two-goals-of-note-taking/) for details.
+[here](http://dtsheffler.com/blog/2014-07-21-two-goals-of-note-taking/) for details.
 
 While reading a book or article, I make a note every time I have a
 substantial thought or observation.  I begin by writing the page
@@ -28,18 +28,18 @@ page reference one at a time.  First, I ask myself whether it is
 important that I remember this bit of information long-term.  If
 not, I move on immediately.  Second, I ask myself, "What is the
 *single* idea here?" trying to remember the principle of [one
-thought per note](http://dansheffler.com/blog/2015-08-05-one-thought-per-note/). So I have two possibilities: (1) I need to
+thought per note](http://dtsheffler.com/blog/2015-08-05-one-thought-per-note/). So I have two possibilities: (1) I need to
 create a file that captures this single idea or (2) I already have
 a file.  Let's take both these possibilities in turn:
 
 1. This option is more involved since I have to create a new idea
    note.  (This is accomplished easily with [my Sublime Text
-   plugin](http://dansheffler.com/blog/2015-05-11-my-zettelkasten-in-sublime/).)  Let's break this down into steps with a couple
+   plugin](http://dtsheffler.com/blog/2015-05-11-my-zettelkasten-in-sublime/).)  Let's break this down into steps with a couple
    screen-shots:
 
-![Idea Note 1](http://dansheffler.com/images/Plato_-_Tripartition_-_Internal_Conflict_md_—_Notes1.png)
+![Idea Note 1](http://dtsheffler.com/images/Plato_-_Tripartition_-_Internal_Conflict_md_—_Notes1.png)
 
-![Idea Note 2](http://dansheffler.com/images/Plato_-_Tripartition_-_Internal_Conflict_md_—_Notes2.png)
+![Idea Note 2](http://dtsheffler.com/images/Plato_-_Tripartition_-_Internal_Conflict_md_—_Notes2.png)
 
 a. I begin by populating the title of the note.
 b. I then create a bullet list off the top of my head out of every
@@ -76,7 +76,7 @@ c. I then add a "References" section beneath my written paragraph
    information alters my views on the matter.  If so, I edit my
    description of the idea.  Either way, I add a link at the top of
    the note in the Connections section to the relevant [reading
-   note](http://dansheffler.com/blog/2015-08-10-reading-notes/)
+   note](http://dtsheffler.com/blog/2015-08-10-reading-notes/)
    file with a one-line description of what this reading in
    particular contributes to my understanding.  If there is a quote
    involved or a more extended description of an authors position,

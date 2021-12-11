@@ -4,7 +4,7 @@ tagline: A modest proposal for rethinking the dichotomy between temporalism and 
 author: Dan Sheffler
 date: 2014-06-26
 layout: paper
-pdf: http://dansheffler.com/pdfs/A-Complex-Eternity.pdf
+pdf: http://dtsheffler.com/pdfs/A-Complex-Eternity.pdf
 ---
 
 # A Complex Eternity #

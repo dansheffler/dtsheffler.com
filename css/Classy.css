@@ -2,7 +2,8 @@ html { font-size: 100%; overflow-y: scroll; -webkit-text-size-adjust: 100%; -ms-
 
 body{
 color:#333;
-font-family: 'Minion Pro', Palatino, 'Palatino Linotype', Times, 'Times New Roman', serif;
+font-family: 'EB Garamond', serif;
+
 font-size:1.5em;
 line-height:1.5em;
 background:#fdfdfd;
@@ -168,7 +169,7 @@ header.site-header {
   top: 0px;
   left: 0px;
   background: #fdfdfd;
-  z-index: 10 8px;
+  z-index: 10;
   height: 2em;
   border-bottom: 2px solid #d81111;
   width: -webkit-calc(100% - 16px);
@@ -277,7 +278,8 @@ a.previous { float: right; }
 
 p{
 margin:1em 0;
-text-align: left;
+text-align: justify;
+hyphens: auto;
 }
 
 p.summary {
@@ -289,6 +291,20 @@ p.summary {
 
 img{
 max-width:100%;
+}
+
+img.float_right {
+    float: right;
+    max-width: 33%;
+    padding-left:  1em;
+    padding-bottom:  1em;
+}
+img.float_left {
+    float: left;
+    max-width: 33%;
+    padding:  1em;
+    padding-right:  1em;
+    padding-bottom:  1em;
 }
 
 figure {margin:0;}
@@ -312,6 +328,12 @@ margin-top: 1em;
 }
 h1{ font-size:2.2em; }
 h2{ font-size:2em; }
+
+h3{ text-decoration: underline; }
+
+h4.paper { margin-bottom: 0; }
+h4 { display: none; }
+
 h5{
     font-size: 1em;
     display: inline;
@@ -328,9 +350,6 @@ h6{
   margin-top: 2em;
   margin-bottom:1em;
 }
-
-h4.paper { margin-bottom: 0; }
-h4 { display: none; }
 
 div.tagline { font-size: 0.9em }
 div.tagline p { margin-top: 0.2em }
@@ -475,6 +494,9 @@ sub { bottom: -0.25em; }
 ul, ol { margin: 1em 0; padding: 0 0 0 2em; }
 li p:last-child { margin:0 }
 
+ul li {list-style-type: '◆ ';}
+ul li::marker { font-size: 0.6em; }
+
 li.archive {
   margin-bottom: 1em;
 }
@@ -501,6 +523,7 @@ hr:after {
 }
 
 
+
 @media (max-width: 1400px) {
 body{font-size:1.5em;}
 }
@@ -511,7 +534,27 @@ body{font-size:1.3em;}
 body{font-size:1.1em;}
 }
 @media (max-width: 850px) {
-  body{font-size:0.9em;}
+  body{
+    font-size:0.8em;
+    margin: 1.5em;
+    font-family: 'Libre Baskerville';
+    }
+
+  h1, h2, h3, h4 { line-height: 1.2em; }
+
+  #toc{display:none;}
+  #toc-show-hide{display:none;}
+}
+
+@media (max-width: 350px) {
+  body{
+    font-size:0.6em;
+    margin: 1.5em;
+    font-family: 'Libre Baskerville';
+    }
+
+    h1, h2, h3, h4 { line-height: 1.2em; }
+
   #toc{display:none;}
   #toc-show-hide{display:none;}
 }

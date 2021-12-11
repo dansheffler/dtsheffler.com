@@ -11,7 +11,7 @@
     {% else %}
         <meta name="description" content="{% if page.summary %}{{ page.summary }}{% else %}{{ site.description }}{% endif %}">
     {% endif %}
-    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+    <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.url }}">
 
     {% if page.banner %}
     <meta name="twitter:card" content="summary_large_image">
@@ -70,6 +70,9 @@ ga('send', 'pageview');
 
 
     <!-- Custom CSS -->
-    <link rel="stylesheet" href="/css/Clownfart.css">
-    <link rel="alternate" type="application/rss+xml" title="dansheffler.com" href="http://dansheffler.com/rss/index.xml" />
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,700;1,400;1,700&family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/css/Classy.css">
+    <link rel="alternate" type="application/rss+xml" title="dtsheffler.com" href="http://dtsheffler.com/rss/index.xml" />
 </head>

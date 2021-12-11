@@ -223,7 +223,7 @@ permalink: /lordship/
   wisdom that *imply* certain actions and simply focused on the
   outright commands.  For anyone who is interested I've made the
   commands from just Matthew and Mark available at
-  <dansheffler.com/commands>, but I've copied here a few simple
+  <dtsheffler.com/commands>, but I've copied here a few simple
   ones from just the first chapter of the Sermon on the Mount.  We
   will end with the reading of this list.  As I read these, listen
   carefully, and take these as something more than mere "nice

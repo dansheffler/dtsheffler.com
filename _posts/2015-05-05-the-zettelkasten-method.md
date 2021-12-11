@@ -13,8 +13,8 @@ point them to my posts on paper note taking ([Two Goals][] and
 [Notebook Annotation][]), but not the specifics of my computer
 system.
 
-[Two Goals]: http://www.dansheffler.com/blog/2014-07-21-two-goals-of-note-taking/
-[Notebook Annotation]: http://www.dansheffler.com/blog/2014-07-26-notebook-annotation/
+[Two Goals]: http://www.dtsheffler.com/blog/2014-07-21-two-goals-of-note-taking/
+[Notebook Annotation]: http://www.dtsheffler.com/blog/2014-07-26-notebook-annotation/
 
 In this post I will simply summarize the concept of the
 zettelkasten method as I understand it.  In the next post, I will

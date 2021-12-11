@@ -14,7 +14,7 @@ file per book or article that I read.
 
 Here is an example screen-shot of a reading note:
 
-![Lloyd Gerson Reading Note](http://dansheffler.com/images/Screen_Shot_2015-08-10_1.png)
+![Lloyd Gerson Reading Note](http://dtsheffler.com/images/Screen_Shot_2015-08-10_1.png)
 
 In this screen-shot we see three areas:
 
@@ -38,11 +38,11 @@ information as Eco suggests.  Instead, all this information is
 stored in a BibTeX file so that it can be referenced automatically
 with [Pandoc-style citations][].
 
-  [Pandoc-style citations]: http://dansheffler.com/blog/2014-07-09-bibdesk-and-latex-citations/
+  [Pandoc-style citations]: http://dtsheffler.com/blog/2014-07-09-bibdesk-and-latex-citations/
 
-  [one idea per file]: http://dansheffler.com/blog/2015-08-05-one-thought-per-note/
+  [one idea per file]: http://dtsheffler.com/blog/2015-08-05-one-thought-per-note/
 
-  [my digital version]: http://dansheffler.com/blog/2015-05-11-my-zettelkasten-in-sublime/
+  [my digital version]: http://dtsheffler.com/blog/2015-05-11-my-zettelkasten-in-sublime/
 
   [Amazon]: http://www.amazon.com/How-Write-Thesis-Umberto-Eco/dp/0262527138/
 

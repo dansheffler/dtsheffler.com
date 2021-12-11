@@ -1,4 +1,4 @@
-CD C:\Users\dansh\Dropbox\dansheffler
+CD C:\Users\daniel.sheffler\OneDrive\Website
 call taggen.py
-call jekyll build --config _config.yml,_config_win.yml --verbose
-call bash -c "rsync -avzhe ssh --progress --delete ./_site/ dts@dansheffler.com:~/public_html"
+call bundle exec jekyll build --config _config.yml
+call C:\Windows\System32\bash.exe -c "rsync -avzhe ssh --delete ./_site/ dh_dts@ps19539.dreamhostps.com:~/dtsheffler.com"

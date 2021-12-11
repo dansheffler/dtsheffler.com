@@ -92,7 +92,7 @@ build the Word file to give to the publisher.
 
 [citationstyles.org]: http://citationstyles.org/styles/
 [my CSL file]: /files/my-chicago.csl
-[Yesterday]: http://www.dansheffler.com/blog/2014-07-08-intro-to-bibdesk.md
+[Yesterday]: http://www.dtsheffler.com/blog/2014-07-08-intro-to-bibdesk.md
 [LaTeX]:    http://www.latex-project.org
 [Pandoc]:   http://johnmacfarlane.net/pandoc/
 [BibDesk]:  http://bibdesk.sourceforge.net

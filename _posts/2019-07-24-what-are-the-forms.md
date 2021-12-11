@@ -6,7 +6,7 @@ banner: globe.jpg
 ---
 
 
-In my [last post](http://www.dansheffler.com/blog/2019-06-27-what-i-mean-by-platonism/) I explained that being a Platonist in my vocabulary just means that I believe in the Forms.  On the one hand, this position is thicker than a mere rejection of nominalism because the doctrine of the Forms gives a sophisticated, meaningful account of how the world outside our heads has the qualities that it does.  On the other hand, this position is thiner than a commitment to the whole body of various doctrines found in the historical Platonic school.  In that post, I defined Platonism like this:
+In my [last post](http://www.dtsheffler.com/blog/2019-06-27-what-i-mean-by-platonism/) I explained that being a Platonist in my vocabulary just means that I believe in the Forms.  On the one hand, this position is thicker than a mere rejection of nominalism because the doctrine of the Forms gives a sophisticated, meaningful account of how the world outside our heads has the qualities that it does.  On the other hand, this position is thiner than a commitment to the whole body of various doctrines found in the historical Platonic school.  In that post, I defined Platonism like this:
 
 Platonism
 :    We understand the world by grasping (i) real, (ii) eternal, (iii) immaterial, (iv) intelligible structures, called Forms, which exist beyond any individual instances, called participants, that embody them.

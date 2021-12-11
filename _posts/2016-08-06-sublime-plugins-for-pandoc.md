@@ -9,7 +9,7 @@ sharing:
 
 
 
-In the [last post](http://dansheffler.com/blog/2016-07-11-pandoc/), I gave a brief introduction to using Pandoc.  There are a few plugins for Sublime Text that I have installed that make it much easier to use Pandoc.  On any Sublime Text installation, the first plugin to add should be [Package Control](https://packagecontrol.io/).  This allows you to easily install more plugins from within Sublime Text with an easy-to-use interface.  While there are many plugins out there geared toward Markdown in general and Pandoc in particular, these are the ones that I use:
+In the [last post](http://dtsheffler.com/blog/2016-07-11-pandoc/), I gave a brief introduction to using Pandoc.  There are a few plugins for Sublime Text that I have installed that make it much easier to use Pandoc.  On any Sublime Text installation, the first plugin to add should be [Package Control](https://packagecontrol.io/).  This allows you to easily install more plugins from within Sublime Text with an easy-to-use interface.  While there are many plugins out there geared toward Markdown in general and Pandoc in particular, these are the ones that I use:
 
 [Markdown Editing](https://packagecontrol.io/packages/MarkdownEditing)
 :   This markdown plugin trumps all the others and provides a base
@@ -38,4 +38,4 @@ In the [last post](http://dansheffler.com/blog/2016-07-11-pandoc/), I gave a bri
     bonus it handles a variety of block comment styles in different
     programming languages.)
 
-Also take a look at the little tweaks that I have added myself [for Academic Markdown](http://dansheffler.com/blog/2015-08-03-sublime-syntax-definition/) and [creating footnotes with a consistent numbering scheme across multiple files](http://dansheffler.com/blog/2015-05-13-my-footnote-plugin/).
+Also take a look at the little tweaks that I have added myself [for Academic Markdown](http://dtsheffler.com/blog/2015-08-03-sublime-syntax-definition/) and [creating footnotes with a consistent numbering scheme across multiple files](http://dtsheffler.com/blog/2015-05-13-my-footnote-plugin/).

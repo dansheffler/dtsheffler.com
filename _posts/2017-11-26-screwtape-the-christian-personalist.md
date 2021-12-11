@@ -14,7 +14,7 @@ During one of our discussion groups over the *Screwtape Letters*, I was arrested
 
 Obviously, he's got the whole thing twisted around backwards and inside out, but his understanding that good and evil are grounded in the relationship between the self and another reveals a personalistic understanding of love.
 
-Frequently people say that love is willing someone else's genuine good.  While I think this is certainly an essential part of it, I believe that this definition does not get the essence of love quite right.  Instead, I have learned from Christian personalist thinkers like Karol Wojtyła (see his magisterial *Love and Responsibility*) that love involves *the free gift of one's very self to another*.  If you're interested, I've compiled a number of scriptures that I believe support this deeper definition of love [here](http://dansheffler.com/share/loveAsSelfGift.html).  This comes out as Screwtape loathingly describes God's attitude in contrast to his own:
+Frequently people say that love is willing someone else's genuine good.  While I think this is certainly an essential part of it, I believe that this definition does not get the essence of love quite right.  Instead, I have learned from Christian personalist thinkers like Karol Wojtyła (see his magisterial *Love and Responsibility*) that love involves *the free gift of one's very self to another*.  If you're interested, I've compiled a number of scriptures that I believe support this deeper definition of love [here](http://dtsheffler.com/share/loveAsSelfGift.html).  This comes out as Screwtape loathingly describes God's attitude in contrast to his own:
 
 > One must face the fact that all the talk about His love for men,
 > and His service being perfect freedom, is not (as one would

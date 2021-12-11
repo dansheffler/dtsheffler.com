@@ -11,8 +11,8 @@ Location                Pawling Hall, 105
 Instructor              Dan Sheffler
 Email                   daniel_sheffler@georgetowncollege.edu
 Web                     <https://sage.georgetowncollege.edu/course/view.php?id=3721>
-Schedule                <http://dansheffler.com/phi435schedule/>
-Presentations           <http://dansheffler.com/phi435presentations/>
+Schedule                <http://dtsheffler.com/phi435schedule/>
+Presentations           <http://dtsheffler.com/phi435presentations/>
 Semester                Spring 2018
 Credit Hours            3
 ----------------------- -----------------------------------------------
@@ -130,5 +130,5 @@ If you are registered to receive accommodations for a disability, please discuss
 
 ## Schedule ##
 
-(See [separate document](http://dansheffler.com/phi435schedule/) for our projected schedule of topics and readings.)
+(See [separate document](http://dtsheffler.com/phi435schedule/) for our projected schedule of topics and readings.)
 

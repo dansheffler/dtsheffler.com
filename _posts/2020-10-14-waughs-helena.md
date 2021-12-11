@@ -35,4 +35,4 @@ The Kingdom of Heaven belongs to the simple; it is *their* kingdom.  And yet...t
 
 There is also here a hope for classical culture, "the souls of my wild, blind ancestors; for their sly foe Odysseus and for the great Longinus."  This culture receives some redemption not on its own merits, but because it, like Constantine, finds some "kneeling-space" by the grace of God.
 
-![Discovery of the True Cross](http://dansheffler.com/images/Agnolo_Gaddi_-_Discovery_of_the_True_Cross_-_WGA08367.jpg)
+![Discovery of the True Cross](http://dtsheffler.com/images/Agnolo_Gaddi_-_Discovery_of_the_True_Cross_-_WGA08367.jpg)

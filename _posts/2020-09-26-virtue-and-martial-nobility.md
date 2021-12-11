@@ -13,4 +13,4 @@ I think there is something in the history of the idea of virtue that relates to 
 
 Here we see Arthegal, the ideal knight of Justice, from the court of Spencer's Faerie Queene (1590), with his sword Chrysaor, painted by John Hamilton Mortimer (1778).
 
-![Arthegal](http://dansheffler.com/images/Arthegal.jpg)
+![Arthegal](http://dtsheffler.com/images/Arthegal.jpg)

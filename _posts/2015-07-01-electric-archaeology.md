@@ -20,4 +20,4 @@ mentions, the script runs fine without this, however.)
 [Electric Archaeology]: http://electricarchaeology.ca/
 [post]: http://electricarchaeology.ca/2015/06/28/exporting-your-pdf-annotations-from-skim/
 [PDFtk]: https://www.pdflabs.com/tools/pdftk-server/
-[scripts]: http://dansheffler.com/blog/2014-07-13-skim-and-bibdesk-wrap-up/
+[scripts]: http://dtsheffler.com/blog/2014-07-13-skim-and-bibdesk-wrap-up/

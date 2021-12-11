@@ -13,9 +13,9 @@ title: PHI 325 Introduction
 
 ## What You Came Here to Get: ##
 
-- [Syllabus](http://dansheffler.com/phi325syllabus/) (dansheffler.com/phi325syllabus)
-- [Schedule](http://dansheffler.com/phi325schedule/) (dansheffler.com/phi325schedule)
-- [Presentations](http://dansheffler.com/phi325presentations/) (dansheffler.com/phi325presentations)
+- [Syllabus](http://dtsheffler.com/phi325syllabus/) (dtsheffler.com/phi325syllabus)
+- [Schedule](http://dtsheffler.com/phi325schedule/) (dtsheffler.com/phi325schedule)
+- [Presentations](http://dtsheffler.com/phi325presentations/) (dtsheffler.com/phi325presentations)
 
 (You should bookmark these and refer to the often)
 

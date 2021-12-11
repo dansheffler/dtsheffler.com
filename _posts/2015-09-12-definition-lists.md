@@ -12,8 +12,8 @@ it provides a good semantic structure for defining a proposition or
 example.  So I updated the source of my papers to reflect my own
 advice.  A good example of this is in my paper "Why Molinism Does
 not Help with the Rollback Argument."  You can see the raw source
-of this paper [here](https://raw.githubusercontent.com/dansheffler/dansheffler.com/master/_papers/Molinism-and-Rollback.md), the PDF
-output [here](http://dansheffler.com/pdfs/Molinism-and-Rollback.pdf), and the HTML output [here](http://dansheffler.com/papers/Molinism-and-Rollback.html).
+of this paper [here](https://raw.githubusercontent.com/dansheffler/dtsheffler.com/master/_papers/Molinism-and-Rollback.md), the PDF
+output [here](http://dtsheffler.com/pdfs/Molinism-and-Rollback.pdf), and the HTML output [here](http://dtsheffler.com/papers/Molinism-and-Rollback.html).
 
 To get the PDF output to style nicely, I added this to the header of the LaTeX template that I use for Pandoc:
 

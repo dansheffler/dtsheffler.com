@@ -7,7 +7,7 @@ permalink:  /phl211schedule/
 
 The following schedule is an estimation of the dates on which we will
 cover particular topics in this course. As such, it is subject to
-change. Readings marked (D) are available as PDFs in Discovery.  For the full syllabus, see [here](http://dansheffler.com/phl211syllabus/).
+change. Readings marked (D) are available as PDFs in Discovery.  For the full syllabus, see [here](http://dtsheffler.com/phl211syllabus/).
 
 For each reading a reading quiz must be completed on
 Discovery *by the day listed*.

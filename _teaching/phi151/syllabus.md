@@ -11,8 +11,8 @@ Location                Chapel 002
 Instructor              Dan Sheffler
 Email                   daniel_sheffler@georgetowncollege.edu
 Web                     <http://sage.georgetowncollege.edu/course/view.php?id=2585>
-Schedule                <http://dansheffler.com/phi151schedule/>
-Presentations           <http://dansheffler.com/phi151presentations/>
+Schedule                <http://dtsheffler.com/phi151schedule/>
+Presentations           <http://dtsheffler.com/phi151presentations/>
 Semester                Fall 2016
 Credit Hours            3
 ----------------------- -----------------------------------------------
@@ -67,7 +67,7 @@ Virtue Ethics Paper         20%
 
 The first portion of your grade will come from regular (short) reading quizzes. These will be completed on Moodle and will typically consist of five multiple-choice questions on the reading for the day. These quizzes are due before class on the day when the corresponding reading assignment is due. There is a time limit on these quizzes and they can only be taken once, so it is advisable that you complete them just as soon as you complete your reading. You will not have enough time to search the reading for the answers if you have not read it, but you may keep the reading assignment open to aid in the completion of the quiz. You will quickly find that you really must do the reading and do it quite carefully to do well on these quizzes.
 
-At the end of each unit, you will submit a short (700--1000 words) paper on Moodle analyzing and reflecting upon an ethical dillema through the lens of the system we discuss in that unit.  This paper will consist of one section (at least 350 words) that analyzes the way our author would answer a difficult ethical question and another section (at least 350 words) that presents your own argument on the same topic.  I will not accept papers that fail to meet these length requirements.  Instead, your paper will simply rack up deductions for lateness until you turn in a paper of sufficient length.  See [these instructions](http://www.dansheffler.com/phi151analysispaper/) for specific steps to getting an A and the specific rubric I use while grading.
+At the end of each unit, you will submit a short (700--1000 words) paper on Moodle analyzing and reflecting upon an ethical dillema through the lens of the system we discuss in that unit.  This paper will consist of one section (at least 350 words) that analyzes the way our author would answer a difficult ethical question and another section (at least 350 words) that presents your own argument on the same topic.  I will not accept papers that fail to meet these length requirements.  Instead, your paper will simply rack up deductions for lateness until you turn in a paper of sufficient length.  See [these instructions](http://www.dtsheffler.com/phi151analysispaper/) for specific steps to getting an A and the specific rubric I use while grading.
 
 **Grading Scale:**
 
@@ -131,5 +131,5 @@ If you are registered to receive accommodations for a disability, please discuss
 
 ## Schedule ##
 
-(See [separate document](http://dansheffler.com/phi151schedule/) for our projected schedule of topics and readings.)
+(See [separate document](http://dtsheffler.com/phi151schedule/) for our projected schedule of topics and readings.)
 

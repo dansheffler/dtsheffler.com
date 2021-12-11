@@ -13,9 +13,9 @@ title: PHI 201 Introduction
 
 ## What You Came Here to Get: ##
 
-- [Syllabus](http://dansheffler.com/phi201syllabus/) (dansheffler.com/phi201syllabus)
-- [Schedule](http://dansheffler.com/phi201schedule/) (dansheffler.com/phi201schedule)
-- [Presentations](http://dansheffler.com/phi201presentations/) (dansheffler.com/phi201presentations)
+- [Syllabus](http://dtsheffler.com/phi201syllabus/) (dtsheffler.com/phi201syllabus)
+- [Schedule](http://dtsheffler.com/phi201schedule/) (dtsheffler.com/phi201schedule)
+- [Presentations](http://dtsheffler.com/phi201presentations/) (dtsheffler.com/phi201presentations)
 - [Sage/Moodle](http://sage.georgetowncollege.edu/course/view.php?id=2584)
 
 (You should bookmark these and refer to the often)

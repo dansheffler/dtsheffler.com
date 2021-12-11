@@ -4,7 +4,7 @@ tagline: A response to Robert Hartman's proposal that Molinism provides a soluti
 author: Dan Sheffler
 date: 2013-04-15
 layout: paper
-pdf: http://dansheffler.com/pdfs/Molinism-and-Rollback.pdf
+pdf: http://dtsheffler.com/pdfs/Molinism-and-Rollback.pdf
 ---
 
 # Why Molinism Does Not Help with the Rollback Argument #

@@ -8,7 +8,7 @@ permalink:  /phi435schedule/
 
 The following schedule is an estimation of the dates on which we will
 cover particular topics in this course. As such, it is subject to
-change. Readings marked (M) are available as PDFs on Moodle.  For the full syllabus, see [here](http://dansheffler.com/phi435syllabus/).
+change. Readings marked (M) are available as PDFs on Moodle.  For the full syllabus, see [here](http://dtsheffler.com/phi435syllabus/).
 
 For each reading a reading quiz must be completed on
 Moodle *by the day listed*.

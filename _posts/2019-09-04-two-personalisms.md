@@ -1,7 +1,7 @@
 ---
 title: Two Personalisms
 tags: [Personalism, Philosophy]
-summary: We must distinguish the "Christian perosonalist" movement from what some philosophers call "theistic personalism" in contrast to "classical theism."
+summary: We must distinguish the "Christian personalist" movement from what some philosophers call "theistic personalism" in contrast to "classical theism."
 banner: twocrowns.jpg
 ---
 
@@ -24,8 +24,8 @@ If you are interested further in Christian personalism, I highly suggest reading
 
 
 
-[Platonism]: http://www.dansheffler.com/blog/2019-06-27-what-i-mean-by-platonism/
-[TheForms]: http://www.dansheffler.com/blog/2019-07-24-what-are-the-forms/
+[Platonism]: http://www.dtsheffler.com/blog/2019-06-27-what-i-mean-by-platonism/
+[TheForms]: http://www.dtsheffler.com/blog/2019-07-24-what-are-the-forms/
 [post]: http://edwardfeser.blogspot.com/2013/04/craig-on-theistic-personalism.html
 [summary]: http://www.thepersonalistproject.org/about_us
 [HildebrandProject]: http://www.hildebrandproject.org/

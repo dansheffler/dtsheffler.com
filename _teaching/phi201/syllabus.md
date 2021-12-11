@@ -1,17 +1,16 @@
 ---
-title:      PHI 201 2020 Spring Syllabus
+title:      PHI 201 2021 Spring Syllabus
 permalink:  /phi201syllabus/
 ---
 
 
 
 ----------------------- -----------------------------------------------
-Location                TBD
+Location                004 Chapel
 Instructor              Dan Sheffler
 Email                   daniel_sheffler@georgetowncollege.edu
 Semester                2021 Spring
 Credit Hours            3
-Office Hours            TR 11:00--12:45 via Zoom
 ----------------------- -----------------------------------------------
 
 

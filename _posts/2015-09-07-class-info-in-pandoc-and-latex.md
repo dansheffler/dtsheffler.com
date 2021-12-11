@@ -39,7 +39,7 @@ something like `$if(teacher)$$teacher$$endif$\\`.
 When all is done, this should produce something at the top of the
 PDF that looks like this:
 
-![Sample PDF](http://dansheffler.com/images/Screenshot 2015-09-07 12.27.51.png)
+![Sample PDF](http://dtsheffler.com/images/Screenshot 2015-09-07 12.27.51.png)
 
 Hope this helps!
 

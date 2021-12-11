@@ -1,14 +1,14 @@
 ---
-title:      PHI 152 2020 Fall Syllabus
+title:      PHI 152 2021 Spring Syllabus
 permalink:  /phi152syllabus/
 ---
 
 
 ----------------------- -----------------------------------------------
-Location                Cooke 302
+Location                Asher 131 and 219
 Instructor              Dan Sheffler
 Email                   daniel_sheffler@georgetowncollege.edu
-Semester                2020 Spring
+Semester                2021 Spring
 Credit Hours            3
 Office Hours            Zoom
 ----------------------- -----------------------------------------------
