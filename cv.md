@@ -24,7 +24,30 @@ permalink: /cv/
 - B.A., Philosophy and Classics, University of Kentucky, 2010.
 
 
-## Publications ###
+## Scholarly Publications ###
+
+"Is the True Self God at *Alcibiades* 133c?" *The International Journal of the Platonic Tradition*, June 2022. 
+
+"Morality and Situation Ethics, by Dietrich von Hildebrand, and Graven Images, by Dietrich von Hildebrand" (double review), *American Catholic Philosophical Quarterly*, Volume 94, Issue 4, Fall 2020. [https://doi.org/10.5840/acpq2020944213](https://doi.org/10.5840/acpq2020944213)
+
+"Editor's Introduction" to *Contemporary Engagement with the Philosophy of Dietrich von Hildebrand*, a special issue of *Quaestiones Disputatae*, Volume 10, Number 1, Fall 2019.  Available [here](https://muse.jhu.edu/issue/43043).
+
+"Hildebrand, Hypostasis, and the Irreducibility of Personal Existence," *Quaestiones Disputatae*, Vol 10, Number 1, Fall 2019.  Available [here](https://muse.jhu.edu/article/766787).
+
+"Bite-Sized Philosophy," review of *The Art of Living*, by Dietrich von Hildebrand, *Touchstone*, June/July 2018. Available [here](https://www.touchstonemag.com/archives/article.php?id=31-04-046-b).
+
+"Worship Becomes Us," review of *Liturgy and Personality*, by Dietrich von Hildebrand, *Touchstone*, May/June 2017.  Available [here](http://www.touchstonemag.com/archives/article.php?id=30-03-055-b).
+
+"The Metaphysics of Personhood in Plato's Dialogues" (doctoral dissertation, University of Kentucky, 2017), doi: 10.13023/ETD.2017.142.  Available [here](http://uknowledge.uky.edu/philosophy_etds/16/).
+
+
+## Popular Essays ##
+
+"*Home Colens*," *Meliora* (forthcoming).
+
+"Warrior, Knight, Gentleman, Saint," *The Classical Teacher* (forthcoming).
+
+"C.S. Lewis on Why We Should Read Old Books," *The Classical Teacher*, Spring 2022. 
 
 "Curing the Disease of the Soul," *The Classical Teacher*, Late Summer 2021.
 
@@ -34,26 +57,20 @@ permalink: /cv/
 
 "The Surprising Logic of the World," *The Classical Teacher*, Winter 2021.
 
-"Morality and Situation Ethics, by Dietrich von Hildebrand, and Graven Images, by Dietrich von Hildebrand" (double review), *American Catholic Philosophical Quarterly*, Volume 94, Issue 4, Fall 2020. [https://doi.org/10.5840/acpq2020944213](https://doi.org/10.5840/acpq2020944213)
-
-"Editor's Introduction" to *Contemporary Engagement with the Philosophy of Dietrich von Hildebrand*, a special issue of *Quaestiones Disputatae*, Volume 10, Number 1, Fall 2019.  Available [here](https://muse.jhu.edu/issue/43043).
-
-"Hildebrand, Hypostasis, and the Irreducibility of Personal Existence," *Quaestiones Disputatae*, Vol 10, Number 1, Fall 2019.  Available [here](https://muse.jhu.edu/article/766787).
+"Raising Statesmen," *Voegelin View*, August 2019.  Available [here](https://voegelinview.com/raising-statesmen/).
 
 "A Vocabulary for Worship," *Touchstone*, January/February 2019.  Available [here](https://www.touchstonemag.com/archives/article.php?id=33-01-022-v).
 
-"Raising Statesmen," *Voegelin View*, August 2019.  Available [here](https://voegelinview.com/raising-statesmen/).
-
 "Community in the Wasteland," *The Imaginative Conservative*, July 2019. Available [here](https://theimaginativeconservative.org/2019/07/community-wasteland-dan-sheffler.html).
-
-"Bite-Sized Philosophy," review of *The Art of Living*, by Dietrich von Hildebrand, *Touchstone*, June/July 2018. Available [here](https://www.touchstonemag.com/archives/article.php?id=31-04-046-b).
-
-"Worship Becomes Us," review of *Liturgy and Personality*, by Dietrich von Hildebrand, *Touchstone*, May/June 2017.  Available [here](http://www.touchstonemag.com/archives/article.php?id=30-03-055-b).
-
-"The Metaphysics of Personhood in Plato's Dialogues" (doctoral dissertation, University of Kentucky, 2017), doi: 10.13023/ETD.2017.142.  Available [here](http://uknowledge.uky.edu/philosophy_etds/16/).
 
 
 ## Invited Talks ###
+
+"The School of Regrets: Getting the Education that You Missed," Midwest Homeschool Convention, Cincinnati, April 2021.
+
+"Hero Knight Saint: The Development of Virtue," Midwest Homeschool Convention, Cincinnati, April 2021.
+
+"Blood Sacrifice and Idolatry: Why Include the Pagans in a Christian Curriculum," Midwest Homeschool Convention, Cincinnati, April 2021.
 
 "Growing Up in Church: Development of the Person in the Presence of the Holy," Hildebrand Colloquium on the Sacred, Catholic University of America, 2021.
 
@@ -67,7 +84,7 @@ permalink: /cv/
 
 "The Suffering of Job," Lexington Christian Fellowship, Lexington KY, December 2017.  [Audio](http://lcf.cfchurches.com/sermons/job/) and [Text](http://dtsheffler.com/blog/2018-02-05-job-teaching/).
 
-"Gratitude," Mars Hill Christian Academcy Graduation Address,  Lexington KY, May 2017.  [Text](http://www.dtsheffler.com/blog/2017-05-20-gratitude/).
+"Gratitude," Mars Hill Christian Academy Graduation Address,  Lexington KY, May 2017.  [Text](http://www.dtsheffler.com/blog/2017-05-20-gratitude/).
 
 "Living Latin at the University of Kentucky,"  Immaculata Classical Academy, Louisville KY, November 2016.
 

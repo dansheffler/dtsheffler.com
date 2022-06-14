@@ -10,7 +10,7 @@ I had an interesting conversation with a friend on Discord about Platonic realis
 **DT Sheffler**: Did I tell you, Philomathes, about the encounter I had the other day with a bright young philosopher?
 
 
-**Philomathes**: No. I am glad, however, to here that such encounters are still possible.  Is he one of your students at the College?
+**Philomathes**: No. I am glad, however, to hear that such encounters are still possible.  Is he one of your students at the College?
 
 
 **D**: No, I do not believe I have ever seen his face.  That wasteland, the internet, among its many evils also makes possible this good, that philosophical dialogue can take place across great stretches of space.
