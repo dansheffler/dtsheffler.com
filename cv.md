@@ -45,7 +45,7 @@ permalink: /cv/
 
 "*Home Colens*," *Meliora* (forthcoming).
 
-"Warrior, Knight, Gentleman, Saint," *The Classical Teacher* (forthcoming).
+"The Mind of a Gentleman," *The Classical Teacher*, Summer 2022.
 
 "C.S. Lewis on Why We Should Read Old Books," *The Classical Teacher*, Spring 2022. 
 
@@ -129,9 +129,13 @@ Research grant from University of Kentucky Eureka fund ($2,000), 2006.
 
 ### Memoria College ###
 
-Ethics, Spring 2022.
+Introduction to the Liberal Arts, Fall 2020, 2021, 2022.
 
-Introduction to the Liberal Arts, Fall 2020, 2021.
+The Existence of God, Summer 2022.
+
+How to Learn, Summer 2021, 2022.
+
+Ethics, Spring 2022.
 
 Introduction to the Great Books, Summer 2021.
 
