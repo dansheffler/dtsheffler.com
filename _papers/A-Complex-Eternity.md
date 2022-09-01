@@ -1,8 +1,8 @@
 ---
 title: A Complex Eternity
 tagline: A modest proposal for rethinking the dichotomy between temporalism and atemporalism with respect to God's eternity. Presented to the Society of Christian Philosophers, Georgetown University, April 2013.
-author: Dan Sheffler
-date: 2014-06-26
+author: D.T. Sheffler
+date: 2013-04-01
 layout: paper
 pdf: http://dtsheffler.com/pdfs/A-Complex-Eternity.pdf
 ---

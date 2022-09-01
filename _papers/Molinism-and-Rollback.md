@@ -1,8 +1,8 @@
 ---
 title: Why Molinism Does Not Help with the Rollback Argument
 tagline: A response to Robert Hartman's proposal that Molinism provides a solution to Peter van Inwagen's Rollback Argument. Presented to the Society of Christian Philosophers, Trinity College, March 2014.
-author: Dan Sheffler
-date: 2013-04-15
+author: D.T. Sheffler
+date: 2014-03-15
 layout: paper
 pdf: http://dtsheffler.com/pdfs/Molinism-and-Rollback.pdf
 ---

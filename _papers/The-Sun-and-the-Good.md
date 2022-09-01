@@ -1,7 +1,7 @@
 ---
 title: The Sun and the Good
 tagline: An examination of the claim that the Good is "beyond being" in *Republic* VI. Presented to the Society for Ancient Greek Philosophy, Fordham University, October 2013.
-author: Dan Sheffler
+author: D.T. Sheffler
 date: 2013-10-08
 layout: paper
 pdf: http://dtsheffler.com/pdfs/The-Sun-and-the-Good.pdf
