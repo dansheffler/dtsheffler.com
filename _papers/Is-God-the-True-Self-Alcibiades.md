@@ -1,6 +1,6 @@
 ---
 title: "Is the True Self God at First Alcibiades 133c?"
-tagline: "This essay attempts to resist a tempting line of interpretation of a key passage in Plato's *Alcibiades*, which some have read as saying that the highest aspect of the self is strictly identical with God.  The essay was originally published in *The International Journal of the Platonic Tradition* (Vol. 10, No. 1)."
+tagline: "This essay attempts to resist a tempting line of interpretation of a key passage in Plato's *Alcibiades*, which some have read as saying that the highest aspect of the self is strictly identical with God.  The essay was originally published in *The International Journal of the Platonic Tradition* (June, 2022)."
 Author: D.T. Sheffler
 date: 2022-06-07
 layout: paper
