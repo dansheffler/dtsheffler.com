@@ -1,0 +1,42 @@
+---
+title: Essays
+permalink: /essays/
+---
+
+{% for essay in site.featuredessays reversed %}
+<a class="essay-link" href="{{ essay.url | prepend: site.baseurl }}">{{ essay.title }}</a>:<div class="tagline">{{ essay.tagline | markdownify }}</div>
+<div class="source">
+    Source: 
+    <a class="source-link" href="{{ essay.path | remove: 'C:/Users/daniel.sheffler/OneDrive/Website/' | prepend: 'https://raw.githubusercontent.com/dansheffler/dtsheffler.com/master/' }}">
+        md |
+    </a>
+    {% if essay.pdf %}
+    Paper version: 
+    <a class="pdf-link" href="{{ paper.pdf }}"> pdf
+    </a>
+    | {% endif %}Permalink: 
+    <a class="permalink" href="{{ essay.url | prepend: site.baseurl }}">
+        html
+    </a>
+</div>
+{% endfor %}
+
+{% for essay in site.essays reversed %}
+<a class="essay-link" href="{{ essay.url | prepend: site.baseurl }}">{{ essay.title }}</a>:
+<div class="tagline">{{ essay.tagline | markdownify }}</div>
+<div class="source">
+	Source: 
+	<a class="source-link" href="{{ essay.path | remove: 'C:/Users/daniel.sheffler/OneDrive/Website/' | prepend: 'https://raw.githubusercontent.com/dansheffler/dtsheffler.com/master/' }}">
+	    md |
+	</a>
+	{% if essay.pdf %}
+    Paper version: 
+    <a class="pdf-link" href="{{ paper.pdf }}"> pdf
+    </a>
+    | {% endif %}Permalink: 
+    <a class="permalink" href="{{ essay.url | prepend: site.baseurl }}">
+        html
+    </a>
+</div>
+{% endfor %}
+

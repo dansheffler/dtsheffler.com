@@ -27,13 +27,19 @@ pandoc:
     flags: '-f markdown+smart --citeproc --bibliography=C:\\Users\\daniel.sheffler\\OneDrive\\Jabref\\mybib.bib --csl=C:\\Users\\daniel.sheffler\\OneDrive\\Pandoc\\default.csl'
     site-flags: '-f markdown+smart --citeproc --bibliography=C:\\Users\\daniel.sheffler\\OneDrive\\Jabref\\mybib.bib --csl=C:\\Users\\daniel.sheffler\\OneDrive\\Pandoc\\default.csl'
 markdown_ext:   markdown,mkdown,mkdn,mkd,md
-permalink:      /blog/:year-:month-:day-:title/
+permalink:      /notebook/:year-:month-:day-:title/
 encoding:       utf-8
 
 incremental: true
 
 collections:
-  papers:
+  featuredessays:
+    output: true
+    order:
+      - The-Unread-Library.md
+      - Gravitas-Dignitas-Pietas.md
+      - Growing-Up-In-Church.md
+  essays:
     output: true
   share:
     output: true

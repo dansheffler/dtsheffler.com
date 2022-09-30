@@ -5,6 +5,7 @@ Author: D.T. Sheffler
 date: 2021-10-14
 layout: paper
 pdf: http://dtsheffler.com/pdfs/Growing-Up-in-Church.pdf
+featured: true
 ---
 
 ## Growing Up in Church ##

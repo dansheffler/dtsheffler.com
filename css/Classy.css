@@ -216,11 +216,14 @@ div.banner {
 .post-date {margin-top: -1.3em; font-size: 0.9em; color: #999;}
 div.post{ margin-bottom: 5em; }
 
+.post-subtitle {margin-top: -1.3em; font-size: 0.9em; color: #999;}
+div.post{ margin-bottom: 5em; }
+
 p:last-child {
   margin-bottom: 0;
 }
 
-div.source { font-size: 0.7em; color: #999; margin-bottom: 0.2em}
+div.source { font-size: 0.7em; color: #999; margin-bottom: 1em}
 
 /* Share Buttons */
 .a2a_svg, .a2a_count { border-radius: 0 !important; }
@@ -275,6 +278,11 @@ a::-moz-selection{background:rgba(255,255,0,0.3);color:#0645ad}
 a::selection{background:rgba(255,255,0,0.3);color:#0645ad}
 
 a.previous { float: right; }
+
+a.essay-link {
+    font-weight: bold;
+    margin-top: .5em;
+}
 
 p{
 margin:1em 0;

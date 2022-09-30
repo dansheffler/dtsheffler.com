@@ -4,77 +4,43 @@ regenerate: true
 ---
 
 <div class="home">
-
-{% for post in site.posts limit:10 %}
-<div class="post">
-    {% if post.banner %}
-    <div class="banner">
-      <img class="bannerimg" src="{{ site.baseurl }}/banners/{{ post.banner }}">
+  <div class="banner">
+    <img class="bannerimg" src="{{ site.baseurl }}/banners/dureranthony.jpg">
+  </div>
+  <header class="post-header">
+    <h2>Featured Essays</h2>
+  </header>
+  <div class="post-subtitle">The Best of D.T. Sheffler</div>
+  <div class="featured-articles">
+    {% for essay in site.featuredessays reversed %}
+      <a class="essay-link" href="{{ essay.url | prepend: site.baseurl }}">{{ essay.title }}</a>:<div class="tagline">{{ essay.tagline | markdownify }}</div>
+      <div class="source">
+          Source: 
+          <a class="source-link" href="{{ essay.path | remove: 'C:/Users/daniel.sheffler/OneDrive/Website/' | prepend: 'https://raw.githubusercontent.com/dansheffler/dtsheffler.com/master/' }}">
+              md |
+          </a>
+          {% if essay.pdf %}
+          Paper version: 
+          <a class="pdf-link" href="{{ paper.pdf }}"> pdf
+          </a>
+          | {% endif %}Permalink: 
+          <a class="permalink" href="{{ essay.url | prepend: site.baseurl }}">
+              html
+          </a>
+      </div>
+    {% endfor %}
+  <header class="post-header">
+    <h2>Featured Videos</h2>
+  </header>
+  <div class="featured-articles">
+    <div class="auto-resizable-iframe">
+      <div>
+        <iframe width="100%" height="100%" src="https://www.youtube.com/embed/axfw_MN4QHI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      </div>
+      <div class="auto-resizable-iframe">
+        <div>
+          <iframe width="100%" height="100%" src="https://www.youtube.com/embed/1ysLehmdVQI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        </div>
+      </div>
     </div>
-    {% endif %}
-    <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-    <div class="post-date">{{ post.date | date: "%-d %B %Y" }}</div>
-    <div class="post-content">
-    {{ post.excerpt }} 
-    {% capture content_words %} 
-      {{ post.content | number_of_words }} 
-    {% endcapture %} 
-    {% capture excerpt_words %} 
-      {{ post.excerpt | number_of_words }} 
-    {% endcapture %} 
-    {% if excerpt_words != content_words %}
-    <p><a class="more-link" href="{{ post.url | prepend: site.baseurl }}">Read more...</a>
-    </p>
-    {% endif %}
-    </div>
-    <div class="source">
-        Source: 
-        <a class="source-link" href="{{ post.path | remove: 'C:/Users/daniel.sheffler/OneDrive/Website/' | prepend: 'https://raw.githubusercontent.com/dansheffler/dtsheffler.com/master/' }}">
-            md
-        </a>
-        | Permalink: 
-        <a class="permalink" href="{{ post.url | prepend: site.baseurl }}">
-            html
-        </a>
-        | Tags: 
-        <ul class="tags">
-        {% for tag in post.tags %}
-          <li class="tags">
-            <a href="{{ site.baseurl }}/tags/{{ tag }}" class="tag">{{tag}}</a>
-          </li>
-        {% endfor %}
-        </ul>
-    </div>
-    <!-- AddToAny BEGIN -->
-    <div class="a2a_kit a2a_default_style" data-a2a-url="{{ post.url | prepend: site.baseurl }}" data-a2a-title="{{ post.title }}">
-    <a class="a2a_dd" href="{{ post.url | prepend: site.baseurl }}"></a>
-    <a class="a2a_button_facebook"></a>
-    <a class="a2a_button_twitter"></a>
-    <a class="a2a_button_email"></a>
-    </div>
-    <!-- AddToAny END -->
-</div>
-
-{% endfor %}
-
-<!-- Pagination links -->
-<!-- <div class="pagination">
-  {% if paginator.previous_page %}
-    {% if paginator.previous_page ==1 %}
-      <a href="{{ site.url }}" class="previous">Newer Posts</a>
-    {% else %}
-      <a href="/page{{ paginator.previous_page }}" class="previous">Newer Posts</a>
-    {% endif %}
-  {% endif %}
-  {% if paginator.next_page %}
-    <a href="/page{{ paginator.next_page }}" class="next">Older Posts</a>
-  {% endif %}
-</div> -->
-
-
-
-
-
-
-
 </div>
