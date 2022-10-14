@@ -1,6 +1,6 @@
 ---
 layout: tag_index
 regenerate: true
-title: "Tag: Reading"
-tag: Reading
+title: "Tag: Love"
+tag: Love
 ---

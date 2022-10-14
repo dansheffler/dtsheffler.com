@@ -3,6 +3,12 @@ title: D.T. Sheffler
 permalink: /cv/
 ---
 
+<div class="banner">
+<img class="bannerimg" src="{{ site.baseurl }}/banners/twoangels.jpg">
+</div>
+<div class="rule"></div>
+
+
 ## D.T. Sheffler ##
 
 - Professor of Philosophy, Memoria College.

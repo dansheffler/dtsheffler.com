@@ -208,10 +208,11 @@ header.site-header .wrap {
 .site-title:hover{ color: #d81111; }
 
 
-div.banner {
+/*div.banner {
   padding-bottom: 0.8em;
   border-bottom: 2px solid #d81111;
 }
+*/
 
 .post-date {margin-top: -1.3em; font-size: 0.9em; color: #999;}
 div.post{ margin-bottom: 5em; }
@@ -279,10 +280,6 @@ a::selection{background:rgba(255,255,0,0.3);color:#0645ad}
 
 a.previous { float: right; }
 
-a.essay-link {
-    font-weight: bold;
-    margin-top: .5em;
-}
 
 p{
 margin:1em 0;
@@ -299,6 +296,8 @@ p.summary {
 
 img{
 max-width:100%;
+display: block;
+margin: 0 auto;
 }
 
 img.float_right {
@@ -552,11 +551,15 @@ body{font-size:1.1em;}
 
   #toc{display:none;}
   #toc-show-hide{display:none;}
+
+
 }
 
-@media (max-width: 350px) {
+
+
+@media (max-width: 470px) {
   body{
-    font-size:0.6em;
+    font-size:0.7em;
     margin: 1.5em;
     font-family: 'Libre Baskerville';
     }
@@ -565,6 +568,8 @@ body{font-size:1.1em;}
 
   #toc{display:none;}
   #toc-show-hide{display:none;}
+  header.site-header{font-size: 0.8em}
+  .mc-field-group{font-size: 0.8em}
 }
 
 .search-entry p {
@@ -602,3 +607,87 @@ body{font-size:1.1em;}
   h2, h3 { page-break-after: avoid; }
 }
 */
+
+.rule {
+    display: block;
+    clear: both;
+    width: 100%;
+    border-top: 2px solid #d81111;
+    margin-top: 0.8em;
+    margin-bottom: 0.8em;
+}
+
+
+/**** Index ****/
+
+.two-column {
+    font-size: .8em;
+    line-height: 1.1em;
+}
+
+.two-column .featured-articles {
+    float: left;
+    width: 47%;
+}
+
+.two-column .latest-articles {
+    float: right;
+    width: 47%;
+}
+
+a.index-link {
+    font-weight: bold;
+    margin-top: .5em;
+}
+
+/**** Newsletter ****/
+
+.newsletter {
+    width: 100%;
+}
+
+.newletter h2 {
+    margin-top: .2em;
+    margin-bottom: 0;
+}
+
+/**** Mailchip ****/
+
+#mc_embed_signup .mc-field-group {
+    float: left;
+    margin-right: 1em;
+    height:  2em;
+    font-size: 1em;
+    margin-bottom: 1em;
+}
+
+#mc-embedded-subscribe-form {
+    padding: 0;
+    font-size: 1em;
+}
+
+#mc_embed_signup div.mc-field-group label {
+    float: left;
+    vertical-align: bottom;
+    height: 2em;
+    padding-right: 0.5em;
+    margin-top: 0.5em;
+    font-size: 1em;
+}
+
+#mc_embed_signup div.mc-field-group input {
+    float: left;
+    height: 100%;
+    border: 0;
+    padding: 0;
+    background: #ddd;
+    margin: 0;
+    font-size: 1em;
+}
+
+#mc_embed_signup input.button{
+    float: left;
+    height: 2em;
+    padding: 0 5px;
+    font-size: 1em;
+}

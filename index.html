@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: nonewsletter
 regenerate: true
 ---
 
@@ -7,32 +7,67 @@ regenerate: true
   <div class="banner">
     <img class="bannerimg" src="{{ site.baseurl }}/banners/dureranthony.jpg">
   </div>
-  <header class="post-header">
-    <h2>Featured Essays</h2>
+  <div class="rule"></div>
+
+
+  <div class="two-column">
+    <div class="featured-articles">
+    <header class="index-header">
+      <h2>Featured Essays</h2>
+    </header>
+      {% for essay in site.featuredessays limit:3 %}
+        <a class="index-link" href="{{ essay.url | prepend: site.baseurl }}">{{ essay.title }}</a>:<div class="tagline">{{ essay.tagline | markdownify }}</div>
+        <div class="source">
+            Source: 
+            <a class="source-link" href="{{ essay.path | remove: 'C:/Users/daniel.sheffler/OneDrive/Website/' | prepend: 'https://raw.githubusercontent.com/dansheffler/dtsheffler.com/master/' }}">
+                md
+            </a> |
+            {% if essay.pdf %}
+            Paper version: 
+            <a class="pdf-link" href="{{ paper.pdf }}"> pdf
+            </a>
+            | {% endif %}Permalink: 
+            <a class="permalink" href="{{ essay.url | prepend: site.baseurl }}">
+                html
+            </a>
+        </div>
+      {% endfor %}
+    </div>
+
+    <div class="latest-articles">
+      <header class="index-header">
+        <h2>Latest Posts</h2>
+      </header>
+      {% for post in site.posts limit:3 %}
+        <a class="index-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>:<div class="tagline">{{ post.summary | markdownify }}</div>
+        <div class="source">
+            Source: 
+            <a class="source-link" href="{{ post.path | remove: 'C:/Users/daniel.sheffler/OneDrive/Website/' | prepend: 'https://raw.githubusercontent.com/dansheffler/dtsheffler.com/master/' }}">
+                md
+            </a> |
+            Permalink: 
+            <a class="permalink" href="{{ post.url | prepend: site.baseurl }}">
+                html
+            </a>
+        </div>
+      {% endfor %}
+    </div>
+  </div>
+
+  {% include newsletter.html %}
+
+  <header class="index-header">
+    <h2>Notebook</h2>
   </header>
-  <div class="post-subtitle">The Best of D.T. Sheffler</div>
-  <div class="featured-articles">
-    {% for essay in site.featuredessays reversed %}
-      <a class="essay-link" href="{{ essay.url | prepend: site.baseurl }}">{{ essay.title }}</a>:<div class="tagline">{{ essay.tagline | markdownify }}</div>
-      <div class="source">
-          Source: 
-          <a class="source-link" href="{{ essay.path | remove: 'C:/Users/daniel.sheffler/OneDrive/Website/' | prepend: 'https://raw.githubusercontent.com/dansheffler/dtsheffler.com/master/' }}">
-              md
-          </a> |
-          {% if essay.pdf %}
-          Paper version: 
-          <a class="pdf-link" href="{{ paper.pdf }}"> pdf
-          </a>
-          | {% endif %}Permalink: 
-          <a class="permalink" href="{{ essay.url | prepend: site.baseurl }}">
-              html
-          </a>
-      </div>
-    {% endfor %}
-  <header class="post-header">
+  <div class="notebook-description">
+  <p>If you would like to browse past essays from the <a href="{{ site.baseurl }}/notebook/">Notebook</a>, you can see the big chronological list in the <a href="{{ site.baseurl }}/archive/">Archive</a> or you can browse through the list of <a href="{{ site.baseurl }}/tags/">Tags</a>.  In this notebook you can read my attempts to work out my ideas in a public space before they make it into the longer and more polished <a href="{{ site.baseurl }}/essays/">Essays</a>.</p>
+</div>
+<div class="rule"></div>
+
+  <div class="featured-videos">
+  <header class="index-header">
     <h2>Featured Videos</h2>
   </header>
-  <div class="featured-articles">
     <div class="auto-resizable-iframe">
       <div>
         <iframe width="100%" height="100%" src="https://www.youtube.com/embed/axfw_MN4QHI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -43,4 +78,5 @@ regenerate: true
         </div>
       </div>
     </div>
+  </div>
 </div>

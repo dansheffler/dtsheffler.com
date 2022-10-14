@@ -3,6 +3,12 @@ title: Essays
 permalink: /essays/
 ---
 
+<div class="banner">
+    <img class="bannerimg" src="{{ site.baseurl }}/banners/entrancetolearning.jpg">
+</div>
+<div class="rule"></div>
+
+
 {% for essay in site.featuredessays reversed %}
 <a class="essay-link" href="{{ essay.url | prepend: site.baseurl }}">{{ essay.title }}</a>:<div class="tagline">{{ essay.tagline | markdownify }}</div>
 <div class="source">

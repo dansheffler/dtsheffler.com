@@ -6,12 +6,26 @@ permalink: /notebook/
 
 <div class="home">
 
+  <div class="banner">
+    <img class="bannerimg" src="{{ site.baseurl }}/banners/griffon.jpg">
+  </div>
+  <div class="rule"></div>
+
+<header class="index-header">
+  <h2>Notebook</h2>
+</header>
+<div class="notebook-description">
+  <p>If you would like to browse past essays from the Notebook, you can see the big chronological list in the <a href="{{ site.baseurl }}/archive/">Archive</a> or you can browse through the list of <a href="{{ site.baseurl }}/tags/">Tags</a>.  In this notebook you can read my attempts to work out my ideas in a public space before they make it into the longer and more polished <a href="{{ site.baseurl }}/essays/">Essays</a>.  If you are interested in receiving such writing along with my favorite art of the week straight to your inbox, you can join our cultural cadre by subsribing to the <a href="{{ site.baseurl }}/newsletter/">Newsletter</a>.</p>
+</div>
+<div class="rule"></div>
+
 {% for post in site.posts limit:10 %}
 <div class="post">
     {% if post.banner %}
     <div class="banner">
       <img class="bannerimg" src="{{ site.baseurl }}/banners/{{ post.banner }}">
     </div>
+    <div class="rule"></div>
     {% endif %}
     <h2><a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
     <div class="post-date">{{ post.date | date: "%-d %B %Y" }}</div>

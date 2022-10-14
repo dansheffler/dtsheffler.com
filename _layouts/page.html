@@ -6,9 +6,11 @@ layout: default
   <div class="banner">
     <img class="bannerimg" src="{{ site.baseurl }}/banners/{{ page.banner }}">
   </div>
+  <div class="rule"></div>
   {% endif %}
   <article class="post-content">
   {{ content }}
+  {% include newsletter.html %}
   </article>
 </div>
 </div>

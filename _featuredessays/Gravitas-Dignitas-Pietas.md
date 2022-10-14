@@ -8,6 +8,8 @@ layout: paper
 pdf: http://dtsheffler.com/pdfs/Growing-Up-in-Church.pdf
 ---
 
+## Gravitas, Dignitas, Pietas ##
+
 *This essay was originally published as "A Vocabulary for Worship" in the January/February 2019 issue of* Touchstone *.*
 
 If any people in history knew it, the Romans knew how to be serious over serious things.  Next to the cultured poets and philosophers of Athens, the Romans saw themselves as a race of soldiers and farmers.  The religious rites that Numa instituted early in Rome's history cultivated a deep reverence for ancestry and custom, for bonds between neighbors, and for those boundaries that designate and hallow sacred ground.  Roman law reflected a concern for those spaces that must not be violated, whether they be in a temple, a city, a house, or a man's soul.  This gravity, admittedly, came along with an almost unbelievable degree of cruelty, and when the Romans did violate that which they knew to be sacred, they were capable of a kind of blasphemy which Anton LaVey only childishly imitates.  As Rome turned to the light of the gospel, however, that old Roman spirit with its old Roman language bequeathed to the rising Christian civilization a vocabulary of religion.  Indeed, the word *religio* can scarcely be translated anymore because what it signified to the Latin mind---a whole nexus of ritual and feeling that binds a community together---will strike modern secular society as nothing but a silly costume party.  This society knows how to be flippant over serious things, but where it sees its flippancy as characteristic of enlightenment, its Roman forebears would have seen it as characteristic of nothing but barbarism.<!--more-->

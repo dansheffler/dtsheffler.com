@@ -1,6 +1,6 @@
 ---
 layout: tag_index
 regenerate: true
-title: "Tag: books"
-tag: books
+title: "Tag: Books"
+tag: Books
 ---

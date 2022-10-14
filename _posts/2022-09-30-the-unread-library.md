@@ -1,6 +1,6 @@
 ---
 title: The Unread Library
-tags: [essay, books, reading]
+tags: [Books, Reading, Culture]
 summary: "The only thing preventing me from reading every volume in my library is my death. It may come soon, in which case the number of unread volumes will be quite large. It may come many decades from now, in which case the number will be many times larger."
 banner: dureranthony.jpg
 ---
@@ -12,6 +12,8 @@ I fear you will think this situation arises because I never read, but I assure y
 
 The unread volumes surround me.  I enjoy their companionship.  They whisper to me pleasant invitations.  They sometimes chide and even scold, but I enjoy the bracing effect of these communications too.  They are not bigots; they mix company amicably enough with the minority population of books that I *have* read.  I suppose I am the bigot, though, since I have a definite prejudice in favor of the majority.
 
+![]({{ site.baseurl }}/images/MunchReading.jpg)
+
 I rarely read a book a second time.  I read slowly the first time and savor every paragraph, treasuring up what I can permanently store in my heart, if the book is any good.  If the book is very good, I will read it ten times: Plato's *Symposium*, the *Four Quartets* or *Brideshead*, for example.  But such books are rare because the price of a second read is the first read of something else.
 
 I am a greedy socialite.  I would prefer to make a friendship out of a half-known charming acquaintance than to deepen a friendship with a book that I found merely charming.  I have my circle of intimates, but they are a snobbish clique.
@@ -22,7 +24,6 @@ There is more than a hint of financial irresponsibility in all this.  Can one re
 
   [^ek]: *Statimque ut pecuniam accepero, Graecos primum autores, deinde vestes emam*.
 
-![Erasmus]({{ site.baseurl }}/images/HolbeinErasmus.jpg)
 
 How dull life would be if it were not like this.  Imagine the sadness that would follow if one actually came to the end of ones books.  Having read them all, what then?  One could, I suppose, circle back around and cover the same ground again, but the nature of the territory would be changed because known.  A certain kind of adventure only happens the first time, and the sense of all the first times still to come gives our journey hope, excitement, mystery, and a certain elan.  Even the familiar meadow gains in richness when the unexplored forest stands behind it.
 
