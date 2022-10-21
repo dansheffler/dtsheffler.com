@@ -40,8 +40,10 @@ The purpose of this snippet is to list all the tags you have in your site.
 =======================
 {% endcomment %}
 <h2>Tags</h2>
+<div class="dynamic-two-column">
 <ul>
 {% for tag in tags %}
     <li><a href="{{ site.baseurl }}/tags/{{ tag }}" class="tag">{{tag}}</a></li>
 {% endfor %}
 </ul>
+</div>

@@ -625,6 +625,13 @@ body{font-size:1.1em;}
     line-height: 1.1em;
 }
 
+.dynamic-two-column {
+    column-count: 2;
+}
+
+.dynamic-two-column ul {
+    margin-block-start: 0;
+}
 .two-column .featured-articles {
     float: left;
     width: 47%;
