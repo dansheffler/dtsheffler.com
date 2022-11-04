@@ -18,7 +18,7 @@ permalink: /essays/
     </a> |
     {% if essay.pdf %}
     Paper version: 
-    <a class="pdf-link" href="{{ paper.pdf }}"> pdf
+    <a class="pdf-link" href="{{ essay.pdf }}"> pdf
     </a>
     | {% endif %}Permalink: 
     <a class="permalink" href="{{ essay.url | prepend: site.baseurl }}">
@@ -37,7 +37,7 @@ permalink: /essays/
 	</a> |
 	{% if essay.pdf %}
     Paper version: 
-    <a class="pdf-link" href="{{ paper.pdf }}"> pdf
+    <a class="pdf-link" href="{{ essay.pdf }}"> pdf
     </a>
     | {% endif %}Permalink: 
     <a class="permalink" href="{{ essay.url | prepend: site.baseurl }}">

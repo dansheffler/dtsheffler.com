@@ -15,7 +15,7 @@ regenerate: true
     <header class="index-header">
       <h2>Featured Essays</h2>
     </header>
-      {% for essay in site.featuredessays limit:3 %}
+      {% for essay in site.featuredessays reversed limit:3 %}
         <a class="index-link" href="{{ essay.url | prepend: site.baseurl }}">{{ essay.title }}</a>:<div class="tagline">{{ essay.tagline | markdownify }}</div>
         <div class="source">
             Source: 
@@ -24,7 +24,7 @@ regenerate: true
             </a> |
             {% if essay.pdf %}
             Paper version: 
-            <a class="pdf-link" href="{{ paper.pdf }}"> pdf
+            <a class="pdf-link" href="{{ essay.pdf }}"> pdf
             </a>
             | {% endif %}Permalink: 
             <a class="permalink" href="{{ essay.url | prepend: site.baseurl }}">

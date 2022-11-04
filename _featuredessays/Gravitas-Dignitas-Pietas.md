@@ -5,10 +5,9 @@ tagline: If any people in history knew it, the Romans knew how to be serious ove
 Author: D.T. Sheffler
 date: 2021-06-09
 layout: paper
-pdf: http://dtsheffler.com/pdfs/Growing-Up-in-Church.pdf
+pdf: http://dtsheffler.com/pdfs/Gravitas-Dignitas-Pietas.pdf
 ---
 
-## Gravitas, Dignitas, Pietas ##
 
 *This essay was originally published as "A Vocabulary for Worship" in the January/February 2019 issue of* Touchstone *.*
 
