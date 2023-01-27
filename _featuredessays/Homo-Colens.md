@@ -1,12 +1,16 @@
 ---
 title: Homo Colens
-tagline: "It is easy to think that this incremental move away from bare survival in the woods is a move away from nature.  But culture is natural to man because human nature is to cultivate, in all the senses of that word's root, the Latin word colo: to till the soil, to reap the fruits, to inhabit the same estate generation after generation, to devote oneself to the perfecting of something beautiful, to worship.  Man is the cultural animal.  We are Homo Colens."
+tagline: "It is easy to think that the incremental move away from bare survival in the woods is a move away from nature.  But culture is natural to man because human nature is to cultivate, in all the senses of that word's root, the Latin word colo: to till the soil, to reap the fruits, to inhabit the same estate generation after generation, to devote oneself to the perfecting of something beautiful, to worship.  Man is the cultural animal.  We are Homo Colens."
 author: D.T. Sheffler
 date: 2022-11-04
 layout: paper
 pdf: http://dtsheffler.com/pdfs/Homo-Colens.pdf
 featured: true
 ---
+
+## Homo Colens ##
+
+
 
 I would like to see fewer biographies of great individuals and more biographies of great families or villages.  We tend to overrate the singular man of original genius, while ignoring the slow accumulation of culture built up layer upon layer, century upon century, that makes the individual man of genius possible in the first place.  Only so much culture can be gained in a single generation.  If I may steal a metaphor from Joseph Epstein's essay, "The Ideal of Culture," who steals in turn from Willa Cather's novel, *Death Comes for the Archbishop*, culture is like the onion and crouton soup served to Bishop Latour by his friend, Father Vaillant.  Only a Frenchman could make such a soup, which leads Latour to say,
 

@@ -4,7 +4,7 @@ permalink: /about/
 ---
 
 <div class="banner">
-<img class="bannerimg" src="{{ site.baseurl }}/banners/twocrowns.jpg">
+<img class="bannerimg" src="{{ site.baseurl }}/banners/anvil.jpg">
 </div>
 <div class="rule"></div>
 
