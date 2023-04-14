@@ -1,0 +1,40 @@
+---
+title: The Logic of the World
+tags: [Philosophy, Greek, Logos]
+summary: 'The study of logic is the study of that which makes sense, the study of those structures that necessarily must be for things to hang together without contradiction.  The Greeks called the intelligible structure of something its "logos," and this is where we get our word.  These necessary structures, these "logoi," are not things that we make up in our heads or record in our books.  They are all around us, everywhere, the basic fabric of the world we inhabit.'
+banner: fruit.jpg
+---
+
+A logic teacher sometimes encounters the complaint that logic is not useful, that being so abstract, it is detached from the real issues of life.  The student must memorize names, in Latin of course, for basic patterns, and the examples of these patterns all seem to involve Socrates somehow.  Students are made to work through exercises that they sometimes feel are repetitive, boring, abstruse, inane, pedantic, and in a word, pointless.
+
+Since readers of this essay are likely to be involved in the movement to renew the classical spirit in education, I hope I can rely upon you to feel a certain hard-nosed response to all this. The sometimes tedious labor of working through the patterns of various syllogisms produces in the student a virtuous habit of mind that remains even when "Felapton" and "Baroco" have faded from memory in adulthood.  While I certainly support this hard-nosed response, I want to encourage an additional, deeper kind of response.  Students are only bored when they are not filled with wonder.  They are not filled with wonder when they study logic because they do not yet see---because no one has yet taught them to see---that logic is a kind of worship.<!--more-->
+
+The study of logic is the study of that which makes sense, the study of those structures that necessarily *must* be for things to hang together without contradiction.  The Greeks called the intelligible structure of something its "logos," and this is where we get our word.  These necessary structures, these "logoi," are not things that we make up in our heads or record in our books.  They are all around us, everywhere, the basic fabric of the world we inhabit.  Consider this example, which while literary, is not abstract nor detached from the issues of real life that press upon our teenage students:
+
+- (Premise) Whoever would be a good match for Juliette would not ruin her life.
+- (Premise) Romeo *will* ruin her life.
+- (Conclusion) Therefore, Romeo must not really be a good match for Juliette.
+
+This is an example of the basic structure *Modus Tollens* combined with an inference from the general, "whoever," to the particular, "Romeo." We can express the basic underlying structure of this scenario, the "logos," in this way:
+
+- (Premise) If P, then Q.
+- (Premise) Not Q.
+- (Conclusion) Therefore, not P.
+
+But why should this be so?  Why cannot Juliette say, "Well, I admit the first premise in general, and I admit the second premise as a matter of fact, but because I'm a foolish teenager in love I nevertheless believe that Romeo is *the One*"?  Certainly she *can* say such a thing and many foolish teenagers in similar circumstances *have* said such things, but reality has a way of digging in its heals.  One may even define "reality" as that which pushes back against our private fantasy: the cliff, the ground, and the laws of gravity.
+
+Provided that the first and second premises both indicate real facts, the conclusion necessarily represents a real fact too.  This happens because reality itself is internally consistent and the logical patterns that we identify with archaic sounding Latin names are neither archaic nor Latin---they are simply the real texture of the objective world.
+
+![]({{ site.baseurl }}/images/Chess.jpg)
+
+Perhaps we do not find such things surprising because we take for granted the consistency and structure of the world.  Our whole life long we have based all our actions on the assumption that the world will not contradict itself.  We fall into the habit of this easy familiarity.  We simply take for granted that, if all fresh eggs are edible, and this is a fresh egg, then I can eat it for breakfast.  We do not pause to notice the deep mystery of the world implicit in such an easy move.  We simply cook our egg.  We take for granted that, when we reach for the door knob, our front door will not open out onto an abyss of meaningless absurdity.  But in the right frame of mind, one can pause to find it beautiful that the door should open---every morning---onto the same, consistent, structured, intelligible, world.
+
+A similar thing is true of mathematics, which of course is but the quantitative mode of logic.  Is it not surprising that we can use this human system of symbols to send men to the moon?  That our intelligence has grasped the objective system of things so nearly that we can put a band of men into a tiny can, hurl them into the void, set them just so into an orbit around the ever-changing goddess, and expect---because of our deep faith in the intelligible orderliness and consistency of the cosmos---that they will come safely home?  Is it not surprising that our mathematical representations of orbital mechanics should match so precisely to the actual way of things?
+
+In the *Theaetetus*, Socrates says that this kind of awe-filled surprise is characteristic of the philosopher.  He calls it *wondering* and claims that "this is where philosophy begins and nowhere else" (155d, trans. M. J. Levett).  By "philosophy" Socrates does not mean a department at the university.  Instead, he means a way of life devoted to the whole-hearted pursuit of wisdom.  This pursuit is quickened, he tells us, when we pause to gape in happy gratitude at the previously ignored fact that our world is not absurd, that all things hang together because they are governed by a coherent order.  We are fired in our pursuit especially when we wonder (as the previous examples in the passage suggest), at the way that the intelligible system of the world exceeds the little system of concepts that we have hitherto come up with.  We long to learn more and in our longing pursue the prize of wisdom not because we think we already know but because we know that we do not.  This chase involves a kind of faith, implicit in every kind of science.  We must trust that the undiscovered aspects of the world are nevertheless discoverable, that they are governed by coherent, intelligible principles even when we have not yet worked it all out.
+
+But why should we have this faith?  Where did all this orderliness and consistency come from?  For us to have faith that the universe has a meaningful structure beyond the little system of what we have already grasped, we must ultimately have faith in the origin of this meaning.  The idea that the whole thing hangs together in elegant, meaningful harmony just by chance beggars belief.  Through this line of thinking, we may not get to all the specific details of Christianity, but we certainly get to a transcendent divine source for the meaning of the world, what the Greeks would call *the* Logos with a capital Lambda.  The consistency, universality, and necessity of logic point to a deep mystery, perhaps the deepest, most mysterious truth I know: "In the beginning was the Logos, and the Logos was with God, and the Logos was God."
+
+All this requires a response on our part; only the cold, calculating type of logician so frequently encountered in popular imagination would look into this mystery without falling to his knees.  What begins in philosophical wonder must, in the end, transform into religious worship.  But this worship is not just something we do after logic class is done.  The very process of conforming our minds to the orderly patterns of logic is itself a mode of worshiping God the Logos---or it can be if we let it.  And when we do, our logic class may become, by the grace of God, a kind of liturgy.
+
+*This essay was originally published in the Classical Teacher.*
