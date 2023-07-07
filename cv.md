@@ -51,6 +51,8 @@ permalink: /cv/
 
 "*Home Colens*," *Meliora* (forthcoming).
 
+"Libraries and Laboratories," *The Classical Teacher*, Summer 2023.
+
 "The Mind of a Gentleman," *The Classical Teacher*, Summer 2022.
 
 "C.S. Lewis on Why We Should Read Old Books," *The Classical Teacher*, Spring 2022. 

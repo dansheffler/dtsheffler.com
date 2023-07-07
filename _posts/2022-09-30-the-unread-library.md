@@ -25,7 +25,7 @@ There is more than a hint of financial irresponsibility in all this.  Can one re
   [^ek]: *Statimque ut pecuniam accepero, Graecos primum autores, deinde vestes emam*.
 
 
-How dull life would be if it were not like this.  Imagine the sadness that would follow if one actually came to the end of ones books.  Having read them all, what then?  One could, I suppose, circle back around and cover the same ground again, but the nature of the territory would be changed because known.  A certain kind of adventure only happens the first time, and the sense of all the first times still to come gives our journey hope, excitement, mystery, and a certain elan.  Even the familiar meadow gains in richness when the unexplored forest stands behind it.
+How dull life would be if it were not like this.  Imagine the sadness that would follow if one actually came to the end of one's books.  Having read them all, what then?  One could, I suppose, circle back around and cover the same ground again, but the nature of the territory would be changed because known.  A certain kind of adventure only happens the first time, and the sense of all the first times still to come gives our journey hope, excitement, mystery, and a certain elan.  Even the familiar meadow gains in richness when the unexplored forest stands behind it.
 
 No, I will keep buying more books, and I will keep buying them faster than I can read them until the Lord takes me.  I will savor their invitations and their whispers will be my muse.
 
