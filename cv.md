@@ -14,6 +14,7 @@ permalink: /cv/
 - Professor of Philosophy, Memoria College.
 - Associated Scholar, Hildebrand Project.
 
+
 ## Specialization and Competence ###
 
 **Specialization**:
@@ -21,6 +22,7 @@ permalink: /cv/
 
 **Competence**:
     Medieval Philosophy, Philosophy of Religion, History of Ideas, Ethics, and Political Philosophy.
+
 
 ## Education ###
 
