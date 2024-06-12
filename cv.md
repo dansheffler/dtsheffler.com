@@ -34,7 +34,9 @@ permalink: /cv/
 
 ## Scholarly Publications ###
 
-"Is the True Self God at *Alcibiades* 133c?" *The International Journal of the Platonic Tradition*, June 2022. 
+"Is the True Self God at *Alcibiades* 133c?" *The International Journal of the Platonic Tradition*, June 2022. Available [here](https://www.dtsheffler.com/pdfs/Alcibiades.pdf).
+
+"Ethics by Dietrich von Hildebrand" (review), *The Review of Metaphysics*, Volume 75, Number 2, December 2021.  Available [here](https://muse.jhu.edu/article/839043).
 
 "Morality and Situation Ethics, by Dietrich von Hildebrand, and Graven Images, by Dietrich von Hildebrand" (double review), *American Catholic Philosophical Quarterly*, Volume 94, Issue 4, Fall 2020. [https://doi.org/10.5840/acpq2020944213](https://doi.org/10.5840/acpq2020944213)
 
@@ -75,6 +77,10 @@ permalink: /cv/
 
 
 ## Invited Talks ###
+
+"The Shining World: Introduction to the Philosophy of Dietrich von Hildebrand," Immaculata Classical Academy, Louisville, October 2023.
+
+"Mediating Institutions and Hildebrandian Value Response," Dallas Willard and Dietrich von Hildebrand Colloquium, Santa Barbara, June 2023.
 
 "The School of Regrets: Getting the Education that You Missed," Midwest Homeschool Convention, Cincinnati, April 2021.
 
