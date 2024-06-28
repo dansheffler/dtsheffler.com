@@ -6,7 +6,7 @@ banner: armor.jpg
 ---
 
 
-In [the last essay]({{ site.baseurl }}/notebook/2024-06-07-sensibles-and-intelligibles/), we discussed the difficulties with the Greek words that are often translated as "form" and why we should resist the temptation to reify "the Forms" into a class of super-objects in a distant heaven somewhere.  Instead, I argued that we could translate the synonyms εἶδος (*eidos*) and ἰδέα (*idea*) as the "look" or "character" of something that allows us to mentally grasp *what something is*, i.e. its *peculiar style of being*.
+In [the last essay]({{ site.baseurl }}/notebook/2024-06-14-the-language-of-the-forms/), we discussed the difficulties with the Greek words that are often translated as "form" and why we should resist the temptation to reify "the Forms" into a class of super-objects in a distant heaven somewhere.  Instead, I argued that we could translate the synonyms εἶδος (*eidos*) and ἰδέα (*idea*) as the "look" or "character" of something that allows us to mentally grasp *what something is*, i.e. its *peculiar style of being*.
 
 I mentioned that, despite so much talk about "Plato's Theory of the Forms," he rarely uses these words and he never straight-forwardly gives us a theory in any dialogue.  Nevertheless, he does occasionally use these terms, and in this essay, we will examine two critical passages from relatively early dialogues in which he does so.<!--more-->
 
