@@ -1,14 +1,14 @@
 ---
-title: Homo Colens
+title: The Cultivating Animal
 tagline: "It is easy to think that the incremental move away from bare survival in the woods is a move away from nature.  But culture is natural to man because human nature is to cultivate, in all the senses of that word's root, the Latin word colo: to till the soil, to reap the fruits, to inhabit the same estate generation after generation, to devote oneself to the perfecting of something beautiful, to worship.  Man is the cultural animal.  We are Homo Colens."
 author: D.T. Sheffler
 date: 2022-11-04
 layout: paper
-pdf: http://dtsheffler.com/pdfs/Homo-Colens.pdf
+pdf: http://dtsheffler.com/pdfs/The-Cultivating-Animal.pdf
 featured: true
 ---
 
-## Homo Colens ##
+## The Cultivating Animal ##
 
 
 
