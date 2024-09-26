@@ -24,8 +24,8 @@ pandoc:
       categories: false
     imposition: false
     binder: false
-    flags: '-f markdown+smart --citeproc --bibliography=C:\\Users\\daniel.sheffler\\OneDrive\\Jabref\\mybib.bib --csl=C:\\Users\\daniel.sheffler\\OneDrive\\Pandoc\\default.csl'
-    site-flags: '-f markdown+smart --citeproc --bibliography=C:\\Users\\daniel.sheffler\\OneDrive\\Jabref\\mybib.bib --csl=C:\\Users\\daniel.sheffler\\OneDrive\\Pandoc\\default.csl'
+    flags: '-f markdown+smart --citeproc --bibliography=C:\\Users\\Dan\\OneDrive\\Jabref\\mybib.bib --csl=C:\\Users\\Dan\\OneDrive\\Pandoc\\default.csl'
+    site-flags: '-f markdown+smart --citeproc --bibliography=C:\\Users\\Dan\\OneDrive\\Jabref\\mybib.bib --csl=C:\\Users\\Dan\\OneDrive\\Pandoc\\default.csl'
 markdown_ext:   markdown,mkdown,mkdn,mkd,md
 permalink:      /notebook/:year-:month-:day-:title/
 encoding:       utf-8

@@ -11,7 +11,7 @@ permalink: /cv/
 
 ## D.T. Sheffler ##
 
-- Professor of Philosophy, Memoria College.
+- Dean of Academics and Professor of Philosophy, Memoria College.
 - Associated Scholar, Hildebrand Project.
 
 
@@ -34,6 +34,8 @@ permalink: /cv/
 
 ## Scholarly Publications ###
 
+*Plato and Christian Personalism*, Hildebrand Press (forthcoming).
+
 "Is the True Self God at *Alcibiades* 133c?" *The International Journal of the Platonic Tradition*, June 2022. Available [here](https://www.dtsheffler.com/pdfs/Alcibiades.pdf).
 
 "Ethics by Dietrich von Hildebrand" (review), *The Review of Metaphysics*, Volume 75, Number 2, December 2021.  Available [here](https://muse.jhu.edu/article/839043).
@@ -51,9 +53,11 @@ permalink: /cv/
 "The Metaphysics of Personhood in Plato's Dialogues" (doctoral dissertation, University of Kentucky, 2017), doi: 10.13023/ETD.2017.142.  Available [here](http://uknowledge.uky.edu/philosophy_etds/16/).
 
 
-## Popular Essays ##
+## Popular Publications ##
 
-"*Home Colens*," *Meliora* (forthcoming).
+"The Cultivating Animal," *Meliora*, 2024.
+
+"Use Your Nice Things," *The Classical Teacher*, Summer 2024.
 
 "Libraries and Laboratories," *The Classical Teacher*, Summer 2023.
 
@@ -78,13 +82,15 @@ permalink: /cv/
 
 ## Invited Talks ###
 
+"The Socratic Method," Memoria College Conference, July 2024.
+
 "The Shining World: Introduction to the Philosophy of Dietrich von Hildebrand," Immaculata Classical Academy, Louisville, October 2023.
 
 "Mediating Institutions and Hildebrandian Value Response," Dallas Willard and Dietrich von Hildebrand Colloquium, Santa Barbara, June 2023.
 
-"The School of Regrets: Getting the Education that You Missed," Midwest Homeschool Convention, Cincinnati, April 2021.
+"The School of Regrets: Getting the Education that You Missed," Midwest Homeschool Convention, Cincinnati, April 2021, 2022, 2023, 2024.
 
-"Hero Knight Saint: The Development of Virtue," Midwest Homeschool Convention, Cincinnati, April 2021.
+"Hero Knight Saint: The Development of Virtue," Midwest Homeschool Convention, Cincinnati, April 2021, 2023.
 
 "Blood Sacrifice and Idolatry: Why Include the Pagans in a Christian Curriculum," Midwest Homeschool Convention, Cincinnati, April 2021.
 
@@ -145,19 +151,23 @@ Research grant from University of Kentucky Eureka fund ($2,000), 2006.
 
 ### Memoria College ###
 
-Introduction to the Liberal Arts, Fall 2020, 2021, 2022.
+The Education of a Free Man: Introduction to the Liberal Arts, Fall 2020, 2021, 2022, 2023, 2024.
+
+Mind and Reality: Metaphysics and Epistemology, Fall 2022, Spring 2024
+
+The Gadfly of Athens: The Character of Socrates, Fall 2023.
+
+Man in Society: The Development of Political Theory, Spring 2021, 2023.
+
+Get the Wisdom: The Virtues and Methods of Learning Summer 2021, 2022, 2023.
 
 The Existence of God, Summer 2022.
-
-How to Learn, Summer 2021, 2022.
 
 Ethics, Spring 2022.
 
 Introduction to the Great Books, Summer 2021.
 
-Political Philosophy, Spring 2021.
-
-Church Fathers five-Week intensive, Spring 2021.
+Church Fathers, Spring 2021.
 
 
 ### Georgetown College ######
@@ -207,11 +217,11 @@ Medical Terminology (on-line course), Summer 2010.
 
 ### Memoria Press Online Academy ####
 
-Christian Latin (reading course). 2021--2022.
+Christian Latin (reading course). 2021--2025.
 
-Latin I and II.  2021--2022.
+Latin I and II.  2021--2025.
 
-Classical Studies.  2021--2022.
+Classical Studies.  2021--2025.
 
 
 

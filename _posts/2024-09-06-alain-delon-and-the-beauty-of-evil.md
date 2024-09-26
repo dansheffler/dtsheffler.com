@@ -47,7 +47,7 @@ According to the dour-faced religion, beautiful things are always suspicious.  B
 
 Such a view leans heavily on the contrast between *seeming* and *being*.  We all know that appearances can be deceptive and that Delon's pretty face and winsome smile might conceal murderous intent.  But the dour-face folks take the appearance of something as conclusive evidence that the substantial core underneath *must* be rotten.  Beautiful appearances---just because they are beautiful---are always evil, and therefore a good core must always come with an ugly appearance.
 
-In defense of all these accusers of beauty, I call to witness one of my heroes, Hans Urs von Balthasar:
+In defense against all these accusers of beauty, I call to witness one of my heroes, Hans Urs von Balthasar:
 
 > We no longer dare to believe in beauty and we make of it a mere
 > appearance in order the more easily to dispose of it.  Our
